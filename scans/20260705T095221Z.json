@@ -1,13 +1,12 @@
 {
   "schema": "projection.autoresearch.v1",
-  "generated_at": "2026-07-05T13:17:04.150277+00:00",
+  "generated_at": "2026-07-05T17:52:21.734473+08:00",
   "enabled": true,
   "mode": "detect_only",
   "read_only": false,
   "public_repo": "susyimes/auto4researh",
   "publish_public_repo": true,
   "cadence_hours": 4,
-  "max_publication_lag_hours": 24,
   "since_days": 7,
   "max_results_per_source": 6,
   "topics": [
@@ -23,173 +22,163 @@
   "items": [
     {
       "source": "github_pull_request",
-      "topic": "LLM agent",
-      "title": "M8: A-hub(LLM 슈퍼바이저 라우팅) 격리 측정 — A 결정론 동결의 정량 근거",
-      "url": "https://github.com/Maroco0109/Ddoksori/pull/100",
+      "topic": "multi agent",
+      "title": "fix(gallery): junk-URL cover filter, inline row carousel, wishlist project loader + parser extras",
+      "url": "https://github.com/archiboard/archiboard/pull/191",
       "state": "open",
-      "created_at": "2026-07-05T13:16:56Z",
-      "updated_at": "2026-07-05T13:16:56Z",
-      "repository_url": "https://api.github.com/repos/Maroco0109/Ddoksori"
-    },
-    {
-      "source": "github_pull_request",
-      "topic": "LLM agent",
-      "title": "fix(sync): v2026.4.26 D.7 follow-up — dropped-fix ports + brand remediation",
-      "url": "https://github.com/remoteclaw/remoteclaw/pull/2813",
-      "state": "open",
-      "created_at": "2026-07-05T13:16:47Z",
-      "updated_at": "2026-07-05T13:16:47Z",
-      "repository_url": "https://api.github.com/repos/remoteclaw/remoteclaw"
-    },
-    {
-      "source": "github_pull_request",
-      "topic": "agent memory",
-      "title": "MAG-US-001: Integrate animated Magna identity product story",
-      "url": "https://github.com/MightyM-ouse/magna-enso/pull/55",
-      "state": "open",
-      "created_at": "2026-07-05T13:16:43Z",
-      "updated_at": "2026-07-05T13:16:43Z",
-      "repository_url": "https://api.github.com/repos/MightyM-ouse/magna-enso"
-    },
-    {
-      "source": "github_pull_request",
-      "topic": "agent memory",
-      "title": "Phase 3 PR1: Midnight Command design system + Mission Control dashboard",
-      "url": "https://github.com/jerkean2139/Donna-V7/pull/37",
-      "state": "open",
-      "created_at": "2026-07-05T13:16:27Z",
-      "updated_at": "2026-07-05T13:16:27Z",
-      "repository_url": "https://api.github.com/repos/jerkean2139/Donna-V7"
+      "created_at": "2026-07-05T09:52:12Z",
+      "updated_at": "2026-07-05T09:52:36Z",
+      "repository_url": "https://api.github.com/repos/archiboard/archiboard"
     },
     {
       "source": "github_pull_request",
       "topic": "multi agent",
-      "title": "feat(core): streaming chat sessions (openChatSession) for slash commands + interrupt",
-      "url": "https://github.com/edspencer/herdctl/pull/286",
+      "title": "chore(deps-dev): bump the dev-dependencies group across 1 directory with 23 updates",
+      "url": "https://github.com/marmottajr/dontpanic/pull/14",
       "state": "open",
-      "created_at": "2026-07-05T13:16:26Z",
-      "updated_at": "2026-07-05T13:16:43Z",
-      "repository_url": "https://api.github.com/repos/edspencer/herdctl"
-    },
-    {
-      "source": "github_pull_request",
-      "topic": "agent memory",
-      "title": "Scheduled weekly dependency update for week 27",
-      "url": "https://github.com/JeffValenti/SME/pull/360",
-      "state": "open",
-      "created_at": "2026-07-05T13:16:14Z",
-      "updated_at": "2026-07-05T13:16:14Z",
-      "repository_url": "https://api.github.com/repos/JeffValenti/SME"
-    },
-    {
-      "source": "github_pull_request",
-      "topic": "multi agent",
-      "title": "Nouvelle skill grech — recherche approfondie multi-agents (+ trigger DNA-CC-CORE v2.9)",
-      "url": "https://github.com/pignol-g/claude-os/pull/24",
-      "state": "open",
-      "created_at": "2026-07-05T13:16:06Z",
-      "updated_at": "2026-07-05T13:16:06Z",
-      "repository_url": "https://api.github.com/repos/pignol-g/claude-os"
-    },
-    {
-      "source": "github_pull_request",
-      "topic": "agent memory",
-      "title": "Enhance README with l00prite description",
-      "url": "https://github.com/jackofall1232/l00prite/pull/23",
-      "state": "open",
-      "created_at": "2026-07-05T13:15:57Z",
-      "updated_at": "2026-07-05T13:16:54Z",
-      "repository_url": "https://api.github.com/repos/jackofall1232/l00prite"
-    },
-    {
-      "source": "github_pull_request",
-      "topic": "multi agent",
-      "title": "feat(subagent): add subagent_pipeline() for staged fan-out with no barrier (#554)",
-      "url": "https://github.com/gptme/gptme/pull/3110",
-      "state": "open",
-      "created_at": "2026-07-05T13:15:53Z",
-      "updated_at": "2026-07-05T13:15:53Z",
-      "repository_url": "https://api.github.com/repos/gptme/gptme"
-    },
-    {
-      "source": "github_pull_request",
-      "topic": "agent memory",
-      "title": "Add protected admin local UAT checklist",
-      "url": "https://github.com/Swooshz-com/spacekonceptrental/pull/268",
-      "state": "open",
-      "created_at": "2026-07-05T13:15:52Z",
-      "updated_at": "2026-07-05T13:15:52Z",
-      "repository_url": "https://api.github.com/repos/Swooshz-com/spacekonceptrental"
-    },
-    {
-      "source": "github_pull_request",
-      "topic": "multi agent",
-      "title": "feat(tasks): fence close on a claim-time work digest (rail-awareness L2)",
-      "url": "https://github.com/FRIKKern/barkpark/pull/1146",
-      "state": "open",
-      "created_at": "2026-07-05T13:15:43Z",
-      "updated_at": "2026-07-05T13:16:01Z",
-      "repository_url": "https://api.github.com/repos/FRIKKern/barkpark"
+      "created_at": "2026-07-05T09:52:06Z",
+      "updated_at": "2026-07-05T09:52:07Z",
+      "repository_url": "https://api.github.com/repos/marmottajr/dontpanic"
     },
     {
       "source": "github_pull_request",
       "topic": "LLM agent",
-      "title": "feat(conversations): eval-driven boundary + memory overhaul — live-session pivots, rolling summaries, staleness sweep, memo supersession",
-      "url": "https://github.com/threahq/threa/pull/1187",
+      "title": "refactor(run-inner): split ReAct loop into 7 phase helpers (P1-1)",
+      "url": "https://github.com/jeffkit/recursive/pull/8",
       "state": "open",
-      "created_at": "2026-07-05T13:15:39Z",
-      "updated_at": "2026-07-05T13:16:02Z",
-      "repository_url": "https://api.github.com/repos/threahq/threa"
+      "created_at": "2026-07-05T09:51:59Z",
+      "updated_at": "2026-07-05T09:51:59Z",
+      "repository_url": "https://api.github.com/repos/jeffkit/recursive"
     },
     {
       "source": "github_pull_request",
       "topic": "LLM agent",
-      "title": "chore(notifier): deprecate 5 kind-specific delete_* tools → delete_resource",
-      "url": "https://github.com/bilbilmyc/k8s-mcp/pull/11",
+      "title": "chore(nix): update llm-agents (amp 0.0.1783210749-gf754af → 0.0.1783228622-g9b591b)",
+      "url": "https://github.com/11gather11/dotfiles/pull/887",
       "state": "open",
-      "created_at": "2026-07-05T13:14:32Z",
-      "updated_at": "2026-07-05T13:14:32Z",
-      "repository_url": "https://api.github.com/repos/bilbilmyc/k8s-mcp"
+      "created_at": "2026-07-05T09:51:58Z",
+      "updated_at": "2026-07-05T09:51:58Z",
+      "repository_url": "https://api.github.com/repos/11gather11/dotfiles"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "multi agent",
+      "title": "Fix UTF-8 slicing panics, glob completion detection, and checkbox case handling",
+      "url": "https://github.com/jyjeanne/solidspec/pull/14",
+      "state": "open",
+      "created_at": "2026-07-05T09:51:53Z",
+      "updated_at": "2026-07-05T09:51:53Z",
+      "repository_url": "https://api.github.com/repos/jyjeanne/solidspec"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "agent memory",
+      "title": "fix(agents/memory): Make stale context pruning less aggressive",
+      "url": "https://github.com/onehumancorp/mono/pull/32795",
+      "state": "open",
+      "created_at": "2026-07-05T09:51:50Z",
+      "updated_at": "2026-07-05T09:51:51Z",
+      "repository_url": "https://api.github.com/repos/onehumancorp/mono"
     },
     {
       "source": "github_pull_request",
       "topic": "LLM agent",
-      "title": "OPS: disable exhausted Agora worker lanes",
-      "url": "https://github.com/ajoe734/pantheon/pull/3022",
+      "title": "chore(nix): update flake input llm-agents to 22f1080f",
+      "url": "https://github.com/ryoppippi/dotfiles/pull/4874",
+      "state": "open",
+      "created_at": "2026-07-05T09:51:38Z",
+      "updated_at": "2026-07-05T09:51:58Z",
+      "repository_url": "https://api.github.com/repos/ryoppippi/dotfiles"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "LLM agent",
+      "title": "fix: security audit and vulnerability fixes",
+      "url": "https://github.com/Aftab48/Haemologix/pull/89",
+      "state": "open",
+      "created_at": "2026-07-05T09:51:33Z",
+      "updated_at": "2026-07-05T09:51:41Z",
+      "repository_url": "https://api.github.com/repos/Aftab48/Haemologix"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "agent memory",
+      "title": "Add JARVIS personal assistant with Second Brain and live research",
+      "url": "https://github.com/VishalVikram/youtube-automation-agent/pull/1",
+      "state": "open",
+      "created_at": "2026-07-05T09:51:21Z",
+      "updated_at": "2026-07-05T09:51:21Z",
+      "repository_url": "https://api.github.com/repos/VishalVikram/youtube-automation-agent"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "agent memory",
+      "title": "TAC-2: full-system second pass + burn-down A2/A4/A6/A13/A12/A3",
+      "url": "https://github.com/Balizero1987/Teman2/pull/1969",
+      "state": "open",
+      "created_at": "2026-07-05T09:51:19Z",
+      "updated_at": "2026-07-05T09:52:38Z",
+      "repository_url": "https://api.github.com/repos/Balizero1987/Teman2"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "agent memory",
+      "title": "chore: update",
+      "url": "https://github.com/5throck/ai-workspace-standards/pull/376",
+      "state": "open",
+      "created_at": "2026-07-05T09:51:15Z",
+      "updated_at": "2026-07-05T09:51:15Z",
+      "repository_url": "https://api.github.com/repos/5throck/ai-workspace-standards"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "multi agent",
+      "title": "docs(rfc): holder liveness and manual specialists",
+      "url": "https://github.com/M8Shift/M8Shift/pull/46",
+      "state": "open",
+      "created_at": "2026-07-05T09:50:50Z",
+      "updated_at": "2026-07-05T09:50:50Z",
+      "repository_url": "https://api.github.com/repos/M8Shift/M8Shift"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "agent memory",
+      "title": "Multagent",
+      "url": "https://github.com/gurugaurav/travel_ai_agent/pull/1",
       "state": "closed",
-      "created_at": "2026-07-05T13:14:30Z",
-      "updated_at": "2026-07-05T13:16:00Z",
-      "repository_url": "https://api.github.com/repos/ajoe734/pantheon"
+      "created_at": "2026-07-05T09:50:40Z",
+      "updated_at": "2026-07-05T09:52:07Z",
+      "repository_url": "https://api.github.com/repos/gurugaurav/travel_ai_agent"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "agent memory",
+      "title": "Engine self-review digest (2026-07-05)",
+      "url": "https://github.com/StarshipSuperjam/engine-template/pull/365",
+      "state": "open",
+      "created_at": "2026-07-05T09:50:37Z",
+      "updated_at": "2026-07-05T09:50:37Z",
+      "repository_url": "https://api.github.com/repos/StarshipSuperjam/engine-template"
     },
     {
       "source": "github_pull_request",
       "topic": "LLM agent",
-      "title": "SEL-336: Extension sourcing overlay — Amazon/Walmart on-page analysis, verdicts & watchlist capture",
-      "url": "https://github.com/nsgreenw/selleraide/pull/304",
+      "title": "docs(security): add oss-security@lists.openwall.com to announcement checklist",
+      "url": "https://github.com/apache/magpie/pull/749",
       "state": "open",
-      "created_at": "2026-07-05T13:14:25Z",
-      "updated_at": "2026-07-05T13:15:27Z",
-      "repository_url": "https://api.github.com/repos/nsgreenw/selleraide"
+      "created_at": "2026-07-05T09:50:09Z",
+      "updated_at": "2026-07-05T09:50:30Z",
+      "repository_url": "https://api.github.com/repos/apache/magpie"
     },
     {
       "source": "github_pull_request",
-      "topic": "neuroscience AI",
-      "title": "Fix stale-cache bug, then add 3 tests, 2 tools, 2 games, data export, and professional charts",
-      "url": "https://github.com/ErikaaBrown/ErikaaBrown.github.io/pull/11",
-      "state": "closed",
-      "created_at": "2026-07-05T10:51:15Z",
-      "updated_at": "2026-07-05T11:40:48Z",
-      "repository_url": "https://api.github.com/repos/ErikaaBrown/ErikaaBrown.github.io"
-    },
-    {
-      "source": "github_pull_request",
-      "topic": "neuroscience AI",
-      "title": "Add psychology/marketing claim audit routine: power posing",
-      "url": "https://github.com/sourovdeb/free_education/pull/34",
+      "topic": "LLM agent",
+      "title": "feat(bio): add six intelligentsia BIO seminar plans (bio-345..350)",
+      "url": "https://github.com/learn-ukrainian/learn-ukrainian.github.io/pull/4389",
       "state": "open",
-      "created_at": "2026-07-05T10:09:43Z",
-      "updated_at": "2026-07-05T10:17:27Z",
-      "repository_url": "https://api.github.com/repos/sourovdeb/free_education"
+      "created_at": "2026-07-05T09:49:42Z",
+      "updated_at": "2026-07-05T09:49:42Z",
+      "repository_url": "https://api.github.com/repos/learn-ukrainian/learn-ukrainian.github.io"
     },
     {
       "source": "github_pull_request",
@@ -230,6 +219,26 @@
       "created_at": "2026-07-05T05:09:30Z",
       "updated_at": "2026-07-05T05:31:16Z",
       "repository_url": "https://api.github.com/repos/hiyenwong/ai_collection"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "neuroscience AI",
+      "title": "Add psychology/marketing claim audit routine: power posing",
+      "url": "https://github.com/sourovdeb/free_education/pull/28",
+      "state": "open",
+      "created_at": "2026-07-05T02:13:06Z",
+      "updated_at": "2026-07-05T02:13:06Z",
+      "repository_url": "https://api.github.com/repos/sourovdeb/free_education"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "neuroscience AI",
+      "title": "Add psychology/mental-health claim audit routine (antidepressant efficacy)",
+      "url": "https://github.com/sourovdeb/free_education/pull/27",
+      "state": "open",
+      "created_at": "2026-07-05T01:10:53Z",
+      "updated_at": "2026-07-05T01:10:53Z",
+      "repository_url": "https://api.github.com/repos/sourovdeb/free_education"
     },
     {
       "source": "github_repository",
@@ -614,8 +623,8 @@
       "url": "https://github.com/uzairansaruzi/hermex",
       "description": "Native iPhone app for your Hermes agent",
       "created_at": "2026-07-02T12:47:31Z",
-      "updated_at": "2026-07-05T13:13:27Z",
-      "stars": 588,
+      "updated_at": "2026-07-05T08:23:55Z",
+      "stars": 577,
       "language": "Swift"
     },
     {
@@ -680,29 +689,18 @@
       "updated_at": "2026-07-03T18:12:05Z",
       "stars": 5,
       "language": "Python"
-    },
-    {
-      "source": "github_repository",
-      "topic": "multi agent framework",
-      "title": "dungnotnull/multicloud-finops-optimizer-agent-skill",
-      "url": "https://github.com/dungnotnull/multicloud-finops-optimizer-agent-skill",
-      "description": "💸 An automated FinOps auditor. Analyzes multi-cloud spend, detects waste, and builds optimization roadmaps using the FinOps Foundation framework. ☁️📉",
-      "created_at": "2026-06-30T16:15:42Z",
-      "updated_at": "2026-07-03T02:22:35Z",
-      "stars": 2,
-      "language": "Python"
     }
   ],
   "errors": [],
   "counts": {
     "arxiv": 30,
     "github_repositories": 24,
-    "github_pull_requests": 21,
+    "github_pull_requests": 22,
     "items": 48,
     "errors": 0
   },
   "public_repo_publish": {
-    "scan_json": "scans/20260705T131704Z.json",
-    "scan_markdown": "scans/20260705T131704Z.md"
+    "scan_json": "scans\\20260705T095221Z.json",
+    "scan_markdown": "scans\\20260705T095221Z.md"
   }
 }
