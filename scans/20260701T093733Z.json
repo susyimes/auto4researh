@@ -1,6 +1,6 @@
 {
   "schema": "projection.autoresearch.v1",
-  "generated_at": "2026-07-01T09:37:33.717001+00:00",
+  "generated_at": "2026-07-01T17:37:33.717001+08:00",
   "enabled": true,
   "mode": "detect_only",
   "read_only": false,
@@ -693,7 +693,6 @@
     "errors": 0
   },
   "public_repo_publish": {
-    "checkout_dir": "D:\\auto4researh",
     "scan_json": "scans\\20260701T093733Z.json",
     "scan_markdown": "scans\\20260701T093733Z.md"
   }
