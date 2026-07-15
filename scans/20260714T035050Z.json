@@ -1,0 +1,712 @@
+{
+  "schema": "projection.autoresearch.v1",
+  "generated_at": "2026-07-14T03:50:50.470288+00:00",
+  "enabled": true,
+  "mode": "detect_only",
+  "read_only": false,
+  "public_repo": "susyimes/auto4researh",
+  "publish_public_repo": true,
+  "cadence_hours": 4,
+  "max_publication_lag_hours": 24,
+  "since_days": 7,
+  "max_results_per_source": 6,
+  "topics": [
+    "neuroscience",
+    "brain science",
+    "large language models",
+    "LLM agents",
+    "agent memory",
+    "agent self-improvement"
+  ],
+  "skipped": false,
+  "skip_reason": null,
+  "items": [
+    {
+      "source": "github_pull_request",
+      "topic": "LLM agent",
+      "title": "feat(runtime): M2.2 GameRunner 编排层 — PlayerPort/超时代打/按视角广播（stacked on #33）",
+      "url": "https://github.com/gangtao/AgentHowl/pull/36",
+      "state": "open",
+      "created_at": "2026-07-14T03:51:04Z",
+      "updated_at": "2026-07-14T03:51:04Z",
+      "repository_url": "https://api.github.com/repos/gangtao/AgentHowl"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "LLM agent",
+      "title": "Metrics overhaul S1: strip ACWR injury/zone framing, keep raw ramp rate",
+      "url": "https://github.com/ahorn885/exercise/pull/1440",
+      "state": "open",
+      "created_at": "2026-07-14T03:51:00Z",
+      "updated_at": "2026-07-14T03:51:06Z",
+      "repository_url": "https://api.github.com/repos/ahorn885/exercise"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "agent memory",
+      "title": "docs(O-2527): playbook anchor_date + link_url responses; get_team_info sharpening",
+      "url": "https://github.com/ccromp/marcora-mcp/pull/12",
+      "state": "open",
+      "created_at": "2026-07-14T03:50:47Z",
+      "updated_at": "2026-07-14T03:50:47Z",
+      "repository_url": "https://api.github.com/repos/ccromp/marcora-mcp"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "agent memory",
+      "title": "fix(tools): auto-recover cwd for folders outside the file sandbox",
+      "url": "https://github.com/cremind-ai/cremind/pull/85",
+      "state": "open",
+      "created_at": "2026-07-14T03:50:36Z",
+      "updated_at": "2026-07-14T03:50:36Z",
+      "repository_url": "https://api.github.com/repos/cremind-ai/cremind"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "LLM agent",
+      "title": "docs: heading for the LLM agent example in the quickstart",
+      "url": "https://github.com/robocurve/inspect-robots/pull/63",
+      "state": "open",
+      "created_at": "2026-07-14T03:50:24Z",
+      "updated_at": "2026-07-14T03:50:24Z",
+      "repository_url": "https://api.github.com/repos/robocurve/inspect-robots"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "multi agent",
+      "title": " feat(chat): turn order, a real /esc, /compact, and code highlighting",
+      "url": "https://github.com/m62624/pi-telegram-manager/pull/12",
+      "state": "open",
+      "created_at": "2026-07-14T03:50:10Z",
+      "updated_at": "2026-07-14T03:50:10Z",
+      "repository_url": "https://api.github.com/repos/m62624/pi-telegram-manager"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "agent memory",
+      "title": "Erase vault plaintext after request use",
+      "url": "https://github.com/agentsfleet/agentsfleet/pull/518",
+      "state": "open",
+      "created_at": "2026-07-14T03:50:07Z",
+      "updated_at": "2026-07-14T03:50:18Z",
+      "repository_url": "https://api.github.com/repos/agentsfleet/agentsfleet"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "multi agent",
+      "title": "feat(suref-web): filter abilities by tree",
+      "url": "https://github.com/SalvageUnion-io/SU-SRD/pull/459",
+      "state": "open",
+      "created_at": "2026-07-14T03:49:51Z",
+      "updated_at": "2026-07-14T03:50:41Z",
+      "repository_url": "https://api.github.com/repos/SalvageUnion-io/SU-SRD"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "LLM agent",
+      "title": "chore: register active claim for worker-agent dispatch + llm-cache audit",
+      "url": "https://github.com/FChecklist/compliance-tracker/pull/304",
+      "state": "open",
+      "created_at": "2026-07-14T03:49:42Z",
+      "updated_at": "2026-07-14T03:49:45Z",
+      "repository_url": "https://api.github.com/repos/FChecklist/compliance-tracker"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "multi agent",
+      "title": "rollout: subtract agent-reported tool time from throughput accounting",
+      "url": "https://github.com/radixark/miles/pull/1663",
+      "state": "open",
+      "created_at": "2026-07-14T03:49:42Z",
+      "updated_at": "2026-07-14T03:50:50Z",
+      "repository_url": "https://api.github.com/repos/radixark/miles"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "agent memory",
+      "title": "Make troubleshooting cover the failures people actually hit",
+      "url": "https://github.com/microsoft/azure-sql-database-container/pull/89",
+      "state": "closed",
+      "created_at": "2026-07-14T03:49:34Z",
+      "updated_at": "2026-07-14T03:49:40Z",
+      "repository_url": "https://api.github.com/repos/microsoft/azure-sql-database-container"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "agent memory",
+      "title": "feat(backends): add opencode2 HTTP-API harness adapter",
+      "url": "https://github.com/kunchenguid/firstmate/pull/544",
+      "state": "open",
+      "created_at": "2026-07-14T03:49:33Z",
+      "updated_at": "2026-07-14T03:49:33Z",
+      "repository_url": "https://api.github.com/repos/kunchenguid/firstmate"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "LLM agent",
+      "title": "Bump the pip group across 1 directory with 3 updates",
+      "url": "https://github.com/lcretan/oneil512.INSIGHT/pull/1",
+      "state": "open",
+      "created_at": "2026-07-14T03:49:21Z",
+      "updated_at": "2026-07-14T03:49:21Z",
+      "repository_url": "https://api.github.com/repos/lcretan/oneil512.INSIGHT"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "LLM agent",
+      "title": "feat(sqlite): preserve turn recall boundaries",
+      "url": "https://github.com/pax-beehive/paxm/pull/29",
+      "state": "closed",
+      "created_at": "2026-07-14T03:48:48Z",
+      "updated_at": "2026-07-14T03:50:08Z",
+      "repository_url": "https://api.github.com/repos/pax-beehive/paxm"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "multi agent",
+      "title": "SDLC fork/supervisor hardening: single-owner lease, in-turn stage work, verdict-gated routing, revision-latch fix, docs-fork guard (umbrella #2026)",
+      "url": "https://github.com/tomcounsell/ai/pull/2076",
+      "state": "open",
+      "created_at": "2026-07-14T03:48:34Z",
+      "updated_at": "2026-07-14T03:48:34Z",
+      "repository_url": "https://api.github.com/repos/tomcounsell/ai"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "multi agent",
+      "title": "chore(deps): bump the frontend-minor-patch group in /frontend with 15 updates",
+      "url": "https://github.com/AndersonBY/vector-vein/pull/79",
+      "state": "closed",
+      "created_at": "2026-07-14T03:48:34Z",
+      "updated_at": "2026-07-14T03:49:18Z",
+      "repository_url": "https://api.github.com/repos/AndersonBY/vector-vein"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "neuroscience AI",
+      "title": "post: your sentiment model can't tell a complaint from a goodbye",
+      "url": "https://github.com/TigreGotico/tigregotico-website/pull/11",
+      "state": "closed",
+      "created_at": "2026-07-13T21:10:44Z",
+      "updated_at": "2026-07-13T23:54:32Z",
+      "repository_url": "https://api.github.com/repos/TigreGotico/tigregotico-website"
+    },
+    {
+      "source": "arxiv",
+      "topic": "llm_reasoning",
+      "title": "Invariant Learning Dynamics of Transformers in Inductive Reasoning Tasks",
+      "url": "http://arxiv.org/abs/2607.11875v1",
+      "published_at": "2026-07-13T17:56:11Z",
+      "updated_at": "2026-07-13T17:56:11Z",
+      "authors": [
+        "Tiberiu Musat",
+        "Tiago Pimentel",
+        "Nicholas Zucchet",
+        "Thomas Hofmann"
+      ],
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ],
+      "summary": "We present a theoretical framework to explain the emergence of inductive reasoning abilities in Transformer language models. While previous works on Transformer learning dynamics have so far been mostly tied to specific tasks, we study a generalized class of inductive tasks that unifies several synthetic tasks known in the literature, including in-context n-grams and multi-hop reasoning. In this class, we theoreti..."
+    },
+    {
+      "source": "arxiv",
+      "topic": "llm_reasoning",
+      "title": "Evidence-Backed Video Question Answering",
+      "url": "http://arxiv.org/abs/2607.11862v1",
+      "published_at": "2026-07-13T17:49:10Z",
+      "updated_at": "2026-07-13T17:49:10Z",
+      "authors": [
+        "Shijie Wang",
+        "Honglu Zhou",
+        "Ziyang Wang",
+        "Ran Xu",
+        "Caiming Xiong",
+        "Silvio Savarese"
+      ],
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "summary": "Current Video Large Language Models (Video LLMs) excel in question answering (QA) but largely operate as black boxes, providing textual answers without verifiable visual grounding. Existing explainability efforts rely on textual rationales or sparse bounding boxes, which struggle to capture complex video dynamics such as occlusions and non-rigid deformations. We propose Evidence-Backed Video Question Answering (E-..."
+    },
+    {
+      "source": "arxiv",
+      "topic": "llm_agents",
+      "title": "Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers?",
+      "url": "http://arxiv.org/abs/2607.11859v1",
+      "published_at": "2026-07-13T17:45:58Z",
+      "updated_at": "2026-07-13T17:45:58Z",
+      "authors": [
+        "Nishant Aggarwal",
+        "Ayushi Dubal",
+        "Sreeraj Kannakarankodi",
+        "Ian McDougall",
+        "Adarsh Mittal",
+        "Vishnu Ramadas"
+      ],
+      "categories": [
+        "cs.CY",
+        "cs.AR",
+        "cs.MA"
+      ],
+      "summary": "Can large language models perform deep technical comprehension of computer architecture papers -- not summarization, but structured critique that names the core mechanism, surfaces buried assumptions, and connects a contribution beyond its own scope? We study Gauntlet, an open-source pipeline that analyzes a paper through five independent expert-persona reviewers and an adversarial synthesis stage. On 20 ISCA 2025..."
+    },
+    {
+      "source": "arxiv",
+      "topic": "llm_reasoning",
+      "title": "AdvancedMathBench: A Benchmark Suite for Advanced Mathematical Proof Generation and Verification",
+      "url": "http://arxiv.org/abs/2607.11849v1",
+      "published_at": "2026-07-13T17:38:22Z",
+      "updated_at": "2026-07-13T17:38:22Z",
+      "authors": [
+        "Lingkai Kong",
+        "Zijian Wu",
+        "Yuzhe Gu",
+        "Haiteng Zhao",
+        "Wenyong Huang",
+        "Shuang Sun"
+      ],
+      "categories": [
+        "cs.CL"
+      ],
+      "summary": "Large language models (LLMs) have achieved remarkable performance on high-school and olympiad-style mathematics, yet their capabilities on advanced mathematics remain poorly understood. Existing benchmarks, however, fall short in both scope and evaluation granularity: they provide limited disciplinary coverage and often rely on final-answer correctness or coarse judgments, leaving the validity of the reasoning pro..."
+    },
+    {
+      "source": "arxiv",
+      "topic": "llm_agents",
+      "title": "Beyond the Single Camera: Agentic Multi-View Reasoning in Sports Video Understanding",
+      "url": "http://arxiv.org/abs/2607.11844v1",
+      "published_at": "2026-07-13T17:34:36Z",
+      "updated_at": "2026-07-13T17:34:36Z",
+      "authors": [
+        "Kerui Chen",
+        "Jinglu Wang",
+        "Xiaoyi Zhang",
+        "Yan Lu"
+      ],
+      "categories": [
+        "cs.CV"
+      ],
+      "summary": "Recent Multimodal Large Language Models (MLLMs) achieve strong performance on single-view video understanding benchmarks. However, sports videos involve dense occlusion, rapid motion, and complex interactions that are difficult to resolve from a single viewpoint. In practice, sports events are recorded from multiple camera angles, providing complementary evidence used by referees. Yet, no existing benchmark evalua..."
+    },
+    {
+      "source": "arxiv",
+      "topic": "agent_memory",
+      "title": "Forgetting Our Way to Shared Meaning: Effects of Forgetting on Conceptual Alignment in a Non-Partnership Coordination Game",
+      "url": "http://arxiv.org/abs/2607.11787v1",
+      "published_at": "2026-07-13T16:37:17Z",
+      "updated_at": "2026-07-13T16:37:17Z",
+      "authors": [
+        "Landon Liu",
+        "Mary Kelly",
+        "Alan Tsang"
+      ],
+      "categories": [
+        "cs.MA",
+        "cs.CL",
+        "cs.GT",
+        "cs.HC"
+      ],
+      "summary": "Shared meaning in language requires people to learn and agree on categories. We ask how characteristics of agents' memories change the emergence and evolution of shared meaning. Without a coordination game, models of conceptual semantics cannot explain how shared meaning emerges and changes in groups of people; however, existing games assume that players share payoffs in a partnership setting. We model conceptual..."
+    },
+    {
+      "source": "arxiv",
+      "topic": "llm_agents",
+      "title": "When Local Monitors Miss Compositional Harm: Diagnosing Distributed Backdoors in Multi-Agent Systems",
+      "url": "http://arxiv.org/abs/2607.11751v1",
+      "published_at": "2026-07-13T16:08:46Z",
+      "updated_at": "2026-07-13T16:08:46Z",
+      "authors": [
+        "Yibo Hu",
+        "Ren Wang"
+      ],
+      "categories": [
+        "cs.CR",
+        "cs.LG",
+        "cs.MA"
+      ],
+      "summary": "As multi-agent, tool-using LLM systems are deployed, a common safety net is a runtime monitor that checks each message, tool call, or step on its own. We show this net has a fundamental hole. A distributed backdoor splits a harmful payload across agents, so every local check passes while the assembled object is the attack. The monitor can be right on every step and still miss the attack. The problem is not splitti..."
+    },
+    {
+      "source": "arxiv",
+      "topic": "llm_reasoning",
+      "title": "MET: Theory-Grounded and Culture-Aware Multilingual Moral Reasoning",
+      "url": "http://arxiv.org/abs/2607.11736v1",
+      "published_at": "2026-07-13T15:59:25Z",
+      "updated_at": "2026-07-13T15:59:25Z",
+      "authors": [
+        "Ayoung Lee",
+        "Ryan Kwon",
+        "Yunxiang Zhang",
+        "Yuxuan Liu",
+        "Peter Railton",
+        "Lu Wang"
+      ],
+      "categories": [
+        "cs.CL"
+      ],
+      "summary": "Language models are increasingly used for moral decision-making across diverse linguistic and cultural contexts, yet existing work overlooks multilinguality on three aspects: 1) multilingual evaluation benchmarks use direct translation, failing to adapt culture-specific items; 2) inference-time methods for moral reasoning rely on static, English-centric scaffolds and lack grounding in moral theory; 3) training met..."
+    },
+    {
+      "source": "arxiv",
+      "topic": "llm_reasoning",
+      "title": "JobHop v2: A Large-Scale Career Trajectory Dataset from Unstructured Resumes",
+      "url": "http://arxiv.org/abs/2607.11715v1",
+      "published_at": "2026-07-13T15:42:06Z",
+      "updated_at": "2026-07-13T15:42:06Z",
+      "authors": [
+        "Iman Johary",
+        "Guillaume Bied",
+        "Alexandru C. Mara",
+        "Tijl De Bie"
+      ],
+      "categories": [
+        "cs.CL"
+      ],
+      "summary": "Large-scale, richly annotated career trajectory data underpins workforce planning, job recommendation, and labour market analysis, yet publicly available datasets are either small, closed to independent use, or built from pre-standardized occupational codes with LLM-synthesized rather than authentic free text. We present JobHop~v2, an improved version of the publicly available JobHop dataset, constructed through e..."
+    },
+    {
+      "source": "arxiv",
+      "topic": "agent_memory",
+      "title": "An Explainable Agentic System for Detection of Conversational Scams with Summary-Based Memory",
+      "url": "http://arxiv.org/abs/2607.11707v1",
+      "published_at": "2026-07-13T15:36:19Z",
+      "updated_at": "2026-07-13T15:36:19Z",
+      "authors": [
+        "Ahmed Omar Salim Adnan",
+        "Yogananda Manjunath",
+        "Shivanjali Khare"
+      ],
+      "categories": [
+        "cs.MA",
+        "cs.AI",
+        "cs.CR",
+        "cs.HC"
+      ],
+      "summary": "Following the rapid progress of generative Artificial Intelligence, there is a growing threat posed by conversational scams. These scams often span over multiple weeks or months, gradually build trust and request for money or sensitive information. Existing scam-detection systems mainly focus on isolated messages, which renders them inadequate against this evolving threat. This paper extends single-message phishin..."
+    },
+    {
+      "source": "arxiv",
+      "topic": "llm_agents",
+      "title": "Agent Hacks Agent: Autoresearch for Production-Agent Red-Teaming",
+      "url": "http://arxiv.org/abs/2607.11698v1",
+      "published_at": "2026-07-13T15:31:04Z",
+      "updated_at": "2026-07-13T15:31:04Z",
+      "authors": [
+        "Xutao Mao",
+        "Xiang Zheng",
+        "Cong Wang"
+      ],
+      "categories": [
+        "cs.CR",
+        "cs.AI"
+      ],
+      "summary": "Production LLM agents such as Claude Code and Codex operate over untrusted content, files, commands, and workspace state, making safety failures directly actionable. Red-teaming must therefore keep pace with evolving models and tools. Existing approaches mainly optimize attack success and preserve artifacts such as benchmarks, payloads, or attack programs, which record where attacks succeed but not the enabling co..."
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "neuroscience AI",
+      "title": "feat(focusbro): add box-breathing guide — 17th research-grounded guide",
+      "url": "https://github.com/Latimer-Woods-Tech/focusbro/pull/68",
+      "state": "closed",
+      "created_at": "2026-07-13T14:55:07Z",
+      "updated_at": "2026-07-13T14:56:23Z",
+      "repository_url": "https://api.github.com/repos/Latimer-Woods-Tech/focusbro"
+    },
+    {
+      "source": "arxiv",
+      "topic": "llm_agents",
+      "title": "Reproducing human biases in route choice using large language models: Toward scalable behavioral modeling",
+      "url": "http://arxiv.org/abs/2607.11632v1",
+      "published_at": "2026-07-13T14:48:23Z",
+      "updated_at": "2026-07-13T14:48:23Z",
+      "authors": [
+        "Jiangtao Han",
+        "Shoufeng Ma",
+        "Shuxian Xu",
+        "Geng Li",
+        "Shuai Ling",
+        "Ning Jia"
+      ],
+      "categories": [
+        "cs.AI",
+        "cs.CL",
+        "cs.LG",
+        "cs.SI",
+        "physics.soc-ph"
+      ],
+      "summary": "Human choice behavior, including route choice, exhibits systematic behavioral biases that deviate from the assumptions of full rationality. Cumulative prospect theory (CPT) has been widely recognized as an effective framework for characterizing such behavioral patterns. However, its large-scale application, particularly in simulation and agent-based modeling, critically depends on specifying individual-level CPT p..."
+    },
+    {
+      "source": "arxiv",
+      "topic": "llm_agents",
+      "title": "Mizzle: A Complete Concurrent Incorrectness Logic for Preventing False Alarms in Agentic Bug Finding",
+      "url": "http://arxiv.org/abs/2607.11611v1",
+      "published_at": "2026-07-13T14:33:08Z",
+      "updated_at": "2026-07-13T14:33:08Z",
+      "authors": [
+        "Alexandre Moine",
+        "Sam Westrick",
+        "Joseph Tassarotti"
+      ],
+      "categories": [
+        "cs.PL"
+      ],
+      "summary": "Large language models are increasingly used to find bugs in real-world programs, but they also produce a flood of false alarms that waste developers' time. We propose a method to prevent these false alarms by requiring an LLM to accompany each bug report with a machine-checked proof, in a program logic, that the reported bug is real. We follow the approach of incorrectness logics, whose under-approximate reasoning..."
+    },
+    {
+      "source": "arxiv",
+      "topic": "agent_memory",
+      "title": "Learning Residual Kinematic Corrections for Continuous Neural Decoding via Reinforcement Learning",
+      "url": "http://arxiv.org/abs/2607.11530v1",
+      "published_at": "2026-07-13T13:15:18Z",
+      "updated_at": "2026-07-13T13:15:18Z",
+      "authors": [
+        "Jiamian Li",
+        "Niall McShane",
+        "Attila Korik",
+        "Naomi du Bois",
+        "Karl McCreadie",
+        "Leen Jabban"
+      ],
+      "categories": [
+        "cs.AI",
+        "cs.LG"
+      ],
+      "summary": "Decoding continuous three-dimensional (3D) motor imagery (MI) using non-invasive electroencephalography (EEG)-based brain--computer interfaces (BCIs) remains challenging due to signal variability and residual decoding errors. Deep learning architectures such as convolutional neural network--long short-term memory (CNN--LSTM) models can capture spatial and temporal dynamics for continuous kinematic decoding; howeve..."
+    },
+    {
+      "source": "arxiv",
+      "topic": "agent_memory",
+      "title": "Vinci2: Providing Proactive Assistance in Continuous Egocentric Videos",
+      "url": "http://arxiv.org/abs/2607.11523v1",
+      "published_at": "2026-07-13T13:09:45Z",
+      "updated_at": "2026-07-13T13:09:45Z",
+      "authors": [
+        "Gong Sitong",
+        "Tianyu Yan",
+        "Caixin Kang",
+        "Bo Zheng",
+        "Xiang Ruan",
+        "Huchuan Lu"
+      ],
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "summary": "When should an intelligent assistant speak up without being asked? Continuous egocentric video offers rich, evolving context that enables a new form of assistance: one that is proactive rather than merely reactive. Yet existing approaches either wait passively for user queries or treat every detected event as requiring a response, without considering the user's history, current activity, or whether assistance woul..."
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "neuroscience AI",
+      "title": "docs: correct standalone tool count to 50 + trim changelog",
+      "url": "https://github.com/cdeust/Cortex/pull/102",
+      "state": "closed",
+      "created_at": "2026-07-13T13:08:00Z",
+      "updated_at": "2026-07-13T14:12:55Z",
+      "repository_url": "https://api.github.com/repos/cdeust/Cortex"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "neuroscience AI",
+      "title": "Paper Scout: 2 additions, 0 updates",
+      "url": "https://github.com/KordingLab/awesome-computational-primatology/pull/49",
+      "state": "open",
+      "created_at": "2026-07-13T10:57:00Z",
+      "updated_at": "2026-07-13T10:57:00Z",
+      "repository_url": "https://api.github.com/repos/KordingLab/awesome-computational-primatology"
+    },
+    {
+      "source": "arxiv",
+      "topic": "agent_memory",
+      "title": "A Glimpse into Long-term Physical Coexistence with Intelligent Robots",
+      "url": "http://arxiv.org/abs/2607.11377v1",
+      "published_at": "2026-07-13T10:40:32Z",
+      "updated_at": "2026-07-13T10:40:32Z",
+      "authors": [
+        "Weiqi Jin",
+        "Peijun Tang",
+        "Kuncheng Luo",
+        "Baifu Huang",
+        "Binyan Sun",
+        "Haotian Yang"
+      ],
+      "categories": [
+        "cs.RO",
+        "cs.AI"
+      ],
+      "summary": "Long-term physical coexistence with intelligent robots requires more than capable robot policies. A persistent robotic assistant must support diverse user-facing interfaces, maintain long-horizon memory of people and preferences, coordinate across robot embodiments, and translate human intent into safe physical execution. We introduce PHILIA, a multi-robot agent built around a robot gateway abstraction. PHILIA ret..."
+    },
+    {
+      "source": "arxiv",
+      "topic": "agent_memory",
+      "title": "OpsMem: Dual-Memory Reasoning with Cross-Memory Resonance for Failure Diagnosis",
+      "url": "http://arxiv.org/abs/2607.11357v1",
+      "published_at": "2026-07-13T10:22:44Z",
+      "updated_at": "2026-07-13T10:22:44Z",
+      "authors": [
+        "Yongqian Sun",
+        "Rongchen Gao",
+        "Yu Luo",
+        "Wenwei Gu",
+        "Shenglin Zhang",
+        "Qingyi Guo"
+      ],
+      "categories": [
+        "cs.AI",
+        "cs.SE"
+      ],
+      "summary": "Failure diagnosis in modern software systems requires iterative evidence acquisition and hypothesis reasoning guided by operational experience. Existing LLM-based methods improve diagnosis through agentic reasoning or knowledge augmentation, but they often lack a mechanism to coordinate the evolving diagnostic state with operational experience during iterative diagnosis. We propose OpsMem, a dual-memory framework..."
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "neuroscience AI",
+      "title": "build(2026-07-13): CircuitLab — E Learning Aid",
+      "url": "https://github.com/gumfactor/Delightful-Nightly-Builds/pull/40",
+      "state": "open",
+      "created_at": "2026-07-13T08:32:34Z",
+      "updated_at": "2026-07-13T08:36:30Z",
+      "repository_url": "https://api.github.com/repos/gumfactor/Delightful-Nightly-Builds"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "neuroscience AI",
+      "title": "nb: the-world/2026-07-13 - Zelensky remakes his cabinet as oil spikes on a strait Iran says is shut",
+      "url": "https://github.com/RyanSaxe/the-nightly-build/pull/39",
+      "state": "closed",
+      "created_at": "2026-07-13T07:36:29Z",
+      "updated_at": "2026-07-13T07:36:58Z",
+      "repository_url": "https://api.github.com/repos/RyanSaxe/the-nightly-build"
+    },
+    {
+      "source": "arxiv",
+      "topic": "neuroscience_ai",
+      "title": "Fast Whole-Brain, Geometry-Aware Functional Alignment for Cross-Subject Decoding",
+      "url": "http://arxiv.org/abs/2607.10931v1",
+      "published_at": "2026-07-12T21:37:33Z",
+      "updated_at": "2026-07-12T21:37:33Z",
+      "authors": [
+        "Pierre-Louis Barbarant",
+        "Florent Meyniel",
+        "Bertrand Thirion"
+      ],
+      "categories": [
+        "q-bio.NC",
+        "cs.LG",
+        "stat.ML"
+      ],
+      "summary": "Decoding brain activity is useful for characterizing brain processes and understanding the functional architecture underlying cognition. However, the inter-individual variability in brain response patterns limits the development of decoders that generalize across individuals. A solution to this challenge is functional alignment: aligning functional data across individuals before training population-level decoders...."
+    },
+    {
+      "source": "github_repository",
+      "topic": "multi agent framework",
+      "title": "DavidEscotoDev/Framework",
+      "url": "https://github.com/DavidEscotoDev/Framework",
+      "description": "Coding Agent Framework — A production-grade multi-agent system for autonomous code generation, review, and testing.",
+      "created_at": "2026-07-12T17:18:45Z",
+      "updated_at": "2026-07-14T03:30:24Z",
+      "stars": 1,
+      "language": "Python"
+    },
+    {
+      "source": "arxiv",
+      "topic": "neuroscience_ai",
+      "title": "Emergent Generalization by Representation Learning in Artificial Neural Networks",
+      "url": "http://arxiv.org/abs/2607.10430v1",
+      "published_at": "2026-07-11T18:25:23Z",
+      "updated_at": "2026-07-11T18:25:23Z",
+      "authors": [
+        "Hardik Rajpal",
+        "Dan Goodman"
+      ],
+      "categories": [
+        "q-bio.NC",
+        "cs.IT",
+        "cs.LG",
+        "cs.NE",
+        "nlin.CD"
+      ],
+      "summary": "Dimensionality reduction has proven powerful for identifying neural manifolds, which are low-dimensional structures underlying high-dimensional neural activity. These low-dimensional representations have improved the interpretability of population-level coding. Yet whether such low-dimensional representations are biologically relevant and confer functional advantages in learning systems, or merely reflect neuron-l..."
+    },
+    {
+      "source": "github_repository",
+      "topic": "agent memory LLM",
+      "title": "ozankasikci/global-agent-memory",
+      "url": "https://github.com/ozankasikci/global-agent-memory",
+      "description": "Local-first, project-aware memory MCP server for Claude Code, Codex, and other AI agents, with Obsidian and an owner dashboard.",
+      "created_at": "2026-07-11T12:10:26Z",
+      "updated_at": "2026-07-13T20:11:57Z",
+      "stars": 10,
+      "language": "Python"
+    },
+    {
+      "source": "github_repository",
+      "topic": "LLM agent",
+      "title": "Alisa0808/vox-director",
+      "url": "https://github.com/Alisa0808/vox-director",
+      "description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
+      "created_at": "2026-07-10T15:32:05Z",
+      "updated_at": "2026-07-14T03:45:59Z",
+      "stars": 112,
+      "language": "Python"
+    },
+    {
+      "source": "github_repository",
+      "topic": "LLM agent",
+      "title": "loop-js/loop.js",
+      "url": "https://github.com/loop-js/loop.js",
+      "description": "A loop engineering framework — state a Goal; Rounds run until a skeptical, read-only Verify agent settles it.",
+      "created_at": "2026-07-10T10:59:54Z",
+      "updated_at": "2026-07-14T03:21:10Z",
+      "stars": 94,
+      "language": "TypeScript"
+    },
+    {
+      "source": "github_repository",
+      "topic": "multi agent framework",
+      "title": "Van-Brooks/mini-crew",
+      "url": "https://github.com/Van-Brooks/mini-crew",
+      "description": "Lightweight multi-agent framework — CrewAI-style orchestration + event-driven Flow engine, pure Python, MCP support.",
+      "created_at": "2026-07-10T10:09:20Z",
+      "updated_at": "2026-07-13T05:43:34Z",
+      "stars": 2,
+      "language": "Python"
+    },
+    {
+      "source": "github_repository",
+      "topic": "LLM agent",
+      "title": "aws-samples/sample-specship",
+      "url": "https://github.com/aws-samples/sample-specship",
+      "description": "Spec-driven autonomous engineering workflow for AI coding agents: recon → plan → build → validate → ship — with TDD, adversarial validation, and anti-slop quality gates. Packaged as a Kiro Power.",
+      "created_at": "2026-07-10T09:54:06Z",
+      "updated_at": "2026-07-14T03:48:48Z",
+      "stars": 79,
+      "language": "Shell"
+    },
+    {
+      "source": "github_repository",
+      "topic": "neuroscience AI",
+      "title": "cissy0802/neuroscience",
+      "url": "https://github.com/cissy0802/neuroscience",
+      "description": "神经科学 · Neuroscience — 脑作为物理+计算系统的机制层，认知/意识优先，AI 对读贯穿",
+      "created_at": "2026-07-10T05:57:09Z",
+      "updated_at": "2026-07-13T17:17:04Z",
+      "stars": 0,
+      "language": "HTML"
+    }
+  ],
+  "errors": [],
+  "counts": {
+    "arxiv": 28,
+    "github_repositories": 22,
+    "github_pull_requests": 22,
+    "items": 48,
+    "errors": 0
+  },
+  "public_repo_publish": {
+    "scan_json": "scans/20260714T035050Z.json",
+    "scan_markdown": "scans/20260714T035050Z.md"
+  }
+}
