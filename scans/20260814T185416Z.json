@@ -1,6 +1,6 @@
 {
   "schema": "projection.autoresearch.v1",
-  "generated_at": "2026-08-15T08:27:08.937031+00:00",
+  "generated_at": "2026-08-14T18:54:16.506272+00:00",
   "enabled": true,
   "mode": "detect_only",
   "read_only": false,
@@ -23,194 +23,173 @@
   "items": [
     {
       "source": "github_pull_request",
-      "topic": "LLM agent",
-      "title": "[ADD] .rst meta description creator plugin",
-      "url": "https://github.com/Felicious/odoo-tech-writer-team-skills/pull/3",
-      "state": "open",
-      "created_at": "2026-08-15T08:27:00Z",
-      "updated_at": "2026-08-15T08:27:09Z",
-      "repository_url": "https://api.github.com/repos/Felicious/odoo-tech-writer-team-skills"
-    },
-    {
-      "source": "github_pull_request",
-      "topic": "multi agent",
-      "title": "chore(verification): Docker hadolint CI + frontend smoke tests + manual checklists",
-      "url": "https://github.com/maharana2006-tech/thb-shioai/pull/184",
-      "state": "open",
-      "created_at": "2026-08-15T08:26:10Z",
-      "updated_at": "2026-08-15T08:26:10Z",
-      "repository_url": "https://api.github.com/repos/maharana2006-tech/thb-shioai"
-    },
-    {
-      "source": "github_pull_request",
       "topic": "agent memory",
-      "title": "feat(web): tier-2 climb sitemaps and the climb/site/profile JSON-LD",
-      "url": "https://github.com/boardsesh/boardsesh/pull/4483",
+      "title": "chore(deps): Bump the minor-and-patch group with 14 updates",
+      "url": "https://github.com/dmadan86/baaki/pull/176",
       "state": "open",
-      "created_at": "2026-08-15T08:25:57Z",
-      "updated_at": "2026-08-15T08:26:06Z",
-      "repository_url": "https://api.github.com/repos/boardsesh/boardsesh"
-    },
-    {
-      "source": "github_pull_request",
-      "topic": "multi agent",
-      "title": "Bump @anthropic-ai/sdk from 0.115.0 to 0.116.0",
-      "url": "https://github.com/kraigstrong/Keepsake/pull/58",
-      "state": "open",
-      "created_at": "2026-08-15T08:25:51Z",
-      "updated_at": "2026-08-15T08:25:52Z",
-      "repository_url": "https://api.github.com/repos/kraigstrong/Keepsake"
-    },
-    {
-      "source": "github_pull_request",
-      "topic": "agent memory",
-      "title": "Bump the expo-ecosystem group with 10 updates",
-      "url": "https://github.com/kraigstrong/Keepsake/pull/55",
-      "state": "open",
-      "created_at": "2026-08-15T08:25:17Z",
-      "updated_at": "2026-08-15T08:25:18Z",
-      "repository_url": "https://api.github.com/repos/kraigstrong/Keepsake"
-    },
-    {
-      "source": "github_pull_request",
-      "topic": "multi agent",
-      "title": "fix(cilium): derive operator replicas from the node count",
-      "url": "https://github.com/Nosmoht/talos-platform-base/pull/222",
-      "state": "open",
-      "created_at": "2026-08-15T08:24:42Z",
-      "updated_at": "2026-08-15T08:24:42Z",
-      "repository_url": "https://api.github.com/repos/Nosmoht/talos-platform-base"
-    },
-    {
-      "source": "github_pull_request",
-      "topic": "agent memory",
-      "title": "feat: drive analysis with chrome-devtools-mcp behind a browser preflight",
-      "url": "https://github.com/GyeongHoKim/uxlint/pull/35",
-      "state": "open",
-      "created_at": "2026-08-15T08:24:34Z",
-      "updated_at": "2026-08-15T08:26:08Z",
-      "repository_url": "https://api.github.com/repos/GyeongHoKim/uxlint"
+      "created_at": "2026-08-14T18:53:55Z",
+      "updated_at": "2026-08-14T18:54:01Z",
+      "repository_url": "https://api.github.com/repos/dmadan86/baaki"
     },
     {
       "source": "github_pull_request",
       "topic": "LLM agent",
-      "title": "Add dsh-auto-classifier (autonomous auto-mode permission classifier)",
-      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/pull/468",
-      "state": "open",
-      "created_at": "2026-08-15T08:24:29Z",
-      "updated_at": "2026-08-15T08:24:29Z",
-      "repository_url": "https://api.github.com/repos/awesome-dsh-plugin/awesome-dsh-plugin"
-    },
-    {
-      "source": "github_pull_request",
-      "topic": "LLM agent",
-      "title": "Add dsh-auto-classifier (autonomous auto-mode permission classifier)",
-      "url": "https://github.com/PAKIKNOWLEDGE/awesome-dsh-plugin/pull/1",
+      "title": "fix(ai): stabilise live flow playback across consecutive runs",
+      "url": "https://github.com/Dev-Ruco/wacrm/pull/30",
       "state": "closed",
-      "created_at": "2026-08-15T08:24:12Z",
-      "updated_at": "2026-08-15T08:24:24Z",
-      "repository_url": "https://api.github.com/repos/PAKIKNOWLEDGE/awesome-dsh-plugin"
-    },
-    {
-      "source": "github_pull_request",
-      "topic": "agent memory",
-      "title": "feat(memory): usage-memory gate lattice, dormant by default (U1)",
-      "url": "https://github.com/Imagine-That-Ai/BurnBar/pull/2262",
-      "state": "open",
-      "created_at": "2026-08-15T08:23:48Z",
-      "updated_at": "2026-08-15T08:26:01Z",
-      "repository_url": "https://api.github.com/repos/Imagine-That-Ai/BurnBar"
-    },
-    {
-      "source": "github_pull_request",
-      "topic": "LLM agent",
-      "title": "eval-harness: a free non-discrimination scan of the unit judge (#1485)",
-      "url": "https://github.com/PioneerAIAcademy/cowork-genealogy/pull/1630",
-      "state": "open",
-      "created_at": "2026-08-15T08:23:37Z",
-      "updated_at": "2026-08-15T08:23:50Z",
-      "repository_url": "https://api.github.com/repos/PioneerAIAcademy/cowork-genealogy"
-    },
-    {
-      "source": "github_pull_request",
-      "topic": "LLM agent",
-      "title": "fix(llm): expand regex shorthands in tool-schema patterns so grammar backends accept resumes",
-      "url": "https://github.com/lvis-project/lvis-app/pull/2075",
-      "state": "open",
-      "created_at": "2026-08-15T08:23:20Z",
-      "updated_at": "2026-08-15T08:23:20Z",
-      "repository_url": "https://api.github.com/repos/lvis-project/lvis-app"
-    },
-    {
-      "source": "github_pull_request",
-      "topic": "agent memory",
-      "title": "build(deps): bump the ivy-wallet group with 71 updates",
-      "url": "https://github.com/Tranquilino1/EGMobileMoneyAsist-AI-/pull/22",
-      "state": "open",
-      "created_at": "2026-08-15T08:23:03Z",
-      "updated_at": "2026-08-15T08:23:04Z",
-      "repository_url": "https://api.github.com/repos/Tranquilino1/EGMobileMoneyAsist-AI-"
-    },
-    {
-      "source": "github_pull_request",
-      "topic": "agent memory",
-      "title": "[measured-attribution] Say whose numbers two Measured cells carry",
-      "url": "https://github.com/chpark-ML/agent-harness/pull/63",
-      "state": "open",
-      "created_at": "2026-08-15T08:22:56Z",
-      "updated_at": "2026-08-15T08:22:56Z",
-      "repository_url": "https://api.github.com/repos/chpark-ML/agent-harness"
-    },
-    {
-      "source": "github_pull_request",
-      "topic": "LLM agent",
-      "title": "fix(cloud-shared): reject non-integer fraud COUNT aggregates",
-      "url": "https://github.com/elizaOS/eliza/pull/19951",
-      "state": "open",
-      "created_at": "2026-08-15T08:22:46Z",
-      "updated_at": "2026-08-15T08:22:46Z",
-      "repository_url": "https://api.github.com/repos/elizaOS/eliza"
+      "created_at": "2026-08-14T18:53:53Z",
+      "updated_at": "2026-08-14T18:54:35Z",
+      "repository_url": "https://api.github.com/repos/Dev-Ruco/wacrm"
     },
     {
       "source": "github_pull_request",
       "topic": "multi agent",
-      "title": "feat(uvi): add deterministic readiness evaluator (GV-3R-b)",
-      "url": "https://github.com/rasaha/symbolu/pull/1433",
+      "title": "build(deps): Bump the actions group with 6 updates",
+      "url": "https://github.com/Xonaki1/llm_office/pull/5",
       "state": "open",
-      "created_at": "2026-08-15T08:22:37Z",
-      "updated_at": "2026-08-15T08:22:37Z",
-      "repository_url": "https://api.github.com/repos/rasaha/symbolu"
+      "created_at": "2026-08-14T18:53:35Z",
+      "updated_at": "2026-08-14T18:53:36Z",
+      "repository_url": "https://api.github.com/repos/Xonaki1/llm_office"
     },
     {
       "source": "github_pull_request",
       "topic": "multi agent",
-      "title": "WIP: feat(desktop): unify native bubble presentation and platform parity",
-      "url": "https://github.com/crafter-station/petdex/pull/709",
+      "title": "feat(container): update image cilium (1.19.6 → 1.20.0)",
+      "url": "https://github.com/chadjvw/homelab-cosmere/pull/261",
       "state": "open",
-      "created_at": "2026-08-15T08:21:59Z",
-      "updated_at": "2026-08-15T08:22:05Z",
-      "repository_url": "https://api.github.com/repos/crafter-station/petdex"
-    },
-    {
-      "source": "github_repository",
-      "topic": "neuroscience AI",
-      "title": "NeuroByte-Society/NeuroByte_Society_web",
-      "url": "https://github.com/NeuroByte-Society/NeuroByte_Society_web",
-      "description": "Official website for NeuroByte Society, a student community where neuroscience meets AI, curiosity meets code, and ideas turn into projects.",
-      "created_at": "2026-08-14T16:21:03Z",
-      "updated_at": "2026-08-15T03:00:49Z",
-      "stars": 0,
-      "language": "TypeScript"
+      "created_at": "2026-08-14T18:53:20Z",
+      "updated_at": "2026-08-14T18:53:20Z",
+      "repository_url": "https://api.github.com/repos/chadjvw/homelab-cosmere"
     },
     {
       "source": "github_pull_request",
-      "topic": "neuroscience AI",
-      "title": "neurodata-reuse-zhong2025",
-      "url": "https://github.com/harbor-framework/terminal-bench-science/pull/1012",
+      "topic": "LLM agent",
+      "title": "Fix unterminated string constant and resolve merge conflicts",
+      "url": "https://github.com/tadanobutubutu/screeps/pull/6157",
       "state": "open",
-      "created_at": "2026-08-14T14:59:49Z",
-      "updated_at": "2026-08-14T22:03:54Z",
-      "repository_url": "https://api.github.com/repos/harbor-framework/terminal-bench-science"
+      "created_at": "2026-08-14T18:53:15Z",
+      "updated_at": "2026-08-14T18:54:26Z",
+      "repository_url": "https://api.github.com/repos/tadanobutubutu/screeps"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "multi agent",
+      "title": "docs(attestation): name the vendor root at every attestation claim — AMD ARK, Intel SGX Root CA, NVIDIA device CA, TPM EK",
+      "url": "https://github.com/Lucent-Financial-Group/Zeta/pull/10685",
+      "state": "open",
+      "created_at": "2026-08-14T18:53:12Z",
+      "updated_at": "2026-08-14T18:53:17Z",
+      "repository_url": "https://api.github.com/repos/Lucent-Financial-Group/Zeta"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "agent memory",
+      "title": "fix(coding-agent): stabilize RLM prompt cache",
+      "url": "https://github.com/laffertyrichard/prime-agent/pull/4",
+      "state": "open",
+      "created_at": "2026-08-14T18:53:02Z",
+      "updated_at": "2026-08-14T18:53:02Z",
+      "repository_url": "https://api.github.com/repos/laffertyrichard/prime-agent"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "multi agent",
+      "title": "fix(chat): unify context rail hover states, dropdown surfaces, and radii",
+      "url": "https://github.com/block/berd/pull/37",
+      "state": "open",
+      "created_at": "2026-08-14T18:52:50Z",
+      "updated_at": "2026-08-14T18:52:51Z",
+      "repository_url": "https://api.github.com/repos/block/berd"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "multi agent",
+      "title": "Add rewrite-ruby: a Prism-based Ruby language module",
+      "url": "https://github.com/openrewrite/rewrite/pull/8506",
+      "state": "open",
+      "created_at": "2026-08-14T18:52:46Z",
+      "updated_at": "2026-08-14T18:53:26Z",
+      "repository_url": "https://api.github.com/repos/openrewrite/rewrite"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "agent memory",
+      "title": "fix(service): Skip ineligible memory jobs",
+      "url": "https://github.com/getsentry/warden/pull/494",
+      "state": "open",
+      "created_at": "2026-08-14T18:52:43Z",
+      "updated_at": "2026-08-14T18:53:06Z",
+      "repository_url": "https://api.github.com/repos/getsentry/warden"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "agent memory",
+      "title": "actions: link runs to durable executions",
+      "url": "https://github.com/sixb-ai/sixb/pull/388",
+      "state": "open",
+      "created_at": "2026-08-14T18:52:41Z",
+      "updated_at": "2026-08-14T18:53:55Z",
+      "repository_url": "https://api.github.com/repos/sixb-ai/sixb"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "LLM agent",
+      "title": "Voice interface for the CRM (Phases 0 and 1)",
+      "url": "https://github.com/ralpht/ambient-realtor-ai/pull/2",
+      "state": "open",
+      "created_at": "2026-08-14T18:52:19Z",
+      "updated_at": "2026-08-14T18:52:19Z",
+      "repository_url": "https://api.github.com/repos/ralpht/ambient-realtor-ai"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "agent memory",
+      "title": "Chief starts loading while you are still talking",
+      "url": "https://github.com/parkerron1971-hash/kmj-intake-server/pull/585",
+      "state": "closed",
+      "created_at": "2026-08-14T18:52:05Z",
+      "updated_at": "2026-08-14T18:53:49Z",
+      "repository_url": "https://api.github.com/repos/parkerron1971-hash/kmj-intake-server"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "LLM agent",
+      "title": "feat: add Sell Put Top1 ranking foundation",
+      "url": "https://github.com/liuxie066/options-monitor/pull/156",
+      "state": "open",
+      "created_at": "2026-08-14T18:51:30Z",
+      "updated_at": "2026-08-14T18:51:30Z",
+      "repository_url": "https://api.github.com/repos/liuxie066/options-monitor"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "LLM agent",
+      "title": "test(library): pair every no-fire assertion with a positive control",
+      "url": "https://github.com/AetherAI3/Nano/pull/14",
+      "state": "closed",
+      "created_at": "2026-08-14T18:51:01Z",
+      "updated_at": "2026-08-14T18:52:31Z",
+      "repository_url": "https://api.github.com/repos/AetherAI3/Nano"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "LLM agent",
+      "title": "Forward the primary build's tags to the markdown sub-build",
+      "url": "https://github.com/NVIDIA/sphinx-llm/pull/133",
+      "state": "open",
+      "created_at": "2026-08-14T18:50:47Z",
+      "updated_at": "2026-08-14T18:54:01Z",
+      "repository_url": "https://api.github.com/repos/NVIDIA/sphinx-llm"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "agent memory",
+      "title": "Phase 5 — YasinCoder coding-agent engine",
+      "url": "https://github.com/yusi20006-max/YasinCoder/pull/9",
+      "state": "closed",
+      "created_at": "2026-08-14T18:09:59Z",
+      "updated_at": "2026-08-14T18:52:56Z",
+      "repository_url": "https://api.github.com/repos/yusi20006-max/YasinCoder"
     },
     {
       "source": "github_pull_request",
@@ -225,11 +204,11 @@
     {
       "source": "github_pull_request",
       "topic": "neuroscience AI",
-      "title": "頭痛と脳幹神経科学ガイドの Next.js (web-next) 移行実装および Mermaid 依存関係の更新・表示改善",
+      "title": "Dev",
       "url": "https://github.com/myoshi2891/Medical-Studies/pull/36",
-      "state": "closed",
+      "state": "open",
       "created_at": "2026-08-14T11:20:50Z",
-      "updated_at": "2026-08-15T00:27:38Z",
+      "updated_at": "2026-08-14T16:11:57Z",
       "repository_url": "https://api.github.com/repos/myoshi2891/Medical-Studies"
     },
     {
@@ -239,7 +218,7 @@
       "url": "https://github.com/OpenAgentHQ/localmem-mcp",
       "description": "Local-first, zero-API memory for AI agents. Persistent, private, and yours — runs entirely on your machine, no cloud calls, no API keys.",
       "created_at": "2026-08-14T11:17:04Z",
-      "updated_at": "2026-08-15T05:53:28Z",
+      "updated_at": "2026-08-14T18:53:42Z",
       "stars": 6,
       "language": "Python"
     },
@@ -272,6 +251,16 @@
       "created_at": "2026-08-14T03:08:30Z",
       "updated_at": "2026-08-14T13:39:08Z",
       "repository_url": "https://api.github.com/repos/chaobrain/brainx"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "neuroscience AI",
+      "title": "[TASK: life-science/neuroscience] Cross-scanner MRI Harmonization",
+      "url": "https://github.com/harbor-framework/terminal-bench-science/pull/999",
+      "state": "open",
+      "created_at": "2026-08-14T01:32:28Z",
+      "updated_at": "2026-08-14T17:39:02Z",
+      "repository_url": "https://api.github.com/repos/harbor-framework/terminal-bench-science"
     },
     {
       "source": "arxiv",
@@ -472,8 +461,8 @@
       "url": "https://github.com/woolcoxm/zero-mem-pi",
       "description": "Zero-Mem: Zero-Token Memory Operations for the pi coding agent (faithful reimplementation of arXiv:2607.29377)",
       "created_at": "2026-08-13T15:51:22Z",
-      "updated_at": "2026-08-15T07:39:38Z",
-      "stars": 22,
+      "updated_at": "2026-08-14T18:17:03Z",
+      "stars": 7,
       "language": "TypeScript"
     },
     {
@@ -483,8 +472,8 @@
       "url": "https://github.com/Electricitysheep/dsh-handbook",
       "description": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
       "created_at": "2026-08-13T15:22:29Z",
-      "updated_at": "2026-08-15T07:51:52Z",
-      "stars": 246,
+      "updated_at": "2026-08-14T17:55:05Z",
+      "stars": 198,
       "language": "Python"
     },
     {
@@ -594,24 +583,13 @@
     },
     {
       "source": "github_repository",
-      "topic": "multi agent framework",
-      "title": "tettethu/VibeGame",
-      "url": "https://github.com/tettethu/VibeGame",
-      "description": "VibeGame: Vibe your favorite game -- An open-source self-evolving multi-agent framework with an AI-Native game engine that turns your natural language into a fully playable 2D web game and edit it any way you want, built on Claude Code & Codex.",
-      "created_at": "2026-08-12T14:13:38Z",
-      "updated_at": "2026-08-13T13:27:57Z",
-      "stars": 3,
-      "language": null
-    },
-    {
-      "source": "github_repository",
       "topic": "agent memory LLM",
       "title": "memoket/memoket-kite",
       "url": "https://github.com/memoket/memoket-kite",
       "description": "Memory engine for AI agents with token-efficient, explainable retrieval beyond vector similarity.",
       "created_at": "2026-08-12T03:19:07Z",
-      "updated_at": "2026-08-15T03:12:56Z",
-      "stars": 48,
+      "updated_at": "2026-08-14T17:05:47Z",
+      "stars": 44,
       "language": "Python"
     },
     {
@@ -656,6 +634,28 @@
       "updated_at": "2026-08-12T06:04:32Z",
       "stars": 9,
       "language": "TypeScript"
+    },
+    {
+      "source": "github_repository",
+      "topic": "LLM agent",
+      "title": "0xsline/awesome-deepseek-harness",
+      "url": "https://github.com/0xsline/awesome-deepseek-harness",
+      "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
+      "created_at": "2026-08-11T13:14:49Z",
+      "updated_at": "2026-08-14T18:13:26Z",
+      "stars": 396,
+      "language": "Python"
+    },
+    {
+      "source": "github_repository",
+      "topic": "multi agent framework",
+      "title": "dungnotnull/Diplomacy-Negotiation-Advisor-agent-skill",
+      "url": "https://github.com/dungnotnull/Diplomacy-Negotiation-Advisor-agent-skill",
+      "description": "🤝 Scientific dealmaking & diplomatic advisor for high-stakes business, salary, and multi-party alliance negotiations. Features interest-vs-position decomposition, psychological bias detection, back-channel communication strategy, and structured scenario eva...",
+      "created_at": "2026-08-11T08:38:38Z",
+      "updated_at": "2026-08-13T08:04:48Z",
+      "stars": 3,
+      "language": "Python"
     }
   ],
   "errors": [],
@@ -667,7 +667,7 @@
     "errors": 0
   },
   "public_repo_publish": {
-    "scan_json": "scans/20260815T082708Z.json",
-    "scan_markdown": "scans/20260815T082708Z.md"
+    "scan_json": "scans/20260814T185416Z.json",
+    "scan_markdown": "scans/20260814T185416Z.md"
   }
 }

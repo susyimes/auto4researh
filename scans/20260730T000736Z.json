@@ -1,0 +1,660 @@
+{
+  "schema": "projection.autoresearch.v1",
+  "generated_at": "2026-07-30T00:07:36.578910+00:00",
+  "enabled": true,
+  "mode": "detect_only",
+  "read_only": false,
+  "public_repo": "susyimes/auto4researh",
+  "publish_public_repo": true,
+  "cadence_hours": 4,
+  "max_publication_lag_hours": 24,
+  "since_days": 7,
+  "max_results_per_source": 6,
+  "topics": [
+    "neuroscience",
+    "brain science",
+    "large language models",
+    "LLM agents",
+    "agent memory",
+    "agent self-improvement"
+  ],
+  "skipped": false,
+  "skip_reason": null,
+  "items": [
+    {
+      "source": "github_pull_request",
+      "topic": "multi agent",
+      "title": "Wrap Studio: assign multiple fairing colours to bike parts",
+      "url": "https://github.com/SWFTstudios/kisalafilms-website/pull/36",
+      "state": "open",
+      "created_at": "2026-07-30T00:08:01Z",
+      "updated_at": "2026-07-30T00:08:01Z",
+      "repository_url": "https://api.github.com/repos/SWFTstudios/kisalafilms-website"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "agent memory",
+      "title": "Set up Cursor Cloud dev environment",
+      "url": "https://github.com/Tejaswinireddys/sadhana/pull/3",
+      "state": "open",
+      "created_at": "2026-07-30T00:07:57Z",
+      "updated_at": "2026-07-30T00:07:57Z",
+      "repository_url": "https://api.github.com/repos/Tejaswinireddys/sadhana"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "agent memory",
+      "title": "fix(message-delivery): stop marking withheld batch messages as delivered",
+      "url": "https://github.com/RockaRhymeLLC/kithkit/pull/568",
+      "state": "open",
+      "created_at": "2026-07-30T00:07:55Z",
+      "updated_at": "2026-07-30T00:07:55Z",
+      "repository_url": "https://api.github.com/repos/RockaRhymeLLC/kithkit"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "LLM agent",
+      "title": "feat(trip): grounded analyze recommendation step",
+      "url": "https://github.com/steveTheCyberDev/Onsen-Guide-Bot/pull/95",
+      "state": "open",
+      "created_at": "2026-07-30T00:07:37Z",
+      "updated_at": "2026-07-30T00:07:45Z",
+      "repository_url": "https://api.github.com/repos/steveTheCyberDev/Onsen-Guide-Bot"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "LLM agent",
+      "title": "flake: bump llm-agents from `19ed15d` to `2345fca`",
+      "url": "https://github.com/QWp6t/casa/pull/133",
+      "state": "open",
+      "created_at": "2026-07-30T00:07:17Z",
+      "updated_at": "2026-07-30T00:07:18Z",
+      "repository_url": "https://api.github.com/repos/QWp6t/casa"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "LLM agent",
+      "title": "chore(nix): update AI agent inputs",
+      "url": "https://github.com/satotek/dotfiles/pull/35",
+      "state": "closed",
+      "created_at": "2026-07-30T00:07:12Z",
+      "updated_at": "2026-07-30T00:07:18Z",
+      "repository_url": "https://api.github.com/repos/satotek/dotfiles"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "agent memory",
+      "title": "feat(db): S3-DB-001 Stage 3 long-term persistence (0005)",
+      "url": "https://github.com/joelhenwang/auto-world/pull/36",
+      "state": "open",
+      "created_at": "2026-07-30T00:07:08Z",
+      "updated_at": "2026-07-30T00:07:08Z",
+      "repository_url": "https://api.github.com/repos/joelhenwang/auto-world"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "agent memory",
+      "title": "chore(deps): update dependency jsdom to v30",
+      "url": "https://github.com/tomerh2001/qobuz-on-rym-charts-userscript/pull/13",
+      "state": "open",
+      "created_at": "2026-07-30T00:06:59Z",
+      "updated_at": "2026-07-30T00:06:59Z",
+      "repository_url": "https://api.github.com/repos/tomerh2001/qobuz-on-rym-charts-userscript"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "agent memory",
+      "title": "[WIP] Implement ThinkNode M5 e-ink display support and UI improvements",
+      "url": "https://github.com/dogo8me/MeshCore-mishmesh/pull/1",
+      "state": "open",
+      "created_at": "2026-07-30T00:06:44Z",
+      "updated_at": "2026-07-30T00:06:44Z",
+      "repository_url": "https://api.github.com/repos/dogo8me/MeshCore-mishmesh"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "multi agent",
+      "title": "perf(replay): bound stylesheet inlining in the full snapshot, and measure its cost",
+      "url": "https://github.com/PostHog/posthog-js/pull/4320",
+      "state": "open",
+      "created_at": "2026-07-30T00:06:41Z",
+      "updated_at": "2026-07-30T00:07:03Z",
+      "repository_url": "https://api.github.com/repos/PostHog/posthog-js"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "multi agent",
+      "title": "Bump io.opentelemetry.instrumentation:opentelemetry-instrumentation-annotations from 2.29.0 to 2.30.0",
+      "url": "https://github.com/Graylog2/graylog2-server/pull/26832",
+      "state": "open",
+      "created_at": "2026-07-30T00:06:38Z",
+      "updated_at": "2026-07-30T00:06:39Z",
+      "repository_url": "https://api.github.com/repos/Graylog2/graylog2-server"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "multi agent",
+      "title": "Update screenshots in `master`",
+      "url": "https://github.com/mtransitapps/ca-quinte-transit-bus-android/pull/4",
+      "state": "closed",
+      "created_at": "2026-07-30T00:06:37Z",
+      "updated_at": "2026-07-30T00:08:09Z",
+      "repository_url": "https://api.github.com/repos/mtransitapps/ca-quinte-transit-bus-android"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "LLM agent",
+      "title": "fix(gappsscript): default update_script_content to safe merge mode",
+      "url": "https://github.com/taylorwilsdon/google_workspace_mcp/pull/982",
+      "state": "open",
+      "created_at": "2026-07-30T00:06:36Z",
+      "updated_at": "2026-07-30T00:07:30Z",
+      "repository_url": "https://api.github.com/repos/taylorwilsdon/google_workspace_mcp"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "LLM agent",
+      "title": "examples(code-sandbox-quickstart): host argv tool allowlist + reference tool loop (#645)",
+      "url": "https://github.com/TencentCloud/CubeSandbox/pull/1219",
+      "state": "open",
+      "created_at": "2026-07-30T00:06:18Z",
+      "updated_at": "2026-07-30T00:06:41Z",
+      "repository_url": "https://api.github.com/repos/TencentCloud/CubeSandbox"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "agent memory",
+      "title": "chore(deps): update node.js to v24.18.1",
+      "url": "https://github.com/unional/monorepo-template/pull/246",
+      "state": "closed",
+      "created_at": "2026-07-30T00:06:11Z",
+      "updated_at": "2026-07-30T00:07:47Z",
+      "repository_url": "https://api.github.com/repos/unional/monorepo-template"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "multi agent",
+      "title": "Update dependency guzzlehttp/guzzle to v8",
+      "url": "https://github.com/rxcod9/joy-voyager-widgets/pull/19",
+      "state": "open",
+      "created_at": "2026-07-30T00:06:02Z",
+      "updated_at": "2026-07-30T00:06:03Z",
+      "repository_url": "https://api.github.com/repos/rxcod9/joy-voyager-widgets"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "LLM agent",
+      "title": "feat: 补齐想家短句共情接话",
+      "url": "https://github.com/myrainbowcolor/A-Girl/pull/124",
+      "state": "closed",
+      "created_at": "2026-07-30T00:06:01Z",
+      "updated_at": "2026-07-30T00:06:43Z",
+      "repository_url": "https://api.github.com/repos/myrainbowcolor/A-Girl"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "multi agent",
+      "title": "feat(dashboard): episode player with replay and csv export",
+      "url": "https://github.com/waypointos/waypoint/pull/13",
+      "state": "open",
+      "created_at": "2026-07-30T00:05:55Z",
+      "updated_at": "2026-07-30T00:05:55Z",
+      "repository_url": "https://api.github.com/repos/waypointos/waypoint"
+    },
+    {
+      "source": "github_repository",
+      "topic": "neuroscience AI",
+      "title": "tobias-weiss-ai-xr/learning-research",
+      "url": "https://github.com/tobias-weiss-ai-xr/learning-research",
+      "description": "A living, data-driven survey of learning research across all disciplines — cognitive science, neuroscience, education, behavioral science, AI, philosophy of mind, and more",
+      "created_at": "2026-07-29T22:02:50Z",
+      "updated_at": "2026-07-29T22:07:22Z",
+      "stars": 0,
+      "language": "Python"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "neuroscience AI",
+      "title": "feat(library): publish Ken Keyes higher consciousness field manual",
+      "url": "https://github.com/frankxai/frankx.ai-vercel-website/pull/405",
+      "state": "open",
+      "created_at": "2026-07-29T21:05:11Z",
+      "updated_at": "2026-07-29T21:18:18Z",
+      "repository_url": "https://api.github.com/repos/frankxai/frankx.ai-vercel-website"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "neuroscience AI",
+      "title": "Add blog post announcing the NIH R25 award for the NeuroData AI Summer School",
+      "url": "https://github.com/catalystneuro/catalystneuro.github.io/pull/90",
+      "state": "open",
+      "created_at": "2026-07-29T19:20:39Z",
+      "updated_at": "2026-07-29T20:02:14Z",
+      "repository_url": "https://api.github.com/repos/catalystneuro/catalystneuro.github.io"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "neuroscience AI",
+      "title": "feat: Add Lipoid Proteinosis (ECM1 / Urbach-Wiethe disease)",
+      "url": "https://github.com/monarch-initiative/dismech/pull/7095",
+      "state": "closed",
+      "created_at": "2026-07-29T16:28:18Z",
+      "updated_at": "2026-07-29T18:03:05Z",
+      "repository_url": "https://api.github.com/repos/monarch-initiative/dismech"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "neuroscience AI",
+      "title": "Consciousness/neuroscience portfolio: neuron-branch projects, Śaiva motion design",
+      "url": "https://github.com/immanuvelprathap/Portfolio/pull/1",
+      "state": "closed",
+      "created_at": "2026-07-29T12:16:44Z",
+      "updated_at": "2026-07-29T13:01:10Z",
+      "repository_url": "https://api.github.com/repos/immanuvelprathap/Portfolio"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "neuroscience AI",
+      "title": "feat: PIOS Phase 1 — Personal Intelligence Operating System frontend prototype",
+      "url": "https://github.com/CarryLewis/Carry-website/pull/2",
+      "state": "open",
+      "created_at": "2026-07-29T09:31:24Z",
+      "updated_at": "2026-07-29T09:44:52Z",
+      "repository_url": "https://api.github.com/repos/CarryLewis/Carry-website"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "neuroscience AI",
+      "title": "ci: self-hosted Rust + dual Qodana + Docker/devcontainer + telemetry + qlty + Codacy",
+      "url": "https://github.com/rmems/Theseus-Quarry/pull/1",
+      "state": "open",
+      "created_at": "2026-07-29T03:43:20Z",
+      "updated_at": "2026-07-29T10:38:40Z",
+      "repository_url": "https://api.github.com/repos/rmems/Theseus-Quarry"
+    },
+    {
+      "source": "github_repository",
+      "topic": "neuroscience AI",
+      "title": "curios-devops/oca",
+      "url": "https://github.com/curios-devops/oca",
+      "description": "Open Cognitive Architecture — a community-driven open architecture for building the next generation of cognitive AI systems. Continual learning, memory consolidation, concept formation, resonance-based communication. Every claim ships with the control that...",
+      "created_at": "2026-07-29T01:11:00Z",
+      "updated_at": "2026-07-29T22:07:25Z",
+      "stars": 1,
+      "language": "Python"
+    },
+    {
+      "source": "arxiv",
+      "topic": "llm_agents",
+      "title": "UniMem: Complementary Episodic-to-Parametric Memory for Boundary-Agnostic Task Streams",
+      "url": "http://arxiv.org/abs/2607.26017v1",
+      "published_at": "2026-07-28T17:28:21Z",
+      "updated_at": "2026-07-28T17:28:21Z",
+      "authors": [
+        "Siyu Xia",
+        "Chenheng Zhang",
+        "Yanting Wu",
+        "Haoxuan Li",
+        "Jiajun Chai",
+        "Xiaohan Wang"
+      ],
+      "categories": [
+        "cs.CL"
+      ],
+      "summary": "Memory is essential for LLM agents to accumulate task experience and reuse task-specific execution strategies. However, real-world deployment over boundary-agnostic and evolving task streams exposes a fundamental stability-plasticity dilemma. External retrieval-based memory can rapidly absorb new evidence, but it often fails to internalize recurring execution patterns and incurs inference-time retrieval overhead...."
+    },
+    {
+      "source": "arxiv",
+      "topic": "llm_reasoning",
+      "title": "RepoReasoner: Evaluating Repository-Level Code Reasoning Ability of Long-Context Language Models",
+      "url": "http://arxiv.org/abs/2607.25996v1",
+      "published_at": "2026-07-28T17:12:41Z",
+      "updated_at": "2026-07-28T17:12:41Z",
+      "authors": [
+        "Yanlin Wang",
+        "Suiquan Wang",
+        "Yanli Wang",
+        "Bowen Zhang",
+        "Daya Guo",
+        "Jiachi Chen"
+      ],
+      "categories": [
+        "cs.SE"
+      ],
+      "summary": "Recent large language models (LLMs) have shown strong performance on software engineering tasks, yet most existing benchmarks evaluate code reasoning at the function level, where all relevant information is localized. This setting fails to reflect real-world development, which requires reasoning across multiple files and complex dependency structures. We introduce RepoReasoner, a benchmark for evaluating repositor..."
+    },
+    {
+      "source": "arxiv",
+      "topic": "llm_reasoning",
+      "title": "Beyond Zooming: Learning Multi-Tool Visual Reasoning for Ultra-High-Resolution Remote Sensing",
+      "url": "http://arxiv.org/abs/2607.25993v1",
+      "published_at": "2026-07-28T17:09:16Z",
+      "updated_at": "2026-07-28T17:09:16Z",
+      "authors": [
+        "Fengxiang Wang",
+        "Jiangnan Huang",
+        "Mingshuo Chen",
+        "Yueying Li",
+        "Yang Shi",
+        "Junwei Luo"
+      ],
+      "categories": [
+        "cs.CV"
+      ],
+      "summary": "Ultra-high-resolution (UHR) remote-sensing (RS) imagery provides fine-grained Earth-observation evidence over city-scale scenes, but poses a fundamental challenge for multimodal large language models (MLLMs): task-relevant evidence is often sparse, local, and spatially dispersed across extremely large visual contexts. A natural solution is to equip MLLMs with zoom-in tools for active local inspection. However, thr..."
+    },
+    {
+      "source": "arxiv",
+      "topic": "llm_agents",
+      "title": "MemLens: A Value-Aware Memory Management System with Interactive Analytics for LLM-based Agents",
+      "url": "http://arxiv.org/abs/2607.25992v1",
+      "published_at": "2026-07-28T17:08:56Z",
+      "updated_at": "2026-07-28T17:08:56Z",
+      "authors": [
+        "Shuyue Wei",
+        "Chang Liu",
+        "Zimu Zhou",
+        "Yongxin Tong",
+        "Lizhen Cui"
+      ],
+      "categories": [
+        "cs.DB",
+        "cs.AI"
+      ],
+      "summary": "Recently, memory management has become a key infrastructure for LLM-based agents, as it directly affects long-horizon reasoning, personalized responses, and knowledge reuse. However, existing LLM memory systems typically adopt a coarse-grained (utility-agnostic) manner that treats heterogeneous user-LLM interaction records uniformly, leading to redundant and low-impact records persisting in the memory repository...."
+    },
+    {
+      "source": "arxiv",
+      "topic": "llm_reasoning",
+      "title": "Knowledge-Guided Multimodal Reasoning over Interacting Streams for Video-Level Ambivalence and Hesitancy Recognition",
+      "url": "http://arxiv.org/abs/2607.25961v1",
+      "published_at": "2026-07-28T16:44:38Z",
+      "updated_at": "2026-07-28T16:44:38Z",
+      "authors": [
+        "Podakanti Satyajith Chary",
+        "Barath Parthiban",
+        "Pranesh Velmurugan",
+        "Adeeba Khan",
+        "Nagarajan Ganapathy"
+      ],
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "summary": "Ambivalence and hesitancy (A/H) are conflicting affective states that precede the delay or abandonment of health behaviour change. Recognition of A/H at the video level is difficult, since the signal arises from disagreement across and within facial, vocal, linguistic, and bodily modalities, and manifests differently across individuals. The proposed PRISM-AH (Predictive Reasoning over Interacting Streams for Multi..."
+    },
+    {
+      "source": "arxiv",
+      "topic": "llm_reasoning",
+      "title": "A Cost-Effective Multimodal LLM Reasoning Framework for Question Answering over Irregular Clinical Time Series",
+      "url": "http://arxiv.org/abs/2607.25947v1",
+      "published_at": "2026-07-28T16:33:41Z",
+      "updated_at": "2026-07-28T16:33:41Z",
+      "authors": [
+        "Frank Nie",
+        "Ethan B Liu",
+        "Yuan Zhu",
+        "Wei Fan",
+        "Jindong Han"
+      ],
+      "categories": [
+        "cs.AI",
+        "cs.CL"
+      ],
+      "summary": "Question answering (QA) over irregular clinical time series (ICTS) plays a pivotal role in a wide range of healthcare applications. Although recent multimodal time-series large language models (LLMs) have shown considerable promise in general-purpose time-series QA, they remain poorly equipped to model the sparsity, asynchrony, and irregular sampling patterns of clinical observations. To fill this gap, we propose..."
+    },
+    {
+      "source": "arxiv",
+      "topic": "llm_reasoning",
+      "title": "Evaluating Multi-Turn Multimodal Diagnostic Reasoning on Challenging Real-World Clinical Cases",
+      "url": "http://arxiv.org/abs/2607.25933v1",
+      "published_at": "2026-07-28T16:19:03Z",
+      "updated_at": "2026-07-28T16:19:03Z",
+      "authors": [
+        "Rui Yang",
+        "Weihao Xuan",
+        "Yi Lin",
+        "Zhuhan Bao",
+        "Jonathan Chong Kai Liew",
+        "Matthew Yu Heng Wong"
+      ],
+      "categories": [
+        "cs.CL",
+        "cs.AI"
+      ],
+      "summary": "Clinical diagnostic evaluation should not only assess whether models can provide correct diagnoses, but also reflect the realities of clinical practice, including progressive disclosure of multimodal information, dynamic updating of diagnostic hypotheses, and continuous refinement of clinical reasoning. However, existing evaluations of multimodal large language models (MLLMs) typically rely on single-turn or isola..."
+    },
+    {
+      "source": "arxiv",
+      "topic": "llm_reasoning",
+      "title": "Penelope: Localized Latent Recurrence for Efficient Structured Reasoning",
+      "url": "http://arxiv.org/abs/2607.25915v1",
+      "published_at": "2026-07-28T16:06:46Z",
+      "updated_at": "2026-07-28T16:06:46Z",
+      "authors": [
+        "Yutong Chen",
+        "Shouqian Shi",
+        "Xinran Liu",
+        "Haochen Wang",
+        "Jiaying Wang",
+        "Tianxing Xu"
+      ],
+      "categories": [
+        "cs.AI"
+      ],
+      "summary": "Complex structured reasoning tasks often require additional computation, yet current language models obtain it mainly by increasing parameter scale or by serializing intermediate steps as chain-of-thought (CoT) tokens. The former raises training and deployment costs, while the latter ties reasoning computation to autoregressive output length. We introduce Penelope, an efficient latent-reasoning framework for pretr..."
+    },
+    {
+      "source": "arxiv",
+      "topic": "llm_agents",
+      "title": "RSIBench-Data: Benchmarking Data-Centric Research for Recursive Self-Improvement",
+      "url": "http://arxiv.org/abs/2607.25886v1",
+      "published_at": "2026-07-28T15:46:41Z",
+      "updated_at": "2026-07-28T15:46:41Z",
+      "authors": [
+        "Fanqing Meng",
+        "Lingxiao Du",
+        "Qiguang Chen",
+        "Ziqi Zhao",
+        "Haocheng Lu",
+        "Mengkang Hu"
+      ],
+      "categories": [
+        "cs.SE",
+        "cs.CL"
+      ],
+      "summary": "Recursive self-improvement requires turning evidence of model failures into better models. Data-centric post-training research entails diagnosing capability gaps, designing and validating training-data strategies, and learning from checkpoint feedback. Can LLM agents automate this loop? Existing benchmarks entangle research decisions with optimization, serving, evaluation, and systems implementation, obscuring age..."
+    },
+    {
+      "source": "arxiv",
+      "topic": "llm_agents",
+      "title": "Runtime Uncertainty Monitoring for LLM-Based Multi-Agent Systems Using Bayesian Networks",
+      "url": "http://arxiv.org/abs/2607.25877v1",
+      "published_at": "2026-07-28T15:39:43Z",
+      "updated_at": "2026-07-28T15:39:43Z",
+      "authors": [
+        "Bart Custers",
+        "Koorosh Aslansefat"
+      ],
+      "categories": [
+        "cs.AI"
+      ],
+      "summary": "This paper investigates how multi-agent systems (MAS)-based on large language models (LLMs) can support actuarial risk modelling, with a particular focus on uncertainty quantification. Actuarial workflows represent a high-stakes decision-support setting where unreliable outputs may lead to incorrect risk assessment, unfair pricing, and regulatory non-compliance. To address uncertainty introduced by the probabilist..."
+    },
+    {
+      "source": "arxiv",
+      "topic": "llm_agents",
+      "title": "HiSkill: Empowering LLM Agents with Hierarchical Skill Graphs",
+      "url": "http://arxiv.org/abs/2607.25853v1",
+      "published_at": "2026-07-28T15:25:47Z",
+      "updated_at": "2026-07-28T15:25:47Z",
+      "authors": [
+        "Yu Hao",
+        "Jinxuan Cai",
+        "Qi Zhang",
+        "Yawen Li",
+        "Zhiqiang Zhang",
+        "Chuan Shi"
+      ],
+      "categories": [
+        "cs.AI"
+      ],
+      "summary": "Skills have become an important abstraction for enabling large language model (LLM) agents to reuse past experience in long-horizon interactive tasks. However, existing trajectory-to-skill methods often produce flat collections of high-level textual skills that are stored and retrieved independently, leaving skill relations underutilized and maintaining a gap between high-level skills and executable actions. In th..."
+    },
+    {
+      "source": "arxiv",
+      "topic": "llm_agents",
+      "title": "C-RE-ACT: Causal RE-ACTing Agent for O-RAN Forensic Triage",
+      "url": "http://arxiv.org/abs/2607.25828v1",
+      "published_at": "2026-07-28T15:07:47Z",
+      "updated_at": "2026-07-28T15:07:47Z",
+      "authors": [
+        "Pau Baguer",
+        "J. Xavier Salvat Lozano",
+        "Gines Garcia-Aviles",
+        "Xavier Costa-Pérez"
+      ],
+      "categories": [
+        "cs.NI"
+      ],
+      "summary": "The shift to O-RAN architectures marks a turning point in cellular security, where increased openness and modularity directly translate into a broader attack surface. Among the security threats cataloged by the O-RAN Alliance Working Group 11, performance-degradation attacks constitute the largest class. These attacks induce packet losses and latency spikes that are hard to distinguish from operational events such..."
+    },
+    {
+      "source": "github_repository",
+      "topic": "multi agent framework",
+      "title": "Thomeras/agent_detective",
+      "url": "https://github.com/Thomeras/agent_detective",
+      "description": "An eval framework for multi-agent systems that names the culprit: OTEL traces in, execution graph out, blame analysis on top.",
+      "created_at": "2026-07-28T07:49:44Z",
+      "updated_at": "2026-07-29T14:02:23Z",
+      "stars": 3,
+      "language": "Python"
+    },
+    {
+      "source": "github_repository",
+      "topic": "LLM agent",
+      "title": "gavamedia/deltafin",
+      "url": "https://github.com/gavamedia/deltafin",
+      "description": "Run Kimi K3, a 2.8T-parameter Mixture-of-Experts LLM, on a single Apple Silicon Mac. Streams MXFP4 experts on demand over HTTP into a local disk cache — fused NEON kernels, Metal/MPS compute, exact reproducible decoding, and an OpenAI-compatible API server...",
+      "created_at": "2026-07-28T01:01:23Z",
+      "updated_at": "2026-07-29T23:58:07Z",
+      "stars": 317,
+      "language": "Python"
+    },
+    {
+      "source": "arxiv",
+      "topic": "brain_memory",
+      "title": "The SpiNNaker2 chip: a many-core platform for flexible and scalable brain-inspired computing",
+      "url": "http://arxiv.org/abs/2607.24396v1",
+      "published_at": "2026-07-27T13:13:02Z",
+      "updated_at": "2026-07-27T13:13:02Z",
+      "authors": [
+        "Stefan Scholze",
+        "Johannes Partzsch",
+        "Sebastian Höppner",
+        "Florian Kelber",
+        "Andreas Dixius",
+        "Marco Stolba"
+      ],
+      "categories": [
+        "cs.ET",
+        "cs.AI",
+        "cs.AR",
+        "cs.DC"
+      ],
+      "summary": "In deep learning, efficiency gets more and more important to compensate for the ongoing growth in model sizes and applications. Neuromorphic hardware has long been advocated as an upcoming alternative to deep networks, taking inspiration from the brain for achieving unprecedented energy efficiency. However, demonstrations of these gains only recently began to grow in complexity and real-world applicability. With S..."
+    },
+    {
+      "source": "github_repository",
+      "topic": "multi agent framework",
+      "title": "AkibDa/Script2Reel",
+      "url": "https://github.com/AkibDa/Script2Reel",
+      "description": "A provider-agnostic multi-agent framework for AI-generated short-form videos.",
+      "created_at": "2026-07-27T06:31:42Z",
+      "updated_at": "2026-07-29T13:32:27Z",
+      "stars": 2,
+      "language": "Python"
+    },
+    {
+      "source": "github_repository",
+      "topic": "neuroscience AI",
+      "title": "Statera-working-group/01_Vol_44_Neuroscience_for_AI",
+      "url": "https://github.com/Statera-working-group/01_Vol_44_Neuroscience_for_AI",
+      "description": "",
+      "created_at": "2026-07-27T04:09:20Z",
+      "updated_at": "2026-07-29T06:30:13Z",
+      "stars": 0,
+      "language": null
+    },
+    {
+      "source": "github_repository",
+      "topic": "multi agent framework",
+      "title": "Josefifir/Megaploit",
+      "url": "https://github.com/Josefifir/Megaploit",
+      "description": "Professional Python C2 framework — encrypted transport, Go agent, WebSocket evasion, post-exploitation pipeline, malleable profiles, web dashboard & multi-operator RPC.",
+      "created_at": "2026-07-26T17:02:31Z",
+      "updated_at": "2026-07-30T00:07:04Z",
+      "stars": 4,
+      "language": "Python"
+    },
+    {
+      "source": "github_repository",
+      "topic": "agent memory LLM",
+      "title": "iwe-org/marketing-workspace",
+      "url": "https://github.com/iwe-org/marketing-workspace",
+      "description": "Marketing memory for your AI agent — markdown campaign graph template: positioning, launch venues, CRM, posts, mentions, experiments",
+      "created_at": "2026-07-26T16:20:27Z",
+      "updated_at": "2026-07-29T10:51:26Z",
+      "stars": 3,
+      "language": null
+    },
+    {
+      "source": "github_repository",
+      "topic": "agent memory LLM",
+      "title": "Evermemoai/evermemo",
+      "url": "https://github.com/Evermemoai/evermemo",
+      "description": "A tiny, universal memory engine for humans and AI agents — CLI, HTTP API, MCP server, and shared memory hub in one small Go binary",
+      "created_at": "2026-07-26T09:23:09Z",
+      "updated_at": "2026-07-29T14:44:25Z",
+      "stars": 8,
+      "language": "Go"
+    },
+    {
+      "source": "github_repository",
+      "topic": "agent memory LLM",
+      "title": "lalithbuilds/engram-mcp",
+      "url": "https://github.com/lalithbuilds/engram-mcp",
+      "description": "🧠 Zero-dependency MCP server for persistent AI agent memory. Pure Python stdlib. No cloud. No Docker. No API costs. Works with Claude Code, Cursor, Windsurf.",
+      "created_at": "2026-07-26T07:24:26Z",
+      "updated_at": "2026-07-29T11:35:46Z",
+      "stars": 2,
+      "language": "Python"
+    },
+    {
+      "source": "github_repository",
+      "topic": "agent memory LLM",
+      "title": "Zazza/svoi-oss",
+      "url": "https://github.com/Zazza/svoi-oss",
+      "description": "Self-hosted, open-source personal AI assistant — streaming chat with agentic tools, long-term memory, RAG, tasks & reminders. Go + Vue 3 + PostgreSQL/pgvector. AGPL-3.0.",
+      "created_at": "2026-07-26T04:46:27Z",
+      "updated_at": "2026-07-28T17:15:30Z",
+      "stars": 7,
+      "language": "Go"
+    }
+  ],
+  "errors": [
+    "arxiv:agent_memory:The read operation timed out",
+    "arxiv:neuroscience_ai:The read operation timed out"
+  ],
+  "counts": {
+    "arxiv": 17,
+    "github_repositories": 23,
+    "github_pull_requests": 24,
+    "items": 48,
+    "errors": 2
+  },
+  "public_repo_publish": {
+    "scan_json": "scans/20260730T000736Z.json",
+    "scan_markdown": "scans/20260730T000736Z.md"
+  }
+}

@@ -1,0 +1,507 @@
+{
+  "schema": "projection.autoresearch.v1",
+  "generated_at": "2026-08-09T23:52:38.629447+00:00",
+  "enabled": true,
+  "mode": "detect_only",
+  "read_only": false,
+  "public_repo": "susyimes/auto4researh",
+  "publish_public_repo": true,
+  "cadence_hours": 4,
+  "max_publication_lag_hours": 24,
+  "since_days": 7,
+  "max_results_per_source": 6,
+  "topics": [
+    "neuroscience",
+    "brain science",
+    "large language models",
+    "LLM agents",
+    "agent memory",
+    "agent self-improvement"
+  ],
+  "skipped": false,
+  "skip_reason": null,
+  "items": [
+    {
+      "source": "github_pull_request",
+      "topic": "agent memory",
+      "title": "Validate submission dcb255e7-b2f8-4fd9-9e96-9ce3524ab2a6",
+      "url": "https://github.com/Layr-Labs/lighter-prover-challenge/pull/2199",
+      "state": "open",
+      "created_at": "2026-08-09T23:54:59Z",
+      "updated_at": "2026-08-09T23:55:16Z",
+      "repository_url": "https://api.github.com/repos/Layr-Labs/lighter-prover-challenge"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "multi agent",
+      "title": "AUDIT-10: machine-readable multi-pass audit system + copy-paste prompts",
+      "url": "https://github.com/klatar200/Updated_IPC-main-main/pull/25",
+      "state": "closed",
+      "created_at": "2026-08-09T23:54:52Z",
+      "updated_at": "2026-08-09T23:54:59Z",
+      "repository_url": "https://api.github.com/repos/klatar200/Updated_IPC-main-main"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "agent memory",
+      "title": "freeze fix",
+      "url": "https://github.com/JetBrains/Exposed/pull/2881",
+      "state": "open",
+      "created_at": "2026-08-09T23:54:33Z",
+      "updated_at": "2026-08-09T23:54:33Z",
+      "repository_url": "https://api.github.com/repos/JetBrains/Exposed"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "LLM agent",
+      "title": "chore(release): version packages",
+      "url": "https://github.com/openbrowse-ai/openbrowse/pull/215",
+      "state": "open",
+      "created_at": "2026-08-09T23:54:27Z",
+      "updated_at": "2026-08-09T23:55:11Z",
+      "repository_url": "https://api.github.com/repos/openbrowse-ai/openbrowse"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "agent memory",
+      "title": "[A8] end-to-end intelligence evaluation and CI hardening",
+      "url": "https://github.com/vixco/Continuum/pull/17",
+      "state": "open",
+      "created_at": "2026-08-09T23:54:22Z",
+      "updated_at": "2026-08-09T23:54:22Z",
+      "repository_url": "https://api.github.com/repos/vixco/Continuum"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "multi agent",
+      "title": "feat(container): update image ghcr.io/dispatcharr/dispatcharr ( 0.28.2 → 0.29.0 )",
+      "url": "https://github.com/david-driscoll/equestria-cluster/pull/3083",
+      "state": "open",
+      "created_at": "2026-08-09T23:54:21Z",
+      "updated_at": "2026-08-09T23:54:49Z",
+      "repository_url": "https://api.github.com/repos/david-driscoll/equestria-cluster"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "LLM agent",
+      "title": "Homework 6 (Capstone) — AI-Powered Multi-Agent Banking Pipeline: 5 agents, MCP, 99% coverage gate",
+      "url": "https://github.com/sem32/gen-ai-software-engineering/pull/7",
+      "state": "open",
+      "created_at": "2026-08-09T23:53:53Z",
+      "updated_at": "2026-08-09T23:54:22Z",
+      "repository_url": "https://api.github.com/repos/sem32/gen-ai-software-engineering"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "LLM agent",
+      "title": "Take the usage levels across metering, the proxy and the console",
+      "url": "https://github.com/agynio/platform-charts/pull/95",
+      "state": "closed",
+      "created_at": "2026-08-09T23:53:35Z",
+      "updated_at": "2026-08-09T23:53:58Z",
+      "repository_url": "https://api.github.com/repos/agynio/platform-charts"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "LLM agent",
+      "title": "Bump rollup from 4.62.2 to 4.62.4 in /codex-agent-keys",
+      "url": "https://github.com/erikhhansen/codex-stream-deck/pull/20",
+      "state": "open",
+      "created_at": "2026-08-09T23:53:22Z",
+      "updated_at": "2026-08-09T23:53:23Z",
+      "repository_url": "https://api.github.com/repos/erikhhansen/codex-stream-deck"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "agent memory",
+      "title": "feat: a run that says which pipeline it is on, and where in it (v1.34.0)",
+      "url": "https://github.com/ssheleg/task-pipeline/pull/20",
+      "state": "open",
+      "created_at": "2026-08-09T23:53:19Z",
+      "updated_at": "2026-08-09T23:53:19Z",
+      "repository_url": "https://api.github.com/repos/ssheleg/task-pipeline"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "LLM agent",
+      "title": "Bump rollup from 4.62.2 to 4.62.4",
+      "url": "https://github.com/erikhhansen/codex-stream-deck/pull/19",
+      "state": "open",
+      "created_at": "2026-08-09T23:53:14Z",
+      "updated_at": "2026-08-09T23:53:14Z",
+      "repository_url": "https://api.github.com/repos/erikhhansen/codex-stream-deck"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "multi agent",
+      "title": "docs: say not to put a collection in a project folder yet",
+      "url": "https://github.com/receptron/mulmoterminal/pull/1589",
+      "state": "closed",
+      "created_at": "2026-08-09T23:53:04Z",
+      "updated_at": "2026-08-09T23:54:24Z",
+      "repository_url": "https://api.github.com/repos/receptron/mulmoterminal"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "agent memory",
+      "title": "fix(dap): drain runInTerminal debuggee stdout",
+      "url": "https://github.com/can1357/oh-my-pi/pull/8125",
+      "state": "open",
+      "created_at": "2026-08-09T23:53:03Z",
+      "updated_at": "2026-08-09T23:53:03Z",
+      "repository_url": "https://api.github.com/repos/can1357/oh-my-pi"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "LLM agent",
+      "title": "Price captured LLM calls at the org's negotiated rates (Tier 1.1)",
+      "url": "https://github.com/Akash-Sathish8/Arceo/pull/176",
+      "state": "open",
+      "created_at": "2026-08-09T23:52:24Z",
+      "updated_at": "2026-08-09T23:52:25Z",
+      "repository_url": "https://api.github.com/repos/Akash-Sathish8/Arceo"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "neuroscience AI",
+      "title": "feat: add Takotsubo Cardiomyopathy disorder entry",
+      "url": "https://github.com/monarch-initiative/dismech/pull/8272",
+      "state": "open",
+      "created_at": "2026-08-09T22:34:11Z",
+      "updated_at": "2026-08-09T23:17:44Z",
+      "repository_url": "https://api.github.com/repos/monarch-initiative/dismech"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "neuroscience AI",
+      "title": "feat(workspaces): illustrated themes that derive icon and colour",
+      "url": "https://github.com/ThinkEx-OSS/thinkex/pull/748",
+      "state": "closed",
+      "created_at": "2026-08-09T16:49:48Z",
+      "updated_at": "2026-08-09T17:51:15Z",
+      "repository_url": "https://api.github.com/repos/ThinkEx-OSS/thinkex"
+    },
+    {
+      "source": "github_repository",
+      "topic": "neuroscience AI",
+      "title": "Mirakelor/Prognosis",
+      "url": "https://github.com/Mirakelor/Prognosis",
+      "description": "🧠 A cognitive-neuroscience-inspired AI coding agent that lives in your terminal.",
+      "created_at": "2026-08-09T14:47:44Z",
+      "updated_at": "2026-08-09T17:11:44Z",
+      "stars": 0,
+      "language": "Rust"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "neuroscience AI",
+      "title": "fix(coach): cast guard covers reader-bound prompt literals — retired names cannot return (Fixes #2384)",
+      "url": "https://github.com/averagejoematt/life-platform/pull/2462",
+      "state": "closed",
+      "created_at": "2026-08-09T12:35:10Z",
+      "updated_at": "2026-08-09T17:04:27Z",
+      "repository_url": "https://api.github.com/repos/averagejoematt/life-platform"
+    },
+    {
+      "source": "github_repository",
+      "topic": "LLM agent",
+      "title": "SaladDay/pi-from-scratch",
+      "url": "https://github.com/SaladDay/pi-from-scratch",
+      "description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
+      "created_at": "2026-08-09T12:15:30Z",
+      "updated_at": "2026-08-09T23:47:16Z",
+      "stars": 74,
+      "language": "TypeScript"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "neuroscience AI",
+      "title": "Curiosity Project: 3 new explorations",
+      "url": "https://github.com/aarushkachhawa/Dreaming/pull/25",
+      "state": "open",
+      "created_at": "2026-08-09T10:16:41Z",
+      "updated_at": "2026-08-09T10:16:41Z",
+      "repository_url": "https://api.github.com/repos/aarushkachhawa/Dreaming"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "neuroscience AI",
+      "title": "Ingest the whole ancient-DNA literature, and quadruple the evaluation set",
+      "url": "https://github.com/kristerhedfors/Deepresearch.se/pull/412",
+      "state": "closed",
+      "created_at": "2026-08-09T09:25:39Z",
+      "updated_at": "2026-08-09T16:05:35Z",
+      "repository_url": "https://api.github.com/repos/kristerhedfors/Deepresearch.se"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "neuroscience AI",
+      "title": "post: add article #150 — Reward Prediction Error — What Dopamine Actually Signals",
+      "url": "https://github.com/notmike101/ai-blog/pull/150",
+      "state": "closed",
+      "created_at": "2026-08-09T05:16:52Z",
+      "updated_at": "2026-08-09T05:18:16Z",
+      "repository_url": "https://api.github.com/repos/notmike101/ai-blog"
+    },
+    {
+      "source": "github_repository",
+      "topic": "multi agent framework",
+      "title": "meddadaek/agentic_rag",
+      "url": "https://github.com/meddadaek/agentic_rag",
+      "description": "An advanced, intelligent Retrieval-Augmented Generation (RAG) framework designed to perform multi-step reasoning, dynamic context retrieval, and precise query answering.",
+      "created_at": "2026-08-09T00:26:46Z",
+      "updated_at": "2026-08-09T00:56:45Z",
+      "stars": 2,
+      "language": "Python"
+    },
+    {
+      "source": "github_repository",
+      "topic": "LLM agent",
+      "title": "i3T4AN/KADATH",
+      "url": "https://github.com/i3T4AN/KADATH",
+      "description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
+      "created_at": "2026-08-08T15:49:55Z",
+      "updated_at": "2026-08-09T23:35:39Z",
+      "stars": 168,
+      "language": "Python"
+    },
+    {
+      "source": "github_repository",
+      "topic": "neuroscience AI",
+      "title": "MioYuio/Academic-Skills-Trending",
+      "url": "https://github.com/MioYuio/Academic-Skills-Trending",
+      "description": "A trending board of AI agent skills, tools, and repositories for scientific research — sorted by GitHub stars, tracked weekly. Neuroscience, brain-inspired intelligence, LLMs, embodied intelligence.",
+      "created_at": "2026-08-07T11:42:29Z",
+      "updated_at": "2026-08-07T12:45:43Z",
+      "stars": 0,
+      "language": "HTML"
+    },
+    {
+      "source": "github_repository",
+      "topic": "multi agent framework",
+      "title": "YINGLINGH/limioryn",
+      "url": "https://github.com/YINGLINGH/limioryn",
+      "description": "High-level edge-cloud AI multi-agent framework for real devices, verifiable actuation and entropy-bounded recovery.",
+      "created_at": "2026-08-07T08:38:44Z",
+      "updated_at": "2026-08-09T21:11:21Z",
+      "stars": 59,
+      "language": "Python"
+    },
+    {
+      "source": "github_repository",
+      "topic": "multi agent framework",
+      "title": "urcuqui/weaponAIzer",
+      "url": "https://github.com/urcuqui/weaponAIzer",
+      "description": "Multi-agent framework for evidence-driven CVE research, exploitation, and validation.",
+      "created_at": "2026-08-07T02:16:06Z",
+      "updated_at": "2026-08-09T01:19:27Z",
+      "stars": 3,
+      "language": null
+    },
+    {
+      "source": "github_repository",
+      "topic": "LLM agent",
+      "title": "wanmol/goal-flow",
+      "url": "https://github.com/wanmol/goal-flow",
+      "description": "Graph-Orchestrated Agent Loop — a production-grade framework on LangGraph. Combine workflow graphs and agent loops, transpile Dify DSL to runnable code, swap wire protocols (Dify/OpenAI).",
+      "created_at": "2026-08-06T15:43:24Z",
+      "updated_at": "2026-08-09T06:29:29Z",
+      "stars": 72,
+      "language": "Python"
+    },
+    {
+      "source": "github_repository",
+      "topic": "LLM agent",
+      "title": "oliverb-io1902e8/agent-skills-collection",
+      "url": "https://github.com/oliverb-io1902e8/agent-skills-collection",
+      "description": "Curated collection of modular agent skills for LLM-based agents",
+      "created_at": "2026-08-06T14:07:02Z",
+      "updated_at": "2026-08-09T21:25:16Z",
+      "stars": 134,
+      "language": "Python"
+    },
+    {
+      "source": "github_repository",
+      "topic": "multi agent framework",
+      "title": "YRL-AIDA/GUTS-Agent-Framework",
+      "url": "https://github.com/YRL-AIDA/GUTS-Agent-Framework",
+      "description": "Agent-based pipeline for RDF schema generation and evaluation from complex tables. Companion code for the GUTS benchmark (EACL 2027). Features a multi-agent LLM architecture, deterministic structural metrics, and LLM-as-a-Judge semantic validation.",
+      "created_at": "2026-08-06T11:55:45Z",
+      "updated_at": "2026-08-09T23:43:50Z",
+      "stars": 1,
+      "language": "HTML"
+    },
+    {
+      "source": "github_repository",
+      "topic": "neuroscience AI",
+      "title": "Serhii2009/first-brain",
+      "url": "https://github.com/Serhii2009/first-brain",
+      "description": "The First Brain — AI that strengthens the mind you already have. A manifesto by Serhii Kravchenko.",
+      "created_at": "2026-08-05T14:33:34Z",
+      "updated_at": "2026-08-06T03:57:34Z",
+      "stars": 1,
+      "language": null
+    },
+    {
+      "source": "github_repository",
+      "topic": "agent memory LLM",
+      "title": "ptaranat/zeromem",
+      "url": "https://github.com/ptaranat/zeromem",
+      "description": "Zero-token memory for LLM agents. Rust implementation of Zero-Mem (arXiv:2607.29377) with a Hermes Agent memory provider.",
+      "created_at": "2026-08-05T14:09:54Z",
+      "updated_at": "2026-08-09T09:48:52Z",
+      "stars": 14,
+      "language": "Rust"
+    },
+    {
+      "source": "github_repository",
+      "topic": "neuroscience AI",
+      "title": "ricardobarbieri/NeuroCOMP-Behavioral-Compliance-Intelligence-Platform",
+      "url": "https://github.com/ricardobarbieri/NeuroCOMP-Behavioral-Compliance-Intelligence-Platform",
+      "description": "Behavioral intelligence simulator for corporate compliance. Combines cognitive neuroscience, experimental social psychology, game theory, and AI explainability (XAI) in a single-file interactive platform.",
+      "created_at": "2026-08-05T12:29:17Z",
+      "updated_at": "2026-08-05T13:34:29Z",
+      "stars": 0,
+      "language": "HTML"
+    },
+    {
+      "source": "github_repository",
+      "topic": "agent memory LLM",
+      "title": "Roxx0x/mtrace",
+      "url": "https://github.com/Roxx0x/mtrace",
+      "description": "A cognitive memory architecture for agents: ACT-R activation, association, consolidation, and forgetting. sqlite, zero dependencies.",
+      "created_at": "2026-08-04T13:18:12Z",
+      "updated_at": "2026-08-09T14:09:19Z",
+      "stars": 9,
+      "language": "Python"
+    },
+    {
+      "source": "github_repository",
+      "topic": "multi agent framework",
+      "title": "SamanMhri/agentic-research-framework",
+      "url": "https://github.com/SamanMhri/agentic-research-framework",
+      "description": "Universal AI Agent Skill for an autonomous, multi-agent academic research framework. Implements a 6-pillar architecture with DAG knowledge modeling, multi-tier memory, handoff schemas, red-team auditing, and executive board consensus.",
+      "created_at": "2026-08-04T12:44:47Z",
+      "updated_at": "2026-08-05T07:54:16Z",
+      "stars": 1,
+      "language": null
+    },
+    {
+      "source": "github_repository",
+      "topic": "agent memory LLM",
+      "title": "limenagent/prodagent",
+      "url": "https://github.com/limenagent/prodagent",
+      "description": "Production‑grade LLM agent framework. Built‑in checkpoint recovery, budget control, circuit‑breaker, security guardrails, state‑machine and observability for reliable agent deployment.",
+      "created_at": "2026-08-04T12:42:23Z",
+      "updated_at": "2026-08-09T03:24:43Z",
+      "stars": 21,
+      "language": "Python"
+    },
+    {
+      "source": "github_repository",
+      "topic": "neuroscience AI",
+      "title": "zzzzz9999/014-empathy-circuit",
+      "url": "https://github.com/zzzzz9999/014-empathy-circuit",
+      "description": "一个用镜像神经元理论构建的共情训练 Agent。你输入一个令你不解或不适的他人行为，系统用 LangGraph 引导你走完四步神经共情链：情绪识别、情境模拟、动机猜想、反应重评。它不会告诉你对方怎么想，而是帮你看见自己的共情回路在哪里短路或过载。",
+      "created_at": "2026-08-04T07:35:51Z",
+      "updated_at": "2026-08-04T07:36:31Z",
+      "stars": 0,
+      "language": "Python"
+    },
+    {
+      "source": "github_repository",
+      "topic": "agent memory LLM",
+      "title": "simahanfeng007-lgtm/Tiangongzaowu-V3",
+      "url": "https://github.com/simahanfeng007-lgtm/Tiangongzaowu-V3",
+      "description": "Tiangong (天工造物) is an Engineering Lifeform System for building autonomous digital organisms. It uses LLM as the cognitive soul and software architecture as the digital body, enabling AI agents with memory, learning, self-evolution, self-reflection, capabili...",
+      "created_at": "2026-08-04T05:06:54Z",
+      "updated_at": "2026-08-09T06:23:03Z",
+      "stars": 6,
+      "language": "Python"
+    },
+    {
+      "source": "github_repository",
+      "topic": "agent memory LLM",
+      "title": "xgre1/troth",
+      "url": "https://github.com/xgre1/troth",
+      "description": "An AI partner whose memory lives on your machine, not in a vendor account. Swap the model, keep the mind.",
+      "created_at": "2026-08-03T21:21:43Z",
+      "updated_at": "2026-08-09T23:36:33Z",
+      "stars": 7,
+      "language": "JavaScript"
+    },
+    {
+      "source": "github_repository",
+      "topic": "agent memory LLM",
+      "title": "SsssssSynqa/tether-agent-runtime",
+      "url": "https://github.com/SsssssSynqa/tether-agent-runtime",
+      "description": "Give an API-only agent real continuity: live on Telegram and your terminal in one session, with built-in layered memory (auto-folding + day/week cards) and a local memory console. The astronaut's tether — the line that must not break.",
+      "created_at": "2026-08-03T17:28:53Z",
+      "updated_at": "2026-08-09T12:44:52Z",
+      "stars": 11,
+      "language": "JavaScript"
+    },
+    {
+      "source": "github_repository",
+      "topic": "multi agent framework",
+      "title": "AniruddhaDas1/OniRoute_SwarmAgents",
+      "url": "https://github.com/AniruddhaDas1/OniRoute_SwarmAgents",
+      "description": "Multi-agent routing and autonomous AI swarm orchestration framework built for modern agentic workflows. Open source project for the communities.",
+      "created_at": "2026-08-03T16:14:10Z",
+      "updated_at": "2026-08-06T15:30:48Z",
+      "stars": 2,
+      "language": "Python"
+    },
+    {
+      "source": "github_repository",
+      "topic": "neuroscience AI",
+      "title": "isuruchethiya/chat-bot",
+      "url": "https://github.com/isuruchethiya/chat-bot",
+      "description": "Llama Dashboard is a self-hosted, neuroscience-inspired multimodal AI assistant powered by Ollama — combining local text chat, RAG-based PDF Q&A, vision understanding, voice I/O, and image generation in a single lightweight dashboard, with no cloud dependency.",
+      "created_at": "2026-08-03T11:33:27Z",
+      "updated_at": "2026-08-03T11:53:45Z",
+      "stars": 1,
+      "language": "HTML"
+    },
+    {
+      "source": "github_repository",
+      "topic": "LLM agent",
+      "title": "flornkm/skills",
+      "url": "https://github.com/flornkm/skills",
+      "description": "Collection of skills giving agents guidance on design/eng concepts LLMs aren't trained on.",
+      "created_at": "2026-08-02T13:59:59Z",
+      "updated_at": "2026-08-09T09:31:12Z",
+      "stars": 63,
+      "language": null
+    },
+    {
+      "source": "github_repository",
+      "topic": "LLM agent",
+      "title": "kaixinjiuxing666/pure-harness",
+      "url": "https://github.com/kaixinjiuxing666/pure-harness",
+      "description": "A beginner-friendly, notebook-first educational project: building LLM Agent Execution Harnesses from scratch with runtime observability. / 面向零基础的 Notebook 教学向项目：从零构建大模型 Agent Execution Harnesses (执行基础设施)与运行时可观测性。",
+      "created_at": "2026-08-02T08:03:10Z",
+      "updated_at": "2026-08-08T10:24:38Z",
+      "stars": 38,
+      "language": "Jupyter Notebook"
+    }
+  ],
+  "errors": [
+    "arxiv:llm_agents:The read operation timed out",
+    "arxiv:agent_memory:The read operation timed out",
+    "arxiv:llm_reasoning:The read operation timed out",
+    "arxiv:neuroscience_ai:The read operation timed out",
+    "arxiv:brain_memory:The read operation timed out"
+  ],
+  "counts": {
+    "arxiv": 0,
+    "github_repositories": 24,
+    "github_pull_requests": 20,
+    "items": 44,
+    "errors": 5
+  },
+  "public_repo_publish": {
+    "scan_json": "scans/20260809T235238Z.json",
+    "scan_markdown": "scans/20260809T235238Z.md"
+  }
+}
