@@ -1,6 +1,6 @@
 {
   "schema": "projection.autoresearch.v1",
-  "generated_at": "2026-08-27T16:12:50.637414+00:00",
+  "generated_at": "2026-08-27T05:09:05.469675+00:00",
   "enabled": true,
   "mode": "detect_only",
   "read_only": false,
@@ -23,192 +23,182 @@
   "items": [
     {
       "source": "github_pull_request",
-      "topic": "multi agent",
-      "title": "[WIP] Merge all ready PRs and build complete autonomous agent system",
-      "url": "https://github.com/Project-Gifted1/pg1-ai-agent/pull/5",
+      "topic": "agent memory",
+      "title": "chore(deps): update dependency aquaproj/aqua-registry to v4.556.0 (terraform/aws/users/aqua)",
+      "url": "https://github.com/boxp/arch/pull/12666",
       "state": "open",
-      "created_at": "2026-08-27T16:13:05Z",
-      "updated_at": "2026-08-27T16:13:05Z",
-      "repository_url": "https://api.github.com/repos/Project-Gifted1/pg1-ai-agent"
+      "created_at": "2026-08-27T05:08:41Z",
+      "updated_at": "2026-08-27T05:08:42Z",
+      "repository_url": "https://api.github.com/repos/boxp/arch"
     },
     {
       "source": "github_pull_request",
       "topic": "agent memory",
-      "title": "chore(deps): bump the python-dependencies group with 5 updates",
-      "url": "https://github.com/kyletser/coderook/pull/15",
+      "title": "chore(deps): update dependency aquaproj/aqua-registry to v4.556.0 (terraform/aws/tfaction/aqua)",
+      "url": "https://github.com/boxp/arch/pull/12665",
       "state": "open",
-      "created_at": "2026-08-27T16:13:02Z",
-      "updated_at": "2026-08-27T16:13:03Z",
-      "repository_url": "https://api.github.com/repos/kyletser/coderook"
-    },
-    {
-      "source": "github_pull_request",
-      "topic": "LLM agent",
-      "title": "fix: resolve issue #26973 (concurrent multi-agent)",
-      "url": "https://github.com/tadanobutubutu/screeps/pull/36509",
-      "state": "open",
-      "created_at": "2026-08-27T16:12:55Z",
-      "updated_at": "2026-08-27T16:12:55Z",
-      "repository_url": "https://api.github.com/repos/tadanobutubutu/screeps"
+      "created_at": "2026-08-27T05:08:34Z",
+      "updated_at": "2026-08-27T05:09:19Z",
+      "repository_url": "https://api.github.com/repos/boxp/arch"
     },
     {
       "source": "github_pull_request",
       "topic": "agent memory",
-      "title": "feat: add a mock dev server for the authenticated dashboard UI",
-      "url": "https://github.com/willie-yao/aster/pull/186",
+      "title": "feat(recall): 收尾 #128 — 受控召回与工作记忆组装",
+      "url": "https://github.com/Colin4k1024/Aetheris-MemOS/pull/134",
       "state": "open",
-      "created_at": "2026-08-27T16:12:53Z",
-      "updated_at": "2026-08-27T16:12:53Z",
-      "repository_url": "https://api.github.com/repos/willie-yao/aster"
-    },
-    {
-      "source": "github_pull_request",
-      "topic": "multi agent",
-      "title": "feat(queryflux): embeddable library framework (proof of concept)",
-      "url": "https://github.com/lakeops-org/queryflux/pull/201",
-      "state": "open",
-      "created_at": "2026-08-27T16:12:53Z",
-      "updated_at": "2026-08-27T16:13:03Z",
-      "repository_url": "https://api.github.com/repos/lakeops-org/queryflux"
-    },
-    {
-      "source": "github_pull_request",
-      "topic": "LLM agent",
-      "title": "fix: resolve issue #26975 (concurrent multi-agent)",
-      "url": "https://github.com/tadanobutubutu/screeps/pull/36507",
-      "state": "open",
-      "created_at": "2026-08-27T16:12:49Z",
-      "updated_at": "2026-08-27T16:13:01Z",
-      "repository_url": "https://api.github.com/repos/tadanobutubutu/screeps"
+      "created_at": "2026-08-27T05:08:27Z",
+      "updated_at": "2026-08-27T05:08:27Z",
+      "repository_url": "https://api.github.com/repos/Colin4k1024/Aetheris-MemOS"
     },
     {
       "source": "github_pull_request",
       "topic": "agent memory",
-      "title": "feat: add isolated fixture runner for WDL drafts (#18)",
-      "url": "https://github.com/qzhqzh/dsh-bio-workflows/pull/19",
+      "title": "docs: describe two scanner families, not one",
+      "url": "https://github.com/jeremyfuksa/bearpaw/pull/431",
       "state": "open",
-      "created_at": "2026-08-27T16:12:47Z",
-      "updated_at": "2026-08-27T16:12:47Z",
-      "repository_url": "https://api.github.com/repos/qzhqzh/dsh-bio-workflows"
-    },
-    {
-      "source": "github_pull_request",
-      "topic": "multi agent",
-      "title": "Corrige trois défauts révélés par l'évaluation système (31/32)",
-      "url": "https://github.com/X-project-ISPM/ORIENT-IA/pull/36",
-      "state": "open",
-      "created_at": "2026-08-27T16:12:44Z",
-      "updated_at": "2026-08-27T16:12:44Z",
-      "repository_url": "https://api.github.com/repos/X-project-ISPM/ORIENT-IA"
+      "created_at": "2026-08-27T05:08:25Z",
+      "updated_at": "2026-08-27T05:08:26Z",
+      "repository_url": "https://api.github.com/repos/jeremyfuksa/bearpaw"
     },
     {
       "source": "github_pull_request",
       "topic": "LLM agent",
-      "title": "Block SQLite bracket-alias FROM-end SQL allowlist bypass",
-      "url": "https://github.com/Pancakeze/talkbi/pull/60",
-      "state": "open",
-      "created_at": "2026-08-27T16:12:41Z",
-      "updated_at": "2026-08-27T16:12:41Z",
-      "repository_url": "https://api.github.com/repos/Pancakeze/talkbi"
-    },
-    {
-      "source": "github_pull_request",
-      "topic": "agent memory",
-      "title": "fix(chat): undo de-garble over-rollback — restore clobbered symbols + round fixes",
-      "url": "https://github.com/oxiverse-ecosystem/ravana/pull/54",
-      "state": "open",
-      "created_at": "2026-08-27T16:12:39Z",
-      "updated_at": "2026-08-27T16:12:54Z",
-      "repository_url": "https://api.github.com/repos/oxiverse-ecosystem/ravana"
-    },
-    {
-      "source": "github_pull_request",
-      "topic": "LLM agent",
-      "title": "Make the identity layer actually resolvable, and the local path actually complete",
-      "url": "https://github.com/hyhmrright/Confer/pull/49",
-      "state": "open",
-      "created_at": "2026-08-27T16:12:38Z",
-      "updated_at": "2026-08-27T16:12:38Z",
-      "repository_url": "https://api.github.com/repos/hyhmrright/Confer"
-    },
-    {
-      "source": "github_pull_request",
-      "topic": "LLM agent",
-      "title": "feat(docs): make deployoor.dev answer machine clients, and canonicalise on the apex",
-      "url": "https://github.com/raycashxyz/deployoor/pull/56",
-      "state": "open",
-      "created_at": "2026-08-27T16:12:20Z",
-      "updated_at": "2026-08-27T16:12:27Z",
-      "repository_url": "https://api.github.com/repos/raycashxyz/deployoor"
-    },
-    {
-      "source": "github_pull_request",
-      "topic": "LLM agent",
-      "title": "Add the skeleton skill and its eval suite",
-      "url": "https://github.com/benjaminjackson/writing-skills/pull/2",
-      "state": "open",
-      "created_at": "2026-08-27T16:12:20Z",
-      "updated_at": "2026-08-27T16:12:20Z",
-      "repository_url": "https://api.github.com/repos/benjaminjackson/writing-skills"
-    },
-    {
-      "source": "github_pull_request",
-      "topic": "agent memory",
-      "title": "Refusals become memory (GRPH-550)",
-      "url": "https://github.com/asc-me/graphban/pull/383",
-      "state": "open",
-      "created_at": "2026-08-27T16:12:17Z",
-      "updated_at": "2026-08-27T16:12:17Z",
-      "repository_url": "https://api.github.com/repos/asc-me/graphban"
-    },
-    {
-      "source": "github_pull_request",
-      "topic": "multi agent",
-      "title": "fix: resolve issue #36358 (concurrent multi-agent)",
-      "url": "https://github.com/tadanobutubutu/screeps/pull/36501",
-      "state": "open",
-      "created_at": "2026-08-27T16:12:17Z",
-      "updated_at": "2026-08-27T16:12:17Z",
-      "repository_url": "https://api.github.com/repos/tadanobutubutu/screeps"
-    },
-    {
-      "source": "github_pull_request",
-      "topic": "neuroscience AI",
-      "title": "curate(Binge_Eating_Disorder): add Juniver digital intervention",
-      "url": "https://github.com/monarch-initiative/dismech/pull/9645",
-      "state": "open",
-      "created_at": "2026-08-27T06:44:49Z",
-      "updated_at": "2026-08-27T06:52:56Z",
-      "repository_url": "https://api.github.com/repos/monarch-initiative/dismech"
-    },
-    {
-      "source": "github_pull_request",
-      "topic": "neuroscience AI",
-      "title": "Add a purpose-built social preview",
-      "url": "https://github.com/sir-ad/awesome-memory/pull/5",
+      "title": "Update README: mentions, filters, AI replies, corrected automation nav",
+      "url": "https://github.com/tadeubanzato/gakai.co/pull/11",
       "state": "closed",
-      "created_at": "2026-08-27T06:18:09Z",
-      "updated_at": "2026-08-27T06:18:44Z",
-      "repository_url": "https://api.github.com/repos/sir-ad/awesome-memory"
+      "created_at": "2026-08-27T05:08:23Z",
+      "updated_at": "2026-08-27T05:08:33Z",
+      "repository_url": "https://api.github.com/repos/tadeubanzato/gakai.co"
     },
     {
       "source": "github_pull_request",
-      "topic": "neuroscience AI",
-      "title": "Stage 2.5 integrity verification: fix citations, downgrade unsupporte…",
-      "url": "https://github.com/smile-plzz/listener-taste-growth-profile/pull/4",
+      "topic": "multi agent",
+      "title": "feat(documentos): agrega edición y emisión canónica",
+      "url": "https://github.com/nuevauno/cloudflare-os/pull/53",
+      "state": "open",
+      "created_at": "2026-08-27T05:08:16Z",
+      "updated_at": "2026-08-27T05:08:25Z",
+      "repository_url": "https://api.github.com/repos/nuevauno/cloudflare-os"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "multi agent",
+      "title": "chore(deps): bump actions/github-script from 7 to 9",
+      "url": "https://github.com/afsting/developer-experience-concepts/pull/22",
+      "state": "open",
+      "created_at": "2026-08-27T05:08:14Z",
+      "updated_at": "2026-08-27T05:08:15Z",
+      "repository_url": "https://api.github.com/repos/afsting/developer-experience-concepts"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "agent memory",
+      "title": "REV-91 Reconcile internal Metrics project memory",
+      "url": "https://github.com/REVREBEL/Metrics-Core/pull/147",
+      "state": "open",
+      "created_at": "2026-08-27T05:07:53Z",
+      "updated_at": "2026-08-27T05:09:09Z",
+      "repository_url": "https://api.github.com/repos/REVREBEL/Metrics-Core"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "multi agent",
+      "title": "chore(repo): GitHub metadata + issue templates (Cluster 293.0)",
+      "url": "https://github.com/david-engelmann/maidan/pull/548",
+      "state": "open",
+      "created_at": "2026-08-27T05:07:36Z",
+      "updated_at": "2026-08-27T05:07:36Z",
+      "repository_url": "https://api.github.com/repos/david-engelmann/maidan"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "LLM agent",
+      "title": "feat: what a model can be shown is asked of the endpoint, not assumed",
+      "url": "https://github.com/madebywelch/guaca/pull/109",
       "state": "closed",
-      "created_at": "2026-08-27T05:47:21Z",
-      "updated_at": "2026-08-27T05:47:31Z",
-      "repository_url": "https://api.github.com/repos/smile-plzz/listener-taste-growth-profile"
+      "created_at": "2026-08-27T05:07:27Z",
+      "updated_at": "2026-08-27T05:07:54Z",
+      "repository_url": "https://api.github.com/repos/madebywelch/guaca"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "agent memory",
+      "title": "feat(builder): make the build loop verify before it ships",
+      "url": "https://github.com/HelloAllyTech/ally-be/pull/402",
+      "state": "open",
+      "created_at": "2026-08-27T05:07:23Z",
+      "updated_at": "2026-08-27T05:07:48Z",
+      "repository_url": "https://api.github.com/repos/HelloAllyTech/ally-be"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "multi agent",
+      "title": "v1.19: semantic occupancy grid — the spatial engine's 'second memory'",
+      "url": "https://github.com/angeles725/design3d-kit/pull/18",
+      "state": "open",
+      "created_at": "2026-08-27T05:07:13Z",
+      "updated_at": "2026-08-27T05:07:13Z",
+      "repository_url": "https://api.github.com/repos/angeles725/design3d-kit"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "LLM agent",
+      "title": "fix: resolve issue #24449 (concurrent multi-agent)",
+      "url": "https://github.com/tadanobutubutu/screeps/pull/29789",
+      "state": "closed",
+      "created_at": "2026-08-27T05:07:10Z",
+      "updated_at": "2026-08-27T05:08:39Z",
+      "repository_url": "https://api.github.com/repos/tadanobutubutu/screeps"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "LLM agent",
+      "title": "feat(supervisor): wire debug-agent with verify and dry-boot",
+      "url": "https://github.com/ddtcorex/dsh-maestro-supervisor/pull/5",
+      "state": "open",
+      "created_at": "2026-08-27T05:07:01Z",
+      "updated_at": "2026-08-27T05:07:01Z",
+      "repository_url": "https://api.github.com/repos/ddtcorex/dsh-maestro-supervisor"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "LLM agent",
+      "title": "Add DevAI Python AI library v7.52.0 with IsortAnalyzer",
+      "url": "https://github.com/Kkkppmm/-agent-rebuild-everything-with-new-code-and-bug-fixes-and-69-4y/pull/520",
+      "state": "open",
+      "created_at": "2026-08-27T05:06:57Z",
+      "updated_at": "2026-08-27T05:06:57Z",
+      "repository_url": "https://api.github.com/repos/Kkkppmm/-agent-rebuild-everything-with-new-code-and-bug-fixes-and-69-4y"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "multi agent",
+      "title": "[copilot-test-single-pr] Multi-commit test from Copilot",
+      "url": "https://github.com/githubnext/gh-aw-test/pull/12529",
+      "state": "closed",
+      "created_at": "2026-08-27T05:06:45Z",
+      "updated_at": "2026-08-27T05:08:04Z",
+      "repository_url": "https://api.github.com/repos/githubnext/gh-aw-test"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "LLM agent",
+      "title": "Add LiveKit realtime voice path, CI, and the validation sprint plan",
+      "url": "https://github.com/JasonZQH/YourPassenger/pull/8",
+      "state": "open",
+      "created_at": "2026-08-27T05:06:17Z",
+      "updated_at": "2026-08-27T05:06:17Z",
+      "repository_url": "https://api.github.com/repos/JasonZQH/YourPassenger"
     },
     {
       "source": "github_pull_request",
       "topic": "neuroscience AI",
       "title": "Collection viewer, source expansion, and topic enrichment",
       "url": "https://github.com/hideh1231/research-collection-radar/pull/2",
-      "state": "closed",
+      "state": "open",
       "created_at": "2026-08-27T02:13:42Z",
-      "updated_at": "2026-08-27T09:40:25Z",
+      "updated_at": "2026-08-27T02:36:00Z",
       "repository_url": "https://api.github.com/repos/hideh1231/research-collection-radar"
     },
     {
@@ -230,6 +220,26 @@
       "created_at": "2026-08-26T21:36:46Z",
       "updated_at": "2026-08-26T21:40:20Z",
       "repository_url": "https://api.github.com/repos/ashitaka-emishi/the-architecture-of-apostasy"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "neuroscience AI",
+      "title": "AXON-3-JOBS-REBUILD-0826: Self-Research to 3-area build-plan mode",
+      "url": "https://github.com/northsideventuresllc-sketch/AXON/pull/123",
+      "state": "closed",
+      "created_at": "2026-08-26T18:41:32Z",
+      "updated_at": "2026-08-26T20:54:45Z",
+      "repository_url": "https://api.github.com/repos/northsideventuresllc-sketch/AXON"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "neuroscience AI",
+      "title": "Versão inicial: a aula que dá partida no repositório",
+      "url": "https://github.com/barbieri97/aula-avaliacao-transtornos-neurocognitivos/pull/3",
+      "state": "closed",
+      "created_at": "2026-08-26T18:24:17Z",
+      "updated_at": "2026-08-26T18:29:15Z",
+      "repository_url": "https://api.github.com/repos/barbieri97/aula-avaliacao-transtornos-neurocognitivos"
     },
     {
       "source": "arxiv",
@@ -486,7 +496,7 @@
       "published_at": "2026-08-26T16:42:02Z",
       "updated_at": "2026-08-26T16:42:02Z",
       "authors": [
-        "Songyuan Li",
+        "Somgyuan Li",
         "Ahmed M. Abdelmoniem",
         "Shiqiang Wang"
       ],
@@ -540,7 +550,7 @@
       "url": "https://github.com/Fdubois123/neuro-silicon-symbiosis",
       "description": "Interactive multimodal AI platform for cognitive resilience modeling, digital neuro twins, 3D brain visualization, and neuroscience simulation.",
       "created_at": "2026-08-26T14:51:42Z",
-      "updated_at": "2026-08-27T12:28:20Z",
+      "updated_at": "2026-08-26T19:04:00Z",
       "stars": 0,
       "language": "TypeScript"
     },
@@ -605,14 +615,24 @@
       "summary": "Robot policies are predominantly learned with classical parametric variants of imitation learning or RL, where training stores the agent's behavior exclusively in the policy's network parameters, putting a heavy burden on the representation learning algorithm. We propose a new navigation agent equipped with non-parametric memory which explicitly indexes prior steps leading to critical events. The advantages are tw..."
     },
     {
+      "source": "github_pull_request",
+      "topic": "neuroscience AI",
+      "title": "Fix three requirement-audit defects, and research twelve more programs",
+      "url": "https://github.com/23jmo/columbia-catalog/pull/30",
+      "state": "closed",
+      "created_at": "2026-08-26T10:11:53Z",
+      "updated_at": "2026-08-26T10:37:48Z",
+      "repository_url": "https://api.github.com/repos/23jmo/columbia-catalog"
+    },
+    {
       "source": "github_repository",
       "topic": "LLM agent",
       "title": "UditAkhourii/cdaf",
       "url": "https://github.com/UditAkhourii/cdaf",
       "description": "CDAF (Cached Descriptive Asset Files) - open sidecar format for video so AI agents stop re-analyzing the same footage. Spec, CLI, agent skill, reproducible benchmark.",
       "created_at": "2026-08-26T09:12:41Z",
-      "updated_at": "2026-08-27T15:41:44Z",
-      "stars": 91,
+      "updated_at": "2026-08-27T03:13:44Z",
+      "stars": 74,
       "language": "Python"
     },
     {
@@ -675,40 +695,18 @@
       "updated_at": "2026-08-26T20:43:43Z",
       "stars": 3,
       "language": null
-    },
-    {
-      "source": "github_repository",
-      "topic": "neuroscience AI",
-      "title": "bcmartinb/ai-aware-research-and-teaching",
-      "url": "https://github.com/bcmartinb/ai-aware-research-and-teaching",
-      "description": "Materials for the SfN 2026 workshop: Building AI-Aware Assignments for Neuroscience Education",
-      "created_at": "2026-08-24T20:08:49Z",
-      "updated_at": "2026-08-24T20:11:21Z",
-      "stars": 0,
-      "language": null
-    },
-    {
-      "source": "github_repository",
-      "topic": "multi agent framework",
-      "title": "kamalesh404/AgentMesh",
-      "url": "https://github.com/kamalesh404/AgentMesh",
-      "description": "Multi-agent AI framework with autonomous agents, tool use, memory systems, orchestration, and consensus protocols",
-      "created_at": "2026-08-24T15:56:29Z",
-      "updated_at": "2026-08-26T16:36:55Z",
-      "stars": 2,
-      "language": "Python"
     }
   ],
   "errors": [],
   "counts": {
     "arxiv": 29,
     "github_repositories": 24,
-    "github_pull_requests": 21,
+    "github_pull_requests": 23,
     "items": 48,
     "errors": 0
   },
   "public_repo_publish": {
-    "scan_json": "scans/20260827T161250Z.json",
-    "scan_markdown": "scans/20260827T161250Z.md"
+    "scan_json": "scans/20260827T050905Z.json",
+    "scan_markdown": "scans/20260827T050905Z.md"
   }
 }
