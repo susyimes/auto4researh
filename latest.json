@@ -1,6 +1,6 @@
 {
   "schema": "projection.autoresearch.v1",
-  "generated_at": "2026-10-29T19:36:18.438559+00:00",
+  "generated_at": "2026-10-30T00:00:04.671583+00:00",
   "enabled": true,
   "mode": "detect_only",
   "read_only": false,
@@ -23,153 +23,194 @@
   "items": [
     {
       "source": "github_pull_request",
-      "topic": "LLM agent",
-      "title": "Override the generated agents.md with an agency description",
-      "url": "https://github.com/conspireagencyteam/conspireagency-horizon/pull/13",
+      "topic": "multi agent",
+      "title": "Adaptive kv stream rocm multi kv types",
+      "url": "https://github.com/achyudh/llama.cpp/pull/4",
       "state": "open",
-      "created_at": "2026-10-29T19:36:23Z",
-      "updated_at": "2026-10-29T19:36:23Z",
-      "repository_url": "https://api.github.com/repos/conspireagencyteam/conspireagency-horizon"
-    },
-    {
-      "source": "github_pull_request",
-      "topic": "LLM agent",
-      "title": "chore(deps): update dependency aws-cli to v2.38.5",
-      "url": "https://github.com/pelotech/packer-plugin-kubevirt/pull/179",
-      "state": "open",
-      "created_at": "2026-10-29T19:36:23Z",
-      "updated_at": "2026-10-29T19:36:23Z",
-      "repository_url": "https://api.github.com/repos/pelotech/packer-plugin-kubevirt"
+      "created_at": "2026-10-30T00:01:36Z",
+      "updated_at": "2026-10-30T00:01:36Z",
+      "repository_url": "https://api.github.com/repos/achyudh/llama.cpp"
     },
     {
       "source": "github_pull_request",
       "topic": "agent memory",
-      "title": "Add a git VFS backend and lock down the run_command shell",
-      "url": "https://github.com/Ryanaldo34/tacklr/pull/171",
+      "title": "build(deps): bump undici from 6.27.0 to 6.29.1 in /benches/perf",
+      "url": "https://github.com/mjmx-rs/mjmx/pull/12",
       "state": "open",
-      "created_at": "2026-10-29T19:36:13Z",
-      "updated_at": "2026-10-29T19:36:13Z",
-      "repository_url": "https://api.github.com/repos/Ryanaldo34/tacklr"
+      "created_at": "2026-10-30T00:01:31Z",
+      "updated_at": "2026-10-30T00:01:34Z",
+      "repository_url": "https://api.github.com/repos/mjmx-rs/mjmx"
     },
     {
       "source": "github_pull_request",
       "topic": "agent memory",
-      "title": "fix: #64 のマージ後レビューの指摘を直し、0.21.1 に bump する (formatVersion の README・テスト行、HarnessMenu.live() の owner guard ほか)",
-      "url": "https://github.com/GeneralD/mirage/pull/67",
+      "title": "[Bugfix][ROCm] Use 64-bit row offsets in the RDNA hybrid W4A16 GEMM",
+      "url": "https://github.com/vllm-project/vllm/pull/64614",
       "state": "open",
-      "created_at": "2026-10-29T19:36:13Z",
-      "updated_at": "2026-10-29T19:36:24Z",
-      "repository_url": "https://api.github.com/repos/GeneralD/mirage"
+      "created_at": "2026-10-30T00:01:25Z",
+      "updated_at": "2026-10-30T00:01:31Z",
+      "repository_url": "https://api.github.com/repos/vllm-project/vllm"
     },
     {
       "source": "github_pull_request",
       "topic": "agent memory",
-      "title": "chore(deps): bump undici in /server",
-      "url": "https://github.com/pietheinstrengholt/rssmonster/pull/313",
+      "title": "Schood AI: centres",
+      "url": "https://github.com/atmyielts/English_T1/pull/331",
       "state": "open",
-      "created_at": "2026-10-29T19:36:06Z",
-      "updated_at": "2026-10-29T19:36:09Z",
-      "repository_url": "https://api.github.com/repos/pietheinstrengholt/rssmonster"
+      "created_at": "2026-10-30T00:01:17Z",
+      "updated_at": "2026-10-30T00:01:17Z",
+      "repository_url": "https://api.github.com/repos/atmyielts/English_T1"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "agent memory",
+      "title": "Bump undici from 6.28.0 to 6.29.1 in /services/meeting-bot",
+      "url": "https://github.com/openbaeseongjin/baeseongjin/pull/1148",
+      "state": "open",
+      "created_at": "2026-10-30T00:01:15Z",
+      "updated_at": "2026-10-30T00:01:18Z",
+      "repository_url": "https://api.github.com/repos/openbaeseongjin/baeseongjin"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "agent memory",
+      "title": "chore(deps): update dependency openai to v2.54.0",
+      "url": "https://github.com/tpayne/lang-examples/pull/414",
+      "state": "open",
+      "created_at": "2026-10-30T00:01:13Z",
+      "updated_at": "2026-10-30T00:01:13Z",
+      "repository_url": "https://api.github.com/repos/tpayne/lang-examples"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "agent memory",
+      "title": "tui/widget: a ChangeEvent's value is built only when someone listens",
+      "url": "https://github.com/yongjohnlee80/golib/pull/532",
+      "state": "open",
+      "created_at": "2026-10-30T00:01:10Z",
+      "updated_at": "2026-10-30T00:01:10Z",
+      "repository_url": "https://api.github.com/repos/yongjohnlee80/golib"
     },
     {
       "source": "github_pull_request",
       "topic": "LLM agent",
-      "title": "feat(integration): merge upstream RAS with guarded pipeline migration",
-      "url": "https://github.com/harrisbienn/ras-commander/pull/26",
+      "title": "chore(release): version packages",
+      "url": "https://github.com/leclabs/cratylus/pull/106",
       "state": "open",
-      "created_at": "2026-10-29T19:36:01Z",
-      "updated_at": "2026-10-29T19:36:01Z",
-      "repository_url": "https://api.github.com/repos/harrisbienn/ras-commander"
+      "created_at": "2026-10-30T00:01:00Z",
+      "updated_at": "2026-10-30T00:01:00Z",
+      "repository_url": "https://api.github.com/repos/leclabs/cratylus"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "LLM agent",
+      "title": "Enhance conversation management and update related documentation",
+      "url": "https://github.com/nexoral/EdgeBalancer/pull/183",
+      "state": "closed",
+      "created_at": "2026-10-30T00:00:50Z",
+      "updated_at": "2026-10-30T00:01:14Z",
+      "repository_url": "https://api.github.com/repos/nexoral/EdgeBalancer"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "LLM agent",
+      "title": "Injection scan: no false positive for \"as an agent\" in ordinary prose (fixes #63)",
+      "url": "https://github.com/mwaldegg/tentaclAI/pull/64",
+      "state": "open",
+      "created_at": "2026-10-30T00:00:44Z",
+      "updated_at": "2026-10-30T00:00:44Z",
+      "repository_url": "https://api.github.com/repos/mwaldegg/tentaclAI"
     },
     {
       "source": "github_pull_request",
       "topic": "multi agent",
-      "title": "qawolf-multi-msg-project-8894a9d9-b4cf-4335-ba26-31143746c9df",
-      "url": "https://github.com/cursor-qaw/generic-repo/pull/40",
+      "title": "fix(mcp): require authorisation on the MCP stream endpoint",
+      "url": "https://github.com/DevNullLtd/Yuzu/pull/6764",
       "state": "open",
-      "created_at": "2026-10-29T19:35:59Z",
-      "updated_at": "2026-10-29T19:35:59Z",
-      "repository_url": "https://api.github.com/repos/cursor-qaw/generic-repo"
+      "created_at": "2026-10-30T00:00:34Z",
+      "updated_at": "2026-10-30T00:00:36Z",
+      "repository_url": "https://api.github.com/repos/DevNullLtd/Yuzu"
     },
     {
       "source": "github_pull_request",
       "topic": "LLM agent",
-      "title": "Add agent-building guidance to the signalwire skill",
-      "url": "https://github.com/signalwire/signalwire-claude/pull/5",
+      "title": "feat: package FINOS MCP for Claude Code and Codex",
+      "url": "https://github.com/vardhjain/finos-mcp/pull/56",
       "state": "open",
-      "created_at": "2026-10-29T19:35:58Z",
-      "updated_at": "2026-10-29T19:35:58Z",
-      "repository_url": "https://api.github.com/repos/signalwire/signalwire-claude"
-    },
-    {
-      "source": "github_pull_request",
-      "topic": "LLM agent",
-      "title": "feat(integration): merge upstream HMS with pipeline compatibility repairs",
-      "url": "https://github.com/harrisbienn/hms-commander/pull/45",
-      "state": "open",
-      "created_at": "2026-10-29T19:35:57Z",
-      "updated_at": "2026-10-29T19:35:57Z",
-      "repository_url": "https://api.github.com/repos/harrisbienn/hms-commander"
+      "created_at": "2026-10-30T00:00:21Z",
+      "updated_at": "2026-10-30T00:00:21Z",
+      "repository_url": "https://api.github.com/repos/vardhjain/finos-mcp"
     },
     {
       "source": "github_pull_request",
       "topic": "multi agent",
-      "title": "build(deps): bump @aws-sdk/client-eventbridge from 3.1154.0 to 3.1157.0",
-      "url": "https://github.com/rehan67/typescript-aws-serverless-starter/pull/5",
+      "title": "fix(fabrichat): a new room's notices are queued apart from its creation",
+      "url": "https://github.com/commonfabric/labs/pull/9387",
       "state": "open",
-      "created_at": "2026-10-29T19:35:56Z",
-      "updated_at": "2026-10-29T19:36:00Z",
-      "repository_url": "https://api.github.com/repos/rehan67/typescript-aws-serverless-starter"
-    },
-    {
-      "source": "github_pull_request",
-      "topic": "agent memory",
-      "title": "Connect Minecraft self-improvement to native skills, versioned methods and bounded practice",
-      "url": "https://github.com/jcs130/dsh-minecraft-agent/pull/30",
-      "state": "open",
-      "created_at": "2026-10-29T19:35:55Z",
-      "updated_at": "2026-10-29T19:35:55Z",
-      "repository_url": "https://api.github.com/repos/jcs130/dsh-minecraft-agent"
-    },
-    {
-      "source": "github_pull_request",
-      "topic": "agent memory",
-      "title": "feat: query complete prepared reports with current access checks",
-      "url": "https://github.com/aerele/jarvis/pull/2247",
-      "state": "open",
-      "created_at": "2026-10-29T19:35:55Z",
-      "updated_at": "2026-10-29T19:35:55Z",
-      "repository_url": "https://api.github.com/repos/aerele/jarvis"
-    },
-    {
-      "source": "github_pull_request",
-      "topic": "agent memory",
-      "title": "fix(security): Rate-Limits für Spracheingabe und Upload, Metriken nur mit Anmeldung",
-      "url": "https://github.com/criew/opaa/pull/3410",
-      "state": "open",
-      "created_at": "2026-10-29T19:35:52Z",
-      "updated_at": "2026-10-29T19:35:57Z",
-      "repository_url": "https://api.github.com/repos/criew/opaa"
-    },
-    {
-      "source": "github_pull_request",
-      "topic": "multi agent",
-      "title": "build(deps): bump @aws-sdk/lib-dynamodb from 3.1154.0 to 3.1157.0",
-      "url": "https://github.com/rehan67/typescript-aws-serverless-starter/pull/4",
-      "state": "open",
-      "created_at": "2026-10-29T19:35:39Z",
-      "updated_at": "2026-10-29T19:35:43Z",
-      "repository_url": "https://api.github.com/repos/rehan67/typescript-aws-serverless-starter"
+      "created_at": "2026-10-30T00:00:21Z",
+      "updated_at": "2026-10-30T00:00:29Z",
+      "repository_url": "https://api.github.com/repos/commonfabric/labs"
     },
     {
       "source": "github_pull_request",
       "topic": "LLM agent",
-      "title": "feat: init asks three questions and writes a commented starter",
-      "url": "https://github.com/alexandre-darmon/evalblink/pull/32",
+      "title": "[Nightshift] Learn from a follow-up only when it confirmed or contradicted the earlier answer",
+      "url": "https://github.com/elastic/kibana/pull/301838",
       "state": "open",
-      "created_at": "2026-10-29T19:35:21Z",
-      "updated_at": "2026-10-29T19:35:21Z",
-      "repository_url": "https://api.github.com/repos/alexandre-darmon/evalblink"
+      "created_at": "2026-10-30T00:00:04Z",
+      "updated_at": "2026-10-30T00:00:23Z",
+      "repository_url": "https://api.github.com/repos/elastic/kibana"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "LLM agent",
+      "title": "📰 Daily Digest - 2026-10-30",
+      "url": "https://github.com/dasomel/dasomel.github.io/pull/425",
+      "state": "open",
+      "created_at": "2026-10-29T23:59:58Z",
+      "updated_at": "2026-10-29T23:59:58Z",
+      "repository_url": "https://api.github.com/repos/dasomel/dasomel.github.io"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "multi agent",
+      "title": "#1029 Web: Run Trace and shell polish: use the panel width at 1920, one-line park reasons, nav fits at 1280, dock actions not cut",
+      "url": "https://github.com/Luke-Bradford/mission-control/pull/1058",
+      "state": "open",
+      "created_at": "2026-10-29T23:59:55Z",
+      "updated_at": "2026-10-29T23:59:55Z",
+      "repository_url": "https://api.github.com/repos/Luke-Bradford/mission-control"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "multi agent",
+      "title": "Apply DB migrations on production deploys; fix the AI review workflow",
+      "url": "https://github.com/sigmaschools/sigma-read/pull/67",
+      "state": "open",
+      "created_at": "2026-10-29T23:59:55Z",
+      "updated_at": "2026-10-30T00:00:49Z",
+      "repository_url": "https://api.github.com/repos/sigmaschools/sigma-read"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "multi agent",
+      "title": "chore(deps): update vitest monorepo to v5",
+      "url": "https://github.com/dachrisch/leaguesphere/pull/2175",
+      "state": "open",
+      "created_at": "2026-10-29T23:59:47Z",
+      "updated_at": "2026-10-29T23:59:47Z",
+      "repository_url": "https://api.github.com/repos/dachrisch/leaguesphere"
+    },
+    {
+      "source": "github_repository",
+      "topic": "multi agent framework",
+      "title": "EdgeAgent/multi-cli-framework",
+      "url": "https://github.com/EdgeAgent/multi-cli-framework",
+      "description": "Multi-CLI agent framework: parallel agents in isolated sandboxes, live watch TUI, Contract Registry, Battle Court judging, dynamic spawn/delete, and always-on learning with an immutable approval gate. Local-first, Python, no dependencies.",
+      "created_at": "2026-10-29T21:01:56Z",
+      "updated_at": "2026-10-29T21:54:06Z",
+      "stars": 1,
+      "language": "Python"
     },
     {
       "source": "github_pull_request",
@@ -188,7 +229,7 @@
       "url": "https://github.com/luckystrker/ago",
       "description": "AGo — AG2 (Python multi-agent framework) ported to Go: event-sourced agents, tools, middleware, HITL, MCP, multi-agent network. Stdlib-only.",
       "created_at": "2026-10-29T16:27:47Z",
-      "updated_at": "2026-10-29T17:50:09Z",
+      "updated_at": "2026-10-29T20:19:12Z",
       "stars": 2,
       "language": "Go"
     },
@@ -244,13 +285,46 @@
     },
     {
       "source": "github_repository",
+      "topic": "multi agent framework",
+      "title": "wei-chi-chen/ai_enterprise",
+      "url": "https://github.com/wei-chi-chen/ai_enterprise",
+      "description": "Fully local, offline autonomous multi-agent software enterprise framework powered by Ollama.",
+      "created_at": "2026-10-29T11:00:21Z",
+      "updated_at": "2026-10-29T23:44:08Z",
+      "stars": 2,
+      "language": "Python"
+    },
+    {
+      "source": "github_repository",
+      "topic": "multi agent framework",
+      "title": "Shards-foundation/shards-ai-agents",
+      "url": "https://github.com/Shards-foundation/shards-ai-agents",
+      "description": "Shards-ai-agents: multi-agent orchestration framework (derived from crewAI, MIT)",
+      "created_at": "2026-10-29T02:35:55Z",
+      "updated_at": "2026-10-29T22:19:36Z",
+      "stars": 2,
+      "language": "Python"
+    },
+    {
+      "source": "github_repository",
+      "topic": "agent memory LLM",
+      "title": "duzgunberke/ekip",
+      "url": "https://github.com/duzgunberke/ekip",
+      "description": "Turn one Claude Code session into a team lead: Claude plans and reviews, agents on other quotas do the work, every project has its own memory (vectors, LLM wiki, code graph, skills).",
+      "created_at": "2026-10-28T19:38:46Z",
+      "updated_at": "2026-10-29T23:38:20Z",
+      "stars": 6,
+      "language": "JavaScript"
+    },
+    {
+      "source": "github_repository",
       "topic": "LLM agent",
       "title": "jmanico/grim-prompter",
       "url": "https://github.com/jmanico/grim-prompter",
       "description": "Threat modeling for AI coding agents: point Claude Code, Codex or any agent at your repo and get an evidence-traced threat model. 36 architectures, 29 methods, MIT.",
       "created_at": "2026-10-28T12:09:26Z",
-      "updated_at": "2026-10-29T19:22:00Z",
-      "stars": 138,
+      "updated_at": "2026-10-29T23:58:45Z",
+      "stars": 156,
       "language": null
     },
     {
@@ -271,53 +345,9 @@
       "url": "https://github.com/ChannelCooperStart/capri-ai",
       "description": "🌃 Capri — Edgerunners-inspired AI agent for your desktop. Works with Claude Code, Codex, Antigravity & more.",
       "created_at": "2026-10-27T22:00:47Z",
-      "updated_at": "2026-10-29T19:04:49Z",
-      "stars": 371,
+      "updated_at": "2026-10-29T21:54:48Z",
+      "stars": 373,
       "language": null
-    },
-    {
-      "source": "arxiv",
-      "topic": "llm_reasoning",
-      "title": "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning",
-      "url": "http://arxiv.org/abs/2610.37666v1",
-      "published_at": "2026-10-27T17:59:52Z",
-      "updated_at": "2026-10-27T17:59:52Z",
-      "authors": [
-        "Chaehyun Kim",
-        "Chi-Pin Huang",
-        "Jisoo Kim",
-        "Min-Hung Chen",
-        "Yu-Chiang Frank Wang",
-        "Seungryong Kim"
-      ],
-      "categories": [
-        "cs.RO",
-        "cs.AI",
-        "cs.CV"
-      ],
-      "summary": "Vision-Language-Action (VLA) models have made substantial progress in robotic manipulation, but their generalization remains constrained by the diversity and coverage of action-labeled robot demonstrations. Human videos provide much broader behavioral and environmental experience, while learning from them faces a fundamental trade-off between scalable data and explicit action grounding. We introduce ThinkWorld, a..."
-    },
-    {
-      "source": "arxiv",
-      "topic": "llm_reasoning",
-      "title": "Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness",
-      "url": "http://arxiv.org/abs/2610.37657v1",
-      "published_at": "2026-10-27T17:58:52Z",
-      "updated_at": "2026-10-27T17:58:52Z",
-      "authors": [
-        "Igor Shilov",
-        "Xiaoxue Yang",
-        "Alexander Panfilov",
-        "Evgenii Kortukov",
-        "Matthieu Meeus",
-        "Peter Romov"
-      ],
-      "categories": [
-        "cs.LG",
-        "cs.CL",
-        "cs.CR"
-      ],
-      "summary": "We introduce Heads of Security (HoS), a prompt injection defense that enforces instruction-data separation via a small set of learned per-head attention gates. HoS learns how each head should redistribute attention between trusted and untrusted tokens, enabling models to reason over untrusted content without following injected instructions. We evaluate HoS on Llama-3.3-70B-Instruct and GPT-OSS-20B. We compare it a..."
     },
     {
       "source": "arxiv",
@@ -402,98 +432,6 @@
     },
     {
       "source": "arxiv",
-      "topic": "agent_memory",
-      "title": "Linear-quadratic mean field games with Volterra dynamics",
-      "url": "http://arxiv.org/abs/2610.37622v1",
-      "published_at": "2026-10-27T17:48:54Z",
-      "updated_at": "2026-10-27T17:48:54Z",
-      "authors": [
-        "Niccolò Fontana",
-        "Mattia Martini",
-        "Huyên Pham"
-      ],
-      "categories": [
-        "math.OC",
-        "math.PR"
-      ],
-      "summary": "We study a class of linear-quadratic mean field games in which the state of each agent follows a stochastic Volterra equation of convolution type. The resulting dynamics are non-Markovian and account for memory effects through a completely monotone kernel, while the mean field interaction enters both the drift and diffusion coefficients. Exploiting a Markovian lifting of the Volterra dynamics, which restores the M..."
-    },
-    {
-      "source": "arxiv",
-      "topic": "llm_reasoning",
-      "title": "Perceiving and Predicting Dynamic Sports: Spatiotemporal Intelligence in Vision Models for Egocentric Tennis Video",
-      "url": "http://arxiv.org/abs/2610.37619v1",
-      "published_at": "2026-10-27T17:47:14Z",
-      "updated_at": "2026-10-27T17:47:14Z",
-      "authors": [
-        "Tudor Braicu",
-        "Joseph DelPreto",
-        "Jared Boyer",
-        "Mónika Farsang",
-        "Maximilian Stölzle",
-        "Tim Niklas Seyde"
-      ],
-      "categories": [
-        "cs.CV",
-        "cs.RO"
-      ],
-      "summary": "Agile robots require spatiotemporal intelligence to interpret scenes, reason about interactions, and anticipate future events. Yet it remains unclear how well foundation vision models support these capabilities, particularly from a moving egocentric camera, which is a natural view for robots. To investigate this, we collect an annotated tennis dataset and train a suite of vision models on spatiotemporal tasks. Our..."
-    },
-    {
-      "source": "arxiv",
-      "topic": "llm_reasoning",
-      "title": "VideoLVR: Latent Visual Reasoning over Grounded Video Evidence",
-      "url": "http://arxiv.org/abs/2610.37613v1",
-      "published_at": "2026-10-27T17:41:56Z",
-      "updated_at": "2026-10-27T17:41:56Z",
-      "authors": [
-        "Shilong Li",
-        "Xingyuan Bu",
-        "Hao Shi",
-        "Yun Xing",
-        "Weixin Feng",
-        "Qiangpeng Yang"
-      ],
-      "categories": [
-        "cs.CV",
-        "cs.AI"
-      ],
-      "summary": "Chain-of-thought reasoning has substantially advanced video understanding in multimodal large language models (MLLMs). However, language-based reasoning traces do not provide a reliable mechanism for models to revisit relevant visual evidence, leading to visual forgetting and impairing their ability to reason over video content. Existing approaches maintain visual grounding during reasoning in two main ways: they..."
-    },
-    {
-      "source": "arxiv",
-      "topic": "llm_reasoning",
-      "title": "Gym-Anything-RT: Scaling Real-Time Environments for Vision-Language Agents",
-      "url": "http://arxiv.org/abs/2610.37567v1",
-      "published_at": "2026-10-27T17:13:05Z",
-      "updated_at": "2026-10-27T17:13:05Z",
-      "authors": [
-        "Pranjal Aggarwal",
-        "Sean Welleck"
-      ],
-      "categories": [
-        "cs.LG",
-        "cs.AI"
-      ],
-      "summary": "AI agents have made substantial progress in domains where they have a non-trivial amount of time to deliberate between actions, such as mathematics, software engineering, and performing tasks on desktop applications. It is less clear how such models fare in settings that demand real-time interaction, such as playing a video game or operating a physical device. In these settings, the environment state may evolve as..."
-    },
-    {
-      "source": "arxiv",
-      "topic": "llm_reasoning",
-      "title": "Collective Dynamics of Self-Reinforcement: How Cross-Task Coupling Drives Policy Collapse in Unsupervised RLVR",
-      "url": "http://arxiv.org/abs/2610.37553v1",
-      "published_at": "2026-10-27T17:01:55Z",
-      "updated_at": "2026-10-27T17:01:55Z",
-      "authors": [
-        "Peize Ding"
-      ],
-      "categories": [
-        "cs.LG"
-      ],
-      "summary": "Label-free reinforcement learning with verifiable rewards (RLVR) rewards a language model for agreeing with its own majority vote. It improves reasoning at first but eventually collapses: the self-assessed reward goes to one while accuracy falls, often until the model gives the same answer to every problem. The collapse appears only when training uses many problems. We explain this dataset-size dependence as a col..."
-    },
-    {
-      "source": "arxiv",
       "topic": "llm_agents",
       "title": "Teach reality, not ethics: a drop-in continued-pretraining corpus installs coupled human-biosphere-AI welfare dispositions across model families",
       "url": "http://arxiv.org/abs/2610.37484v1",
@@ -507,23 +445,6 @@
         "cs.CL"
       ],
       "summary": "Large language models (LLMs) are increasingly used to make and execute decisions that affect living systems. Yet, to our knowledge, ecological reasoning is not a focus of pre- or post-training. This increases the risk that under operational pressure, they may make decisions to irreversibly destroy living systems. We construct and use a real-data continued-pretraining \"coupled welfare\" corpus of documented human/bi..."
-    },
-    {
-      "source": "arxiv",
-      "topic": "agent_memory",
-      "title": "From Interaction to Capability: Task Advancement as State and Supervision for GUI Agents",
-      "url": "http://arxiv.org/abs/2610.37482v1",
-      "published_at": "2026-10-27T16:09:25Z",
-      "updated_at": "2026-10-27T16:09:25Z",
-      "authors": [
-        "Ziyang Chen",
-        "Qian Li",
-        "Chengwei Qin"
-      ],
-      "categories": [
-        "cs.AI"
-      ],
-      "summary": "GUI memory should preserve the results of past actions and learn reusable operations. This is difficult in long-horizon workflows, where agents must use information across applications and useful operations are interleaved with failed attempts. We introduce Task Advancement Memory (TAM), which defines task advancement as verified task progress, and supports ongoing task execution and learns reusable operations. Du..."
     },
     {
       "source": "arxiv",
@@ -542,76 +463,6 @@
       "summary": "Agents built on large language models are increasingly allowed to take consequential actions: cancelling bookings, issuing refunds, changing accounts. The rules that govern those actions, such as \"obtain the customer's explicit confirmation before changing anything\", are usually stated in the prompt and followed only as reliably as the model chooses to follow them. We present Concordat, a Python library that treat..."
     },
     {
-      "source": "arxiv",
-      "topic": "agent_memory",
-      "title": "ETAMem: Decoupling and Aligning Heterogeneous Memory for Long-Term Conversational Agents",
-      "url": "http://arxiv.org/abs/2610.37443v1",
-      "published_at": "2026-10-27T15:51:42Z",
-      "updated_at": "2026-10-27T15:51:42Z",
-      "authors": [
-        "Xinying Qian",
-        "Ying Zhang",
-        "Yu Zhao",
-        "Xubo Liu",
-        "Baohang Zhou",
-        "Jeff Z. Pan"
-      ],
-      "categories": [
-        "cs.CL"
-      ],
-      "summary": "Long-term memory enables Large Language Models (LLMs) to maintain coherent and personalized interactions across extended conversations. However, existing memory systems face two key challenges: (1) Information Entanglement, where heterogeneous information is mixed within coarse-grained memory units; and (2) Organizational Mismatch, where memory structures based primarily on semantic similarity may overlook other a..."
-    },
-    {
-      "source": "arxiv",
-      "topic": "agent_memory",
-      "title": "The Envelope Layer: An Underestimated Surface of LLM Agent Defense",
-      "url": "http://arxiv.org/abs/2610.37415v1",
-      "published_at": "2026-10-27T15:32:10Z",
-      "updated_at": "2026-10-27T15:32:10Z",
-      "authors": [
-        "Yuelin Han"
-      ],
-      "categories": [
-        "cs.CR"
-      ],
-      "summary": "Prior work framed the envelope layer as the channel through which malicious content enters an agent, and established it as a defense surface independent of the LLM layer and the agent layer; however, that work only tested the envelope layer briefly and did not examine how label strength, envelope authenticity, scaffold differences, or existing memories affect defense effectiveness. Following its GDA Measurement me..."
-    },
-    {
-      "source": "arxiv",
-      "topic": "neuroscience_ai",
-      "title": "Local learning is all you need: brain-aligned predictive coding networks",
-      "url": "http://arxiv.org/abs/2610.37327v1",
-      "published_at": "2026-10-27T14:36:52Z",
-      "updated_at": "2026-10-27T14:36:52Z",
-      "authors": [
-        "Dirk Gütlin",
-        "Ryszard Auksztulewicz",
-        "Adrien Doerig"
-      ],
-      "categories": [
-        "q-bio.NC"
-      ],
-      "summary": "Predictive Coding (PC) is an influential account of how brain representations emerge through hierarchical, local, self-supervised prediction-based learning, without requiring globally propagated error signals. Despite extensive evidence supporting PC, a striking paradox persists: computational models built on these biologically grounded principles have consistently failed to match state-of-the-art Deep Neural Netw..."
-    },
-    {
-      "source": "arxiv",
-      "topic": "agent_memory",
-      "title": "Remember Where You Walk: Learning Spatial Memory for End-to-End Legged Robot Exploration",
-      "url": "http://arxiv.org/abs/2610.37203v1",
-      "published_at": "2026-10-27T13:22:51Z",
-      "updated_at": "2026-10-27T13:22:51Z",
-      "authors": [
-        "Leon Magnus",
-        "Nico Bohlinger",
-        "Jan Peters",
-        "Oleg Arenz"
-      ],
-      "categories": [
-        "cs.RO"
-      ],
-      "summary": "Humanoids and other legged robots operating in complex environments must remember information that leaves their field of view and only becomes relevant much later. Reinforcement learning policies address this using memory networks such as LSTMs that are trained end-to-end with the policy to memorize such task-relevant aspects. Yet, such architectures often fail to preserve sufficient information over long horizons..."
-    },
-    {
       "source": "github_repository",
       "topic": "agent memory LLM",
       "title": "CRTNET8866/MMTR",
@@ -621,23 +472,6 @@
       "updated_at": "2026-10-29T14:58:55Z",
       "stars": 5,
       "language": "TypeScript"
-    },
-    {
-      "source": "arxiv",
-      "topic": "brain_memory",
-      "title": "The geometry of cognition: from neural populations to neurotechnology",
-      "url": "http://arxiv.org/abs/2610.36541v1",
-      "published_at": "2026-10-27T02:54:14Z",
-      "updated_at": "2026-10-27T02:54:14Z",
-      "authors": [
-        "Lucas Bayones",
-        "Devika Narain",
-        "Roman Rossi-Pool"
-      ],
-      "categories": [
-        "q-bio.NC"
-      ],
-      "summary": "Cognition is implemented by distributed neural populations whose collective activity evolves through structured, low-dimensional state spaces. In this review, we survey the analytical and conceptual tools used to study latent population dynamics in biological neural networks. We begin with single-unit coding, which remains essential for interpreting neuronal selectivity, and then review population-level approaches..."
     },
     {
       "source": "github_repository",
@@ -651,27 +485,6 @@
       "language": "Python"
     },
     {
-      "source": "arxiv",
-      "topic": "neuroscience_ai",
-      "title": "Toward Fast Human Reaction Modeling from High-Frequency Digital Interaction Data",
-      "url": "http://arxiv.org/abs/2610.35079v1",
-      "published_at": "2026-10-26T09:24:10Z",
-      "updated_at": "2026-10-26T09:24:10Z",
-      "authors": [
-        "Emanuel Dopater",
-        "Daniel Gavlas",
-        "Lukáš Jochymek",
-        "Kannan Paul",
-        "Miloslav Szczypka",
-        "David Vojáček"
-      ],
-      "categories": [
-        "cs.AI",
-        "cs.LG"
-      ],
-      "summary": "We investigate whether limbic-like signatures of rapid, salience-driven behavior can be identified in high-resolution Counter-Strike 2 telemetry. This exploratory study introduces Ego-Knowledge, a leak-reduced reconstruction of each player's plausible perceptual state, supported by a millisecond-precision visibility engine and a reaction-centered extraction pipeline. Using a neuroscience-motivated 60--120 ms windo..."
-    },
-    {
       "source": "github_repository",
       "topic": "agent memory LLM",
       "title": "Hvftpie13/Flashmind_Gemini-3.8-Flash_Smart-agent",
@@ -681,18 +494,100 @@
       "updated_at": "2026-10-29T08:09:52Z",
       "stars": 38,
       "language": "JavaScript"
+    },
+    {
+      "source": "github_repository",
+      "topic": "neuroscience AI",
+      "title": "Ayushjawale/SOMNIA-PROJECT-",
+      "url": "https://github.com/Ayushjawale/SOMNIA-PROJECT-",
+      "description": "Somnia is an AI-powered sleep monitoring system that uses EEG brainwave signals, signal processing, and machine learning to analyze sleep patterns. It focuses on Delta and Theta waves to estimate sleep stages and provide visual insights through a user-frien...",
+      "created_at": "2026-10-25T18:07:48Z",
+      "updated_at": "2026-10-25T18:07:49Z",
+      "stars": 0,
+      "language": null
+    },
+    {
+      "source": "github_repository",
+      "topic": "neuroscience AI",
+      "title": "elon00/santiago-ramon-y-cajal-ai",
+      "url": "https://github.com/elon00/santiago-ramon-y-cajal-ai",
+      "description": "Santiago Ramón y Cajal ($CAJAL) [Solana]: Father of Modern Neuroscience; Neuron doctrine (brain composed of discrete individual cells)",
+      "created_at": "2026-10-25T17:29:39Z",
+      "updated_at": "2026-10-26T17:39:01Z",
+      "stars": 0,
+      "language": "HTML"
+    },
+    {
+      "source": "github_repository",
+      "topic": "multi agent framework",
+      "title": "ldqanh1408/architect-agent-framework",
+      "url": "https://github.com/ldqanh1408/architect-agent-framework",
+      "description": "Multi-agent software architecture & SDD specification plugin for Claude Code, OpenAI Codex, and DeepSeek Harness — featuring 8 bundled skills, 16 commands, 29 MCP tools, interactive C4 workbench, and WebAuthn human-in-the-loop sign-off.",
+      "created_at": "2026-10-25T17:03:59Z",
+      "updated_at": "2026-10-27T05:32:29Z",
+      "stars": 2,
+      "language": "Python"
+    },
+    {
+      "source": "github_repository",
+      "topic": "LLM agent",
+      "title": "smhanov/agentloop",
+      "url": "https://github.com/smhanov/agentloop",
+      "description": "Everything you need for building an agent. A Go library for the LLM tool-calling loop with budgets, hooks, skills, and tracing.",
+      "created_at": "2026-10-25T16:18:50Z",
+      "updated_at": "2026-10-29T13:17:35Z",
+      "stars": 126,
+      "language": "Go"
+    },
+    {
+      "source": "github_repository",
+      "topic": "LLM agent",
+      "title": "qybaihe/bla",
+      "url": "https://github.com/qybaihe/bla",
+      "description": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
+      "created_at": "2026-10-25T05:25:45Z",
+      "updated_at": "2026-10-30T00:01:14Z",
+      "stars": 739,
+      "language": "TypeScript"
+    },
+    {
+      "source": "github_repository",
+      "topic": "neuroscience AI",
+      "title": "aaronksolomon/ai-consci",
+      "url": "https://github.com/aaronksolomon/ai-consci",
+      "description": "Exploring AI, consciousness, and knowing through Buddhist philosophy, neuroscience, and controlled experiments. Using multi-agent collaboration, shared memory, and error correction, this project investigates how understanding emerges through relationships,...",
+      "created_at": "2026-10-25T04:59:27Z",
+      "updated_at": "2026-10-25T05:09:32Z",
+      "stars": 0,
+      "language": null
+    },
+    {
+      "source": "github_repository",
+      "topic": "agent memory LLM",
+      "title": "giskardleen/multi-agent-customer-support-system",
+      "url": "https://github.com/giskardleen/multi-agent-customer-support-system",
+      "description": "A multi-agent customer support system built with Amazon Bedrock AgentCore, featuring specialized agents, RAG, guardrails, memory, and observability.",
+      "created_at": "2026-10-23T19:59:56Z",
+      "updated_at": "2026-10-25T16:29:41Z",
+      "stars": 6,
+      "language": "Python"
     }
   ],
-  "errors": [],
+  "errors": [
+    "arxiv:agent_memory:The read operation timed out",
+    "arxiv:llm_reasoning:HTTP Error 429: Too Many Requests",
+    "arxiv:neuroscience_ai:The read operation timed out",
+    "arxiv:brain_memory:HTTP Error 429: Unknown Error"
+  ],
   "counts": {
-    "arxiv": 29,
-    "github_repositories": 23,
-    "github_pull_requests": 21,
+    "arxiv": 6,
+    "github_repositories": 21,
+    "github_pull_requests": 24,
     "items": 48,
-    "errors": 0
+    "errors": 4
   },
   "public_repo_publish": {
-    "scan_json": "scans/20261029T193618Z.json",
-    "scan_markdown": "scans/20261029T193618Z.md"
+    "scan_json": "scans/20261030T000004Z.json",
+    "scan_markdown": "scans/20261030T000004Z.md"
   }
 }

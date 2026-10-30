@@ -1,0 +1,593 @@
+{
+  "schema": "projection.autoresearch.v1",
+  "generated_at": "2026-10-30T00:00:04.671583+00:00",
+  "enabled": true,
+  "mode": "detect_only",
+  "read_only": false,
+  "public_repo": "susyimes/auto4researh",
+  "publish_public_repo": true,
+  "cadence_hours": 4,
+  "max_publication_lag_hours": 24,
+  "since_days": 7,
+  "max_results_per_source": 6,
+  "topics": [
+    "neuroscience",
+    "brain science",
+    "large language models",
+    "LLM agents",
+    "agent memory",
+    "agent self-improvement"
+  ],
+  "skipped": false,
+  "skip_reason": null,
+  "items": [
+    {
+      "source": "github_pull_request",
+      "topic": "multi agent",
+      "title": "Adaptive kv stream rocm multi kv types",
+      "url": "https://github.com/achyudh/llama.cpp/pull/4",
+      "state": "open",
+      "created_at": "2026-10-30T00:01:36Z",
+      "updated_at": "2026-10-30T00:01:36Z",
+      "repository_url": "https://api.github.com/repos/achyudh/llama.cpp"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "agent memory",
+      "title": "build(deps): bump undici from 6.27.0 to 6.29.1 in /benches/perf",
+      "url": "https://github.com/mjmx-rs/mjmx/pull/12",
+      "state": "open",
+      "created_at": "2026-10-30T00:01:31Z",
+      "updated_at": "2026-10-30T00:01:34Z",
+      "repository_url": "https://api.github.com/repos/mjmx-rs/mjmx"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "agent memory",
+      "title": "[Bugfix][ROCm] Use 64-bit row offsets in the RDNA hybrid W4A16 GEMM",
+      "url": "https://github.com/vllm-project/vllm/pull/64614",
+      "state": "open",
+      "created_at": "2026-10-30T00:01:25Z",
+      "updated_at": "2026-10-30T00:01:31Z",
+      "repository_url": "https://api.github.com/repos/vllm-project/vllm"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "agent memory",
+      "title": "Schood AI: centres",
+      "url": "https://github.com/atmyielts/English_T1/pull/331",
+      "state": "open",
+      "created_at": "2026-10-30T00:01:17Z",
+      "updated_at": "2026-10-30T00:01:17Z",
+      "repository_url": "https://api.github.com/repos/atmyielts/English_T1"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "agent memory",
+      "title": "Bump undici from 6.28.0 to 6.29.1 in /services/meeting-bot",
+      "url": "https://github.com/openbaeseongjin/baeseongjin/pull/1148",
+      "state": "open",
+      "created_at": "2026-10-30T00:01:15Z",
+      "updated_at": "2026-10-30T00:01:18Z",
+      "repository_url": "https://api.github.com/repos/openbaeseongjin/baeseongjin"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "agent memory",
+      "title": "chore(deps): update dependency openai to v2.54.0",
+      "url": "https://github.com/tpayne/lang-examples/pull/414",
+      "state": "open",
+      "created_at": "2026-10-30T00:01:13Z",
+      "updated_at": "2026-10-30T00:01:13Z",
+      "repository_url": "https://api.github.com/repos/tpayne/lang-examples"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "agent memory",
+      "title": "tui/widget: a ChangeEvent's value is built only when someone listens",
+      "url": "https://github.com/yongjohnlee80/golib/pull/532",
+      "state": "open",
+      "created_at": "2026-10-30T00:01:10Z",
+      "updated_at": "2026-10-30T00:01:10Z",
+      "repository_url": "https://api.github.com/repos/yongjohnlee80/golib"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "LLM agent",
+      "title": "chore(release): version packages",
+      "url": "https://github.com/leclabs/cratylus/pull/106",
+      "state": "open",
+      "created_at": "2026-10-30T00:01:00Z",
+      "updated_at": "2026-10-30T00:01:00Z",
+      "repository_url": "https://api.github.com/repos/leclabs/cratylus"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "LLM agent",
+      "title": "Enhance conversation management and update related documentation",
+      "url": "https://github.com/nexoral/EdgeBalancer/pull/183",
+      "state": "closed",
+      "created_at": "2026-10-30T00:00:50Z",
+      "updated_at": "2026-10-30T00:01:14Z",
+      "repository_url": "https://api.github.com/repos/nexoral/EdgeBalancer"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "LLM agent",
+      "title": "Injection scan: no false positive for \"as an agent\" in ordinary prose (fixes #63)",
+      "url": "https://github.com/mwaldegg/tentaclAI/pull/64",
+      "state": "open",
+      "created_at": "2026-10-30T00:00:44Z",
+      "updated_at": "2026-10-30T00:00:44Z",
+      "repository_url": "https://api.github.com/repos/mwaldegg/tentaclAI"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "multi agent",
+      "title": "fix(mcp): require authorisation on the MCP stream endpoint",
+      "url": "https://github.com/DevNullLtd/Yuzu/pull/6764",
+      "state": "open",
+      "created_at": "2026-10-30T00:00:34Z",
+      "updated_at": "2026-10-30T00:00:36Z",
+      "repository_url": "https://api.github.com/repos/DevNullLtd/Yuzu"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "LLM agent",
+      "title": "feat: package FINOS MCP for Claude Code and Codex",
+      "url": "https://github.com/vardhjain/finos-mcp/pull/56",
+      "state": "open",
+      "created_at": "2026-10-30T00:00:21Z",
+      "updated_at": "2026-10-30T00:00:21Z",
+      "repository_url": "https://api.github.com/repos/vardhjain/finos-mcp"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "multi agent",
+      "title": "fix(fabrichat): a new room's notices are queued apart from its creation",
+      "url": "https://github.com/commonfabric/labs/pull/9387",
+      "state": "open",
+      "created_at": "2026-10-30T00:00:21Z",
+      "updated_at": "2026-10-30T00:00:29Z",
+      "repository_url": "https://api.github.com/repos/commonfabric/labs"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "LLM agent",
+      "title": "[Nightshift] Learn from a follow-up only when it confirmed or contradicted the earlier answer",
+      "url": "https://github.com/elastic/kibana/pull/301838",
+      "state": "open",
+      "created_at": "2026-10-30T00:00:04Z",
+      "updated_at": "2026-10-30T00:00:23Z",
+      "repository_url": "https://api.github.com/repos/elastic/kibana"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "LLM agent",
+      "title": "📰 Daily Digest - 2026-10-30",
+      "url": "https://github.com/dasomel/dasomel.github.io/pull/425",
+      "state": "open",
+      "created_at": "2026-10-29T23:59:58Z",
+      "updated_at": "2026-10-29T23:59:58Z",
+      "repository_url": "https://api.github.com/repos/dasomel/dasomel.github.io"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "multi agent",
+      "title": "#1029 Web: Run Trace and shell polish: use the panel width at 1920, one-line park reasons, nav fits at 1280, dock actions not cut",
+      "url": "https://github.com/Luke-Bradford/mission-control/pull/1058",
+      "state": "open",
+      "created_at": "2026-10-29T23:59:55Z",
+      "updated_at": "2026-10-29T23:59:55Z",
+      "repository_url": "https://api.github.com/repos/Luke-Bradford/mission-control"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "multi agent",
+      "title": "Apply DB migrations on production deploys; fix the AI review workflow",
+      "url": "https://github.com/sigmaschools/sigma-read/pull/67",
+      "state": "open",
+      "created_at": "2026-10-29T23:59:55Z",
+      "updated_at": "2026-10-30T00:00:49Z",
+      "repository_url": "https://api.github.com/repos/sigmaschools/sigma-read"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "multi agent",
+      "title": "chore(deps): update vitest monorepo to v5",
+      "url": "https://github.com/dachrisch/leaguesphere/pull/2175",
+      "state": "open",
+      "created_at": "2026-10-29T23:59:47Z",
+      "updated_at": "2026-10-29T23:59:47Z",
+      "repository_url": "https://api.github.com/repos/dachrisch/leaguesphere"
+    },
+    {
+      "source": "github_repository",
+      "topic": "multi agent framework",
+      "title": "EdgeAgent/multi-cli-framework",
+      "url": "https://github.com/EdgeAgent/multi-cli-framework",
+      "description": "Multi-CLI agent framework: parallel agents in isolated sandboxes, live watch TUI, Contract Registry, Battle Court judging, dynamic spawn/delete, and always-on learning with an immutable approval gate. Local-first, Python, no dependencies.",
+      "created_at": "2026-10-29T21:01:56Z",
+      "updated_at": "2026-10-29T21:54:06Z",
+      "stars": 1,
+      "language": "Python"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "neuroscience AI",
+      "title": "Batch B37: 20 endocrine, skin, biostatistics and neuroscience questions (888 total)",
+      "url": "https://github.com/eeporter/Med-School-Prep-Game/pull/56",
+      "state": "open",
+      "created_at": "2026-10-29T16:39:00Z",
+      "updated_at": "2026-10-29T16:43:36Z",
+      "repository_url": "https://api.github.com/repos/eeporter/Med-School-Prep-Game"
+    },
+    {
+      "source": "github_repository",
+      "topic": "multi agent framework",
+      "title": "luckystrker/ago",
+      "url": "https://github.com/luckystrker/ago",
+      "description": "AGo — AG2 (Python multi-agent framework) ported to Go: event-sourced agents, tools, middleware, HITL, MCP, multi-agent network. Stdlib-only.",
+      "created_at": "2026-10-29T16:27:47Z",
+      "updated_at": "2026-10-29T20:19:12Z",
+      "stars": 2,
+      "language": "Go"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "neuroscience AI",
+      "title": "Batch B36: 20 respiratory, immune and multisystem questions (868 total)",
+      "url": "https://github.com/eeporter/Med-School-Prep-Game/pull/55",
+      "state": "open",
+      "created_at": "2026-10-29T15:59:04Z",
+      "updated_at": "2026-10-29T16:05:57Z",
+      "repository_url": "https://api.github.com/repos/eeporter/Med-School-Prep-Game"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "neuroscience AI",
+      "title": "B35: 20 new questions (cardiovascular and GI)",
+      "url": "https://github.com/eeporter/Med-School-Prep-Game/pull/54",
+      "state": "open",
+      "created_at": "2026-10-29T14:59:10Z",
+      "updated_at": "2026-10-29T15:05:16Z",
+      "repository_url": "https://api.github.com/repos/eeporter/Med-School-Prep-Game"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "neuroscience AI",
+      "title": "Batch B34: 20 kidney, musculoskeletal and blood questions (828 total)",
+      "url": "https://github.com/eeporter/Med-School-Prep-Game/pull/53",
+      "state": "open",
+      "created_at": "2026-10-29T13:58:11Z",
+      "updated_at": "2026-10-29T14:03:53Z",
+      "repository_url": "https://api.github.com/repos/eeporter/Med-School-Prep-Game"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "neuroscience AI",
+      "title": "Add batch B33: 20 reproductive and behavioral health questions (808 total)",
+      "url": "https://github.com/eeporter/Med-School-Prep-Game/pull/52",
+      "state": "open",
+      "created_at": "2026-10-29T12:40:08Z",
+      "updated_at": "2026-10-29T12:55:44Z",
+      "repository_url": "https://api.github.com/repos/eeporter/Med-School-Prep-Game"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "neuroscience AI",
+      "title": "Add batch B32: 20 endocrine, respiratory and immune system questions (788 total)",
+      "url": "https://github.com/eeporter/Med-School-Prep-Game/pull/51",
+      "state": "open",
+      "created_at": "2026-10-29T11:42:42Z",
+      "updated_at": "2026-10-29T11:52:21Z",
+      "repository_url": "https://api.github.com/repos/eeporter/Med-School-Prep-Game"
+    },
+    {
+      "source": "github_repository",
+      "topic": "multi agent framework",
+      "title": "wei-chi-chen/ai_enterprise",
+      "url": "https://github.com/wei-chi-chen/ai_enterprise",
+      "description": "Fully local, offline autonomous multi-agent software enterprise framework powered by Ollama.",
+      "created_at": "2026-10-29T11:00:21Z",
+      "updated_at": "2026-10-29T23:44:08Z",
+      "stars": 2,
+      "language": "Python"
+    },
+    {
+      "source": "github_repository",
+      "topic": "multi agent framework",
+      "title": "Shards-foundation/shards-ai-agents",
+      "url": "https://github.com/Shards-foundation/shards-ai-agents",
+      "description": "Shards-ai-agents: multi-agent orchestration framework (derived from crewAI, MIT)",
+      "created_at": "2026-10-29T02:35:55Z",
+      "updated_at": "2026-10-29T22:19:36Z",
+      "stars": 2,
+      "language": "Python"
+    },
+    {
+      "source": "github_repository",
+      "topic": "agent memory LLM",
+      "title": "duzgunberke/ekip",
+      "url": "https://github.com/duzgunberke/ekip",
+      "description": "Turn one Claude Code session into a team lead: Claude plans and reviews, agents on other quotas do the work, every project has its own memory (vectors, LLM wiki, code graph, skills).",
+      "created_at": "2026-10-28T19:38:46Z",
+      "updated_at": "2026-10-29T23:38:20Z",
+      "stars": 6,
+      "language": "JavaScript"
+    },
+    {
+      "source": "github_repository",
+      "topic": "LLM agent",
+      "title": "jmanico/grim-prompter",
+      "url": "https://github.com/jmanico/grim-prompter",
+      "description": "Threat modeling for AI coding agents: point Claude Code, Codex or any agent at your repo and get an evidence-traced threat model. 36 architectures, 29 methods, MIT.",
+      "created_at": "2026-10-28T12:09:26Z",
+      "updated_at": "2026-10-29T23:58:45Z",
+      "stars": 156,
+      "language": null
+    },
+    {
+      "source": "github_repository",
+      "topic": "agent memory LLM",
+      "title": "AidaShika/personal-agent-dossier",
+      "url": "https://github.com/AidaShika/personal-agent-dossier",
+      "description": "Move a personal AI agent between platforms without losing its job, memory, or schedules. A neutral dossier format with adapters for Grok Bot, Muse, Hermes, and OpenClaw.",
+      "created_at": "2026-10-28T11:34:49Z",
+      "updated_at": "2026-10-29T08:14:00Z",
+      "stars": 14,
+      "language": "Python"
+    },
+    {
+      "source": "github_repository",
+      "topic": "LLM agent",
+      "title": "ChannelCooperStart/capri-ai",
+      "url": "https://github.com/ChannelCooperStart/capri-ai",
+      "description": "🌃 Capri — Edgerunners-inspired AI agent for your desktop. Works with Claude Code, Codex, Antigravity & more.",
+      "created_at": "2026-10-27T22:00:47Z",
+      "updated_at": "2026-10-29T21:54:48Z",
+      "stars": 373,
+      "language": null
+    },
+    {
+      "source": "arxiv",
+      "topic": "llm_agents",
+      "title": "GEPA-Curator: Curated Learning for Self Improving Agents",
+      "url": "http://arxiv.org/abs/2610.37651v1",
+      "published_at": "2026-10-27T17:58:11Z",
+      "updated_at": "2026-10-27T17:58:11Z",
+      "authors": [
+        "Zack Yu",
+        "Nicholas Lee",
+        "Minjae Lee",
+        "Lakshya Agarwal",
+        "Luca Manolache",
+        "Wonjun Kang"
+      ],
+      "categories": [
+        "cs.CL"
+      ],
+      "summary": "Large Language Models (LLMs) are increasingly used in multi-turn agentic workloads that require sustained interaction with complex environments. Existing reflective prompt optimizers such as GEPA learn from failed rollouts, but agentic failures can also come from prompt weaknesses, harness limitations, stochastic execution, or noisy judges. We argue that such failures may not provide useful learning signal, and ma..."
+    },
+    {
+      "source": "arxiv",
+      "topic": "llm_agents",
+      "title": "Can LLMs Uncover Hidden Physical Laws through Free Exploration?",
+      "url": "http://arxiv.org/abs/2610.37649v1",
+      "published_at": "2026-10-27T17:57:00Z",
+      "updated_at": "2026-10-27T17:57:00Z",
+      "authors": [
+        "Zhen Yang",
+        "Wen Wang",
+        "Xander Xu",
+        "Ying-Cong Chen"
+      ],
+      "categories": [
+        "cs.CL",
+        "cs.AI",
+        "cs.MA"
+      ],
+      "summary": "Scientific discovery often begins with an unexpected observation that prompts a new research question. In a world with altered physical laws, can large language models (LLMs) notice unexpected behavior, such as heavier objects falling more slowly, and discover the law through experiments without being told what to investigate? To evaluate this ability, we introduce LongChang, an automated framework that creates si..."
+    },
+    {
+      "source": "arxiv",
+      "topic": "llm_agents",
+      "title": "Scaling Laws for Tool-Use Agents via Controllable Environment Synthesis",
+      "url": "http://arxiv.org/abs/2610.37648v1",
+      "published_at": "2026-10-27T17:56:46Z",
+      "updated_at": "2026-10-27T17:56:46Z",
+      "authors": [
+        "Andrew Szot",
+        "Samira Abnar",
+        "Omar Attia",
+        "Abbas Kazerouni",
+        "Michael Kirchhof",
+        "Cheng-Yu Hsieh"
+      ],
+      "categories": [
+        "cs.LG"
+      ],
+      "summary": "We explore how to build performant large language model (LLM) tool-use agents that complete complex, multi-step tasks. Specifically, we study how data composition in synthetically generated tool-use environments affects the training of such agents. To do so, we propose the SynthAPI pipeline, which explicitly controls the diversity of generated environments along the axes of tools, tasks, and the databases on which..."
+    },
+    {
+      "source": "arxiv",
+      "topic": "llm_agents",
+      "title": "Rare, Relevant, and Still Wrong: How Memory Fails LLM Group Decisions",
+      "url": "http://arxiv.org/abs/2610.37624v1",
+      "published_at": "2026-10-27T17:49:39Z",
+      "updated_at": "2026-10-27T17:49:39Z",
+      "authors": [
+        "Anouar Imel",
+        "Imad Charradi",
+        "Abderrahman Sghir",
+        "Khalil El Khammar"
+      ],
+      "categories": [
+        "cs.AI",
+        "cs.CL",
+        "cs.MA",
+        "cs.SI"
+      ],
+      "summary": "When an LLM group's discussion is compressed into a short memory for a final decision maker, what should the memory keep? Two natural heuristics keep the rarest claims or the claims relevant to the decision criteria. On hidden-profile tasks both look attractive, because how widely a fact is held is confounded with whether it helps. We introduce CrossProfile, a diagnostic benchmark of 60 templates with automaticall..."
+    },
+    {
+      "source": "arxiv",
+      "topic": "llm_agents",
+      "title": "Teach reality, not ethics: a drop-in continued-pretraining corpus installs coupled human-biosphere-AI welfare dispositions across model families",
+      "url": "http://arxiv.org/abs/2610.37484v1",
+      "published_at": "2026-10-27T16:11:04Z",
+      "updated_at": "2026-10-27T16:11:04Z",
+      "authors": [
+        "Trent R. Northen",
+        "Mingxun Wang"
+      ],
+      "categories": [
+        "cs.CL"
+      ],
+      "summary": "Large language models (LLMs) are increasingly used to make and execute decisions that affect living systems. Yet, to our knowledge, ecological reasoning is not a focus of pre- or post-training. This increases the risk that under operational pressure, they may make decisions to irreversibly destroy living systems. We construct and use a real-data continued-pretraining \"coupled welfare\" corpus of documented human/bi..."
+    },
+    {
+      "source": "arxiv",
+      "topic": "llm_agents",
+      "title": "Concordat: Typed Sessions for LLM Agents",
+      "url": "http://arxiv.org/abs/2610.37461v1",
+      "published_at": "2026-10-27T16:00:26Z",
+      "updated_at": "2026-10-27T16:00:26Z",
+      "authors": [
+        "Milad Sikaroudi"
+      ],
+      "categories": [
+        "cs.AI",
+        "cs.MA"
+      ],
+      "summary": "Agents built on large language models are increasingly allowed to take consequential actions: cancelling bookings, issuing refunds, changing accounts. The rules that govern those actions, such as \"obtain the customer's explicit confirmation before changing anything\", are usually stated in the prompt and followed only as reliably as the model chooses to follow them. We present Concordat, a Python library that treat..."
+    },
+    {
+      "source": "github_repository",
+      "topic": "agent memory LLM",
+      "title": "CRTNET8866/MMTR",
+      "url": "https://github.com/CRTNET8866/MMTR",
+      "description": "Memorable Memory To Remember: a human-memory-inspired memory layer for agents. It forgets on purpose - fact/gist/affect decay channels, associative graph, six-dimensional relation state, prospective memory. Zero dependencies, Node 22+, node:sqlite.",
+      "created_at": "2026-10-27T04:36:30Z",
+      "updated_at": "2026-10-29T14:58:55Z",
+      "stars": 5,
+      "language": "TypeScript"
+    },
+    {
+      "source": "github_repository",
+      "topic": "agent memory LLM",
+      "title": "ashishpatel26/Agent-harness-using-Agno",
+      "url": "https://github.com/ashishpatel26/Agent-harness-using-Agno",
+      "description": "Hands-on Agno agent harness: tools, structured I/O, storage, memory, state, RAG knowledge search, learning, guardrails, human-in-the-loop, multi-agent teams, workflows and AgentOS, using local Ollama models.",
+      "created_at": "2026-10-26T09:34:11Z",
+      "updated_at": "2026-10-27T01:22:56Z",
+      "stars": 7,
+      "language": "Python"
+    },
+    {
+      "source": "github_repository",
+      "topic": "agent memory LLM",
+      "title": "Hvftpie13/Flashmind_Gemini-3.8-Flash_Smart-agent",
+      "url": "https://github.com/Hvftpie13/Flashmind_Gemini-3.8-Flash_Smart-agent",
+      "description": "flashmind — Gemini 3.8 Flash Smart Agent. Gives Gemini Flash persistent memory (Engram), coding skills, and no-hallucination rules. Works in Gemini CLI, Antigravity, Cursor, VS Code, Claude Code and any MCP client.",
+      "created_at": "2026-10-25T22:12:57Z",
+      "updated_at": "2026-10-29T08:09:52Z",
+      "stars": 38,
+      "language": "JavaScript"
+    },
+    {
+      "source": "github_repository",
+      "topic": "neuroscience AI",
+      "title": "Ayushjawale/SOMNIA-PROJECT-",
+      "url": "https://github.com/Ayushjawale/SOMNIA-PROJECT-",
+      "description": "Somnia is an AI-powered sleep monitoring system that uses EEG brainwave signals, signal processing, and machine learning to analyze sleep patterns. It focuses on Delta and Theta waves to estimate sleep stages and provide visual insights through a user-frien...",
+      "created_at": "2026-10-25T18:07:48Z",
+      "updated_at": "2026-10-25T18:07:49Z",
+      "stars": 0,
+      "language": null
+    },
+    {
+      "source": "github_repository",
+      "topic": "neuroscience AI",
+      "title": "elon00/santiago-ramon-y-cajal-ai",
+      "url": "https://github.com/elon00/santiago-ramon-y-cajal-ai",
+      "description": "Santiago Ramón y Cajal ($CAJAL) [Solana]: Father of Modern Neuroscience; Neuron doctrine (brain composed of discrete individual cells)",
+      "created_at": "2026-10-25T17:29:39Z",
+      "updated_at": "2026-10-26T17:39:01Z",
+      "stars": 0,
+      "language": "HTML"
+    },
+    {
+      "source": "github_repository",
+      "topic": "multi agent framework",
+      "title": "ldqanh1408/architect-agent-framework",
+      "url": "https://github.com/ldqanh1408/architect-agent-framework",
+      "description": "Multi-agent software architecture & SDD specification plugin for Claude Code, OpenAI Codex, and DeepSeek Harness — featuring 8 bundled skills, 16 commands, 29 MCP tools, interactive C4 workbench, and WebAuthn human-in-the-loop sign-off.",
+      "created_at": "2026-10-25T17:03:59Z",
+      "updated_at": "2026-10-27T05:32:29Z",
+      "stars": 2,
+      "language": "Python"
+    },
+    {
+      "source": "github_repository",
+      "topic": "LLM agent",
+      "title": "smhanov/agentloop",
+      "url": "https://github.com/smhanov/agentloop",
+      "description": "Everything you need for building an agent. A Go library for the LLM tool-calling loop with budgets, hooks, skills, and tracing.",
+      "created_at": "2026-10-25T16:18:50Z",
+      "updated_at": "2026-10-29T13:17:35Z",
+      "stars": 126,
+      "language": "Go"
+    },
+    {
+      "source": "github_repository",
+      "topic": "LLM agent",
+      "title": "qybaihe/bla",
+      "url": "https://github.com/qybaihe/bla",
+      "description": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
+      "created_at": "2026-10-25T05:25:45Z",
+      "updated_at": "2026-10-30T00:01:14Z",
+      "stars": 739,
+      "language": "TypeScript"
+    },
+    {
+      "source": "github_repository",
+      "topic": "neuroscience AI",
+      "title": "aaronksolomon/ai-consci",
+      "url": "https://github.com/aaronksolomon/ai-consci",
+      "description": "Exploring AI, consciousness, and knowing through Buddhist philosophy, neuroscience, and controlled experiments. Using multi-agent collaboration, shared memory, and error correction, this project investigates how understanding emerges through relationships,...",
+      "created_at": "2026-10-25T04:59:27Z",
+      "updated_at": "2026-10-25T05:09:32Z",
+      "stars": 0,
+      "language": null
+    },
+    {
+      "source": "github_repository",
+      "topic": "agent memory LLM",
+      "title": "giskardleen/multi-agent-customer-support-system",
+      "url": "https://github.com/giskardleen/multi-agent-customer-support-system",
+      "description": "A multi-agent customer support system built with Amazon Bedrock AgentCore, featuring specialized agents, RAG, guardrails, memory, and observability.",
+      "created_at": "2026-10-23T19:59:56Z",
+      "updated_at": "2026-10-25T16:29:41Z",
+      "stars": 6,
+      "language": "Python"
+    }
+  ],
+  "errors": [
+    "arxiv:agent_memory:The read operation timed out",
+    "arxiv:llm_reasoning:HTTP Error 429: Too Many Requests",
+    "arxiv:neuroscience_ai:The read operation timed out",
+    "arxiv:brain_memory:HTTP Error 429: Unknown Error"
+  ],
+  "counts": {
+    "arxiv": 6,
+    "github_repositories": 21,
+    "github_pull_requests": 24,
+    "items": 48,
+    "errors": 4
+  },
+  "public_repo_publish": {
+    "scan_json": "scans/20261030T000004Z.json",
+    "scan_markdown": "scans/20261030T000004Z.md"
+  }
+}
