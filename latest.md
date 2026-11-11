@@ -1,68 +1,61 @@
 # Auto4researh Frontier Scan
 
-- Generated: `2026-10-30T00:00:04.671583+00:00`
+- Generated: `2026-11-11T03:05:32.401803+00:00`
 - Mode: `detect_only`
 - Cadence hours: `4`
 - Since days: `7`
-- Counts: arxiv=6, github_repositories=21, github_pull_requests=24, items=48, errors=4
+- Counts: arxiv=29, github_repositories=24, github_pull_requests=23, items=48, errors=0
 
 ## Top Items
 
-- `github_pull_request` `multi agent` 2026-10-30T00:01:36Z [Adaptive kv stream rocm multi kv types](https://github.com/achyudh/llama.cpp/pull/4) (state=open)
-- `github_pull_request` `agent memory` 2026-10-30T00:01:31Z [build(deps): bump undici from 6.27.0 to 6.29.1 in /benches/perf](https://github.com/mjmx-rs/mjmx/pull/12) (state=open)
-- `github_pull_request` `agent memory` 2026-10-30T00:01:25Z [[Bugfix][ROCm] Use 64-bit row offsets in the RDNA hybrid W4A16 GEMM](https://github.com/vllm-project/vllm/pull/64614) (state=open)
-- `github_pull_request` `agent memory` 2026-10-30T00:01:17Z [Schood AI: centres](https://github.com/atmyielts/English_T1/pull/331) (state=open)
-- `github_pull_request` `agent memory` 2026-10-30T00:01:15Z [Bump undici from 6.28.0 to 6.29.1 in /services/meeting-bot](https://github.com/openbaeseongjin/baeseongjin/pull/1148) (state=open)
-- `github_pull_request` `agent memory` 2026-10-30T00:01:13Z [chore(deps): update dependency openai to v2.54.0](https://github.com/tpayne/lang-examples/pull/414) (state=open)
-- `github_pull_request` `agent memory` 2026-10-30T00:01:10Z [tui/widget: a ChangeEvent's value is built only when someone listens](https://github.com/yongjohnlee80/golib/pull/532) (state=open)
-- `github_pull_request` `LLM agent` 2026-10-30T00:01:00Z [chore(release): version packages](https://github.com/leclabs/cratylus/pull/106) (state=open)
-- `github_pull_request` `LLM agent` 2026-10-30T00:00:50Z [Enhance conversation management and update related documentation](https://github.com/nexoral/EdgeBalancer/pull/183) (state=closed)
-- `github_pull_request` `LLM agent` 2026-10-30T00:00:44Z [Injection scan: no false positive for "as an agent" in ordinary prose (fixes #63)](https://github.com/mwaldegg/tentaclAI/pull/64) (state=open)
-- `github_pull_request` `multi agent` 2026-10-30T00:00:34Z [fix(mcp): require authorisation on the MCP stream endpoint](https://github.com/DevNullLtd/Yuzu/pull/6764) (state=open)
-- `github_pull_request` `LLM agent` 2026-10-30T00:00:21Z [feat: package FINOS MCP for Claude Code and Codex](https://github.com/vardhjain/finos-mcp/pull/56) (state=open)
-- `github_pull_request` `multi agent` 2026-10-30T00:00:21Z [fix(fabrichat): a new room's notices are queued apart from its creation](https://github.com/commonfabric/labs/pull/9387) (state=open)
-- `github_pull_request` `LLM agent` 2026-10-30T00:00:04Z [[Nightshift] Learn from a follow-up only when it confirmed or contradicted the earlier answer](https://github.com/elastic/kibana/pull/301838) (state=open)
-- `github_pull_request` `LLM agent` 2026-10-29T23:59:58Z [📰 Daily Digest - 2026-10-30](https://github.com/dasomel/dasomel.github.io/pull/425) (state=open)
-- `github_pull_request` `multi agent` 2026-10-29T23:59:55Z [#1029 Web: Run Trace and shell polish: use the panel width at 1920, one-line park reasons, nav fits at 1280, dock actions not cut](https://github.com/Luke-Bradford/mission-control/pull/1058) (state=open)
-- `github_pull_request` `multi agent` 2026-10-29T23:59:55Z [Apply DB migrations on production deploys; fix the AI review workflow](https://github.com/sigmaschools/sigma-read/pull/67) (state=open)
-- `github_pull_request` `multi agent` 2026-10-29T23:59:47Z [chore(deps): update vitest monorepo to v5](https://github.com/dachrisch/leaguesphere/pull/2175) (state=open)
-- `github_repository` `multi agent framework` 2026-10-29T21:01:56Z [EdgeAgent/multi-cli-framework](https://github.com/EdgeAgent/multi-cli-framework) (stars=1, lang=Python)
-- `github_pull_request` `neuroscience AI` 2026-10-29T16:39:00Z [Batch B37: 20 endocrine, skin, biostatistics and neuroscience questions (888 total)](https://github.com/eeporter/Med-School-Prep-Game/pull/56) (state=open)
-- `github_repository` `multi agent framework` 2026-10-29T16:27:47Z [luckystrker/ago](https://github.com/luckystrker/ago) (stars=2, lang=Go)
-- `github_pull_request` `neuroscience AI` 2026-10-29T15:59:04Z [Batch B36: 20 respiratory, immune and multisystem questions (868 total)](https://github.com/eeporter/Med-School-Prep-Game/pull/55) (state=open)
-- `github_pull_request` `neuroscience AI` 2026-10-29T14:59:10Z [B35: 20 new questions (cardiovascular and GI)](https://github.com/eeporter/Med-School-Prep-Game/pull/54) (state=open)
-- `github_pull_request` `neuroscience AI` 2026-10-29T13:58:11Z [Batch B34: 20 kidney, musculoskeletal and blood questions (828 total)](https://github.com/eeporter/Med-School-Prep-Game/pull/53) (state=open)
-- `github_pull_request` `neuroscience AI` 2026-10-29T12:40:08Z [Add batch B33: 20 reproductive and behavioral health questions (808 total)](https://github.com/eeporter/Med-School-Prep-Game/pull/52) (state=open)
-- `github_pull_request` `neuroscience AI` 2026-10-29T11:42:42Z [Add batch B32: 20 endocrine, respiratory and immune system questions (788 total)](https://github.com/eeporter/Med-School-Prep-Game/pull/51) (state=open)
-- `github_repository` `multi agent framework` 2026-10-29T11:00:21Z [wei-chi-chen/ai_enterprise](https://github.com/wei-chi-chen/ai_enterprise) (stars=2, lang=Python)
-- `github_repository` `multi agent framework` 2026-10-29T02:35:55Z [Shards-foundation/shards-ai-agents](https://github.com/Shards-foundation/shards-ai-agents) (stars=2, lang=Python)
-- `github_repository` `agent memory LLM` 2026-10-28T19:38:46Z [duzgunberke/ekip](https://github.com/duzgunberke/ekip) (stars=6, lang=JavaScript)
-- `github_repository` `LLM agent` 2026-10-28T12:09:26Z [jmanico/grim-prompter](https://github.com/jmanico/grim-prompter) (stars=156)
-- `github_repository` `agent memory LLM` 2026-10-28T11:34:49Z [AidaShika/personal-agent-dossier](https://github.com/AidaShika/personal-agent-dossier) (stars=14, lang=Python)
-- `github_repository` `LLM agent` 2026-10-27T22:00:47Z [ChannelCooperStart/capri-ai](https://github.com/ChannelCooperStart/capri-ai) (stars=373)
-- `arxiv` `llm_agents` 2026-10-27T17:58:11Z [GEPA-Curator: Curated Learning for Self Improving Agents](http://arxiv.org/abs/2610.37651v1)
-- `arxiv` `llm_agents` 2026-10-27T17:57:00Z [Can LLMs Uncover Hidden Physical Laws through Free Exploration?](http://arxiv.org/abs/2610.37649v1)
-- `arxiv` `llm_agents` 2026-10-27T17:56:46Z [Scaling Laws for Tool-Use Agents via Controllable Environment Synthesis](http://arxiv.org/abs/2610.37648v1)
-- `arxiv` `llm_agents` 2026-10-27T17:49:39Z [Rare, Relevant, and Still Wrong: How Memory Fails LLM Group Decisions](http://arxiv.org/abs/2610.37624v1)
-- `arxiv` `llm_agents` 2026-10-27T16:11:04Z [Teach reality, not ethics: a drop-in continued-pretraining corpus installs coupled human-biosphere-AI welfare dispositions across model families](http://arxiv.org/abs/2610.37484v1)
-- `arxiv` `llm_agents` 2026-10-27T16:00:26Z [Concordat: Typed Sessions for LLM Agents](http://arxiv.org/abs/2610.37461v1)
-- `github_repository` `agent memory LLM` 2026-10-27T04:36:30Z [CRTNET8866/MMTR](https://github.com/CRTNET8866/MMTR) (stars=5, lang=TypeScript)
-- `github_repository` `agent memory LLM` 2026-10-26T09:34:11Z [ashishpatel26/Agent-harness-using-Agno](https://github.com/ashishpatel26/Agent-harness-using-Agno) (stars=7, lang=Python)
-- `github_repository` `agent memory LLM` 2026-10-25T22:12:57Z [Hvftpie13/Flashmind_Gemini-3.8-Flash_Smart-agent](https://github.com/Hvftpie13/Flashmind_Gemini-3.8-Flash_Smart-agent) (stars=38, lang=JavaScript)
-- `github_repository` `neuroscience AI` 2026-10-25T18:07:48Z [Ayushjawale/SOMNIA-PROJECT-](https://github.com/Ayushjawale/SOMNIA-PROJECT-) (stars=0)
-- `github_repository` `neuroscience AI` 2026-10-25T17:29:39Z [elon00/santiago-ramon-y-cajal-ai](https://github.com/elon00/santiago-ramon-y-cajal-ai) (stars=0, lang=HTML)
-- `github_repository` `multi agent framework` 2026-10-25T17:03:59Z [ldqanh1408/architect-agent-framework](https://github.com/ldqanh1408/architect-agent-framework) (stars=2, lang=Python)
-- `github_repository` `LLM agent` 2026-10-25T16:18:50Z [smhanov/agentloop](https://github.com/smhanov/agentloop) (stars=126, lang=Go)
-- `github_repository` `LLM agent` 2026-10-25T05:25:45Z [qybaihe/bla](https://github.com/qybaihe/bla) (stars=739, lang=TypeScript)
-- `github_repository` `neuroscience AI` 2026-10-25T04:59:27Z [aaronksolomon/ai-consci](https://github.com/aaronksolomon/ai-consci) (stars=0)
-- `github_repository` `agent memory LLM` 2026-10-23T19:59:56Z [giskardleen/multi-agent-customer-support-system](https://github.com/giskardleen/multi-agent-customer-support-system) (stars=6, lang=Python)
-
-## Source Errors
-
-- `arxiv:agent_memory:The read operation timed out`
-- `arxiv:llm_reasoning:HTTP Error 429: Too Many Requests`
-- `arxiv:neuroscience_ai:The read operation timed out`
-- `arxiv:brain_memory:HTTP Error 429: Unknown Error`
+- `github_pull_request` `LLM agent` 2026-11-11T03:05:45Z [Remove setup-llms and remember-this (0.8.0)](https://github.com/chaklam-silpasuwanchai/research_skill/pull/16) (state=open)
+- `github_pull_request` `multi agent` 2026-11-11T03:05:32Z [Fix ris-assist deployment failure: Use agents serve as Docker ENTRYPOINT](https://github.com/b08x/ris-assist-mistral-workflow/pull/4) (state=open)
+- `github_pull_request` `multi agent` 2026-11-11T03:05:21Z [feat(mewkit-next): Cursor emitter with flat hook merges](https://github.com/ngocsangyem/MeowKit/pull/31) (state=open)
+- `github_pull_request` `agent memory` 2026-11-11T03:05:18Z [Pack checks at hook points](https://github.com/seonWKim/software-factory/pull/603) (state=open)
+- `github_pull_request` `agent memory` 2026-11-11T03:04:54Z [Phase 6: neutral README, quickstart, and IR platform doc](https://github.com/cbigger/nvwabase-gk/pull/6) (state=open)
+- `github_pull_request` `LLM agent` 2026-11-11T03:04:51Z [docs: rewrite docs and comments in English and add AGENTS.md](https://github.com/book000/rss-translator-bridge/pull/53) (state=open)
+- `github_pull_request` `agent memory` 2026-11-11T03:04:47Z [Bump io.mockk:mockk from 1.14.11 to 1.14.12](https://github.com/ditdotdev/command-executor/pull/63) (state=open)
+- `github_pull_request` `agent memory` 2026-11-11T03:04:45Z [Part of #1290: reference approvals cover inherited trace spans; provider strings checked](https://github.com/reghartner/design-viz/pull/1327) (state=open)
+- `github_pull_request` `LLM agent` 2026-11-11T03:04:35Z [Web provider registry-driven menus (wave-6 row 11 absorption)](https://github.com/KeepLost/harniverse/pull/286) (state=open)
+- `github_pull_request` `multi agent` 2026-11-11T03:04:32Z [feat(agent): chart settings — watermark alignment, header colours, light/dark palette via the chart's own settings writer](https://github.com/unchartedterritory5995-cyber/UCT-Dashboard/pull/1059) (state=open)
+- `github_pull_request` `agent memory` 2026-11-11T03:04:31Z [Add owner scoped agent sheet API](https://github.com/OpenVibers/OpenVibe.Actor/pull/424) (state=open)
+- `github_pull_request` `agent memory` 2026-11-11T03:04:29Z [feat(machine): Mastra's $4 cost guard replaces the budget controller](https://github.com/toddwyder/julia-next/pull/497) (state=open)
+- `github_pull_request` `multi agent` 2026-11-11T03:04:26Z [feat(plan): widen functional index expression eligibility and diagnostics](https://github.com/matrixorigin/matrixone/pull/32510) (state=open)
+- `github_pull_request` `LLM agent` 2026-11-11T03:04:24Z [feat(agent): literal_think_tags keeps think-tag text on routes with out-of-band reasoning](https://github.com/NousResearch/hermes-agent/pull/153105) (state=open)
+- `github_pull_request` `LLM agent` 2026-11-11T03:04:22Z [Fix max_tokens update for gpt-6-astra (Responses LLM)](https://github.com/basejump-ai/basejump/pull/21) (state=open)
+- `github_pull_request` `LLM agent` 2026-11-11T03:03:45Z [feat(workflows): storage providers for workflow checkpoints and event export (experimental)](https://github.com/pailat/adk-llm-bridge/pull/106) (state=open)
+- `github_pull_request` `multi agent` 2026-11-11T03:03:09Z [test: adopt @tanstack/oracles d1b508a (owns on oracleProperty, no law.owner)](https://github.com/TanStack/db/pull/2407) (state=open)
+- `github_pull_request` `neuroscience AI` 2026-11-10T23:46:49Z [Add structured data to the remaining subpages](https://github.com/catalystneuro/catalystneuro.github.io/pull/187) (state=closed)
+- `github_pull_request` `neuroscience AI` 2026-11-10T22:58:15Z [Convert Wolverine and all supplied transformation topics into Nathan AI × DOG AI × REAPER AI](https://github.com/NathanAIoxr/Nathan-AI-Sovereign-Core/pull/181) (state=closed)
+- `github_pull_request` `neuroscience AI` 2026-11-10T22:04:01Z [Give AI in neuroscience its own page](https://github.com/catalystneuro/catalystneuro.github.io/pull/184) (state=closed)
+- `github_repository` `neuroscience AI` 2026-11-10T18:54:06Z [jaribio-lab/experiments](https://github.com/jaribio-lab/experiments) (stars=0)
+- `github_pull_request` `neuroscience AI` 2026-11-10T17:41:06Z [Load Deep Cases through an edge function Lovable can deploy](https://github.com/Maximeberkeley/marketlingo/pull/89) (state=closed)
+- `github_repository` `neuroscience AI` 2026-11-10T14:56:00Z [rgnseca/Dataset_AI_Neuroscience](https://github.com/rgnseca/Dataset_AI_Neuroscience) (stars=0)
+- `github_pull_request` `neuroscience AI` 2026-11-10T13:26:52Z [Blog: Ayahuasca ego death: what dissolving the self means](https://github.com/fincaelpendulo-lab/mexisol-world/pull/11) (state=open)
+- `github_pull_request` `neuroscience AI` 2026-11-10T12:58:57Z [Figures for Signaling and Developmental Neuroscience (105 new, 50 lessons)](https://github.com/deppmann/biochempedia/pull/218) (state=closed)
+- `arxiv` `agent_memory` 2026-11-10T12:52:13Z [Personalized Memory Rubrics: Learning What to Remember per User via Rubric-Guided Credit Assignment](http://arxiv.org/abs/2611.14017v1)
+- `arxiv` `agent_memory` 2026-11-10T12:49:24Z [Coding Agent Memory Post-Training II: Unlocking the Memory Potential of Pre-trained File Operations for Long-Horizon Tasks via On-Policy Distillation](http://arxiv.org/abs/2611.14009v1)
+- `arxiv` `llm_reasoning` 2026-11-10T12:41:02Z [Specify Privacy Yourself: Assessing Inference-Time Personalized Privacy Preservation Ability of Large Vision-Language Models](http://arxiv.org/abs/2611.13997v1)
+- `arxiv` `agent_memory` 2026-11-10T12:04:54Z [Controlled Knowledge Engineering for Taxonomy Induction with Tool-Grounded LLM Agents and Runtime-Adaptive Policies](http://arxiv.org/abs/2611.13966v1)
+- `arxiv` `brain_memory` 2026-11-10T12:02:40Z [Design of Self-Folding Origami Architectures for Biomedical Implants: A Finite Element Simulation Framework](http://arxiv.org/abs/2611.13964v1)
+- `arxiv` `agent_memory` 2026-11-10T11:33:05Z [TreeAgent: Structure-Aware Memory Agent for Processing Long Hierarchical Data](http://arxiv.org/abs/2611.13946v1)
+- `arxiv` `llm_reasoning` 2026-11-10T11:01:57Z [EVAThink: Evidence Sufficiency-Guided Training for Adaptive Thinking in Video Understanding](http://arxiv.org/abs/2611.13907v1)
+- `arxiv` `llm_reasoning` 2026-11-10T10:59:07Z [Persistent Metric-Semantic Maritime Scene Memory from Open-Vocabulary 3D Scene Graphs](http://arxiv.org/abs/2611.13903v1)
+- `github_repository` `multi agent framework` 2026-11-10T10:37:49Z [abhigyan6/tri-agent-orchestrator](https://github.com/abhigyan6/tri-agent-orchestrator) (stars=22, lang=Python)
+- `arxiv` `llm_reasoning` 2026-11-10T10:11:30Z [Taxonomy-Agnostic Neurosymbolic Grounding of Robot Kinematics](http://arxiv.org/abs/2611.13850v1)
+- `arxiv` `llm_reasoning` 2026-11-10T09:46:23Z [CASCADE: Constraint-Aware SCAffolded DEcomposition for Logical Anomaly Detection](http://arxiv.org/abs/2611.13820v1)
+- `arxiv` `agent_memory` 2026-11-10T09:15:06Z [DisasterAgent: An Evidence-Driven Agent for Verifiable Disaster Report Generation From Remote Sensing Imagery](http://arxiv.org/abs/2611.13776v1)
+- `arxiv` `agent_memory` 2026-11-10T07:43:02Z [On Private Knowledge Retrieval and Private Inference for secure multi-agent systems](http://arxiv.org/abs/2611.13696v1)
+- `arxiv` `brain_memory` 2026-11-10T07:39:13Z [Seeing Without Seeing: A Methodological Review of Visual Mental Imagery Reconstruction from Brain Activity](http://arxiv.org/abs/2611.13691v1)
+- `arxiv` `llm_agents` 2026-11-10T03:29:29Z [Mobile AI Factory: Building Specialized Language Models for Your Mobile Device](http://arxiv.org/abs/2611.13509v1)
+- `arxiv` `llm_agents` 2026-11-10T01:09:11Z [BioMem: Agentic Memory for Biomedical LLM Agents](http://arxiv.org/abs/2611.13426v1)
+- `arxiv` `llm_agents` 2026-11-10T00:47:42Z [Placing LLM Lookup Tables by Per-Layer Prefetch Deadlines](http://arxiv.org/abs/2611.13413v1)
+- `arxiv` `llm_agents` 2026-11-10T00:46:51Z [Bursts That Outlast Themselves: Persistent Degradation in Prefix-Cached Agent Serving](http://arxiv.org/abs/2611.13412v1)
+- `arxiv` `llm_agents` 2026-11-10T00:45:58Z [SteerDistill: Quantizing LLM Agents via Closed-Loop Teacher Steering](http://arxiv.org/abs/2611.13410v1)
+- `arxiv` `llm_agents` 2026-11-10T00:13:56Z [Plumbline: When the Loss Lies, Validating LLM Training Correctly](http://arxiv.org/abs/2611.13393v1)
+- `github_repository` `agent memory LLM` 2026-11-09T19:56:20Z [LucasAlvarezS/soou](https://github.com/LucasAlvarezS/soou) (stars=3, lang=Python)
+- `arxiv` `neuroscience_ai` 2026-11-09T18:59:24Z [IC-GNN: Modeling Individualized Brain Community Organization for Disease Prediction](http://arxiv.org/abs/2611.13070v1)
+- `github_repository` `LLM agent` 2026-11-09T17:18:59Z [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer) (stars=316, lang=Python)
 
 ## Boundary
 
