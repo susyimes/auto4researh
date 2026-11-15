@@ -1,6 +1,6 @@
 {
   "schema": "projection.autoresearch.v1",
-  "generated_at": "2026-11-15T08:39:02.837651+00:00",
+  "generated_at": "2026-11-15T12:53:58.302502+00:00",
   "enabled": true,
   "mode": "detect_only",
   "read_only": false,
@@ -23,153 +23,183 @@
   "items": [
     {
       "source": "github_pull_request",
-      "topic": "agent memory",
-      "title": "fix(deps): update all patch dependencies",
-      "url": "https://github.com/Urigo/accounter-fullstack/pull/4969",
+      "topic": "multi agent",
+      "title": "Add governed sessions with signed policy profiles and host-side credential relay",
+      "url": "https://github.com/mbianchidev/sendbox/pull/93",
       "state": "open",
-      "created_at": "2026-11-15T08:39:02Z",
-      "updated_at": "2026-11-15T08:39:09Z",
-      "repository_url": "https://api.github.com/repos/Urigo/accounter-fullstack"
+      "created_at": "2026-11-15T12:54:35Z",
+      "updated_at": "2026-11-15T12:54:35Z",
+      "repository_url": "https://api.github.com/repos/mbianchidev/sendbox"
     },
     {
       "source": "github_pull_request",
       "topic": "agent memory",
-      "title": "feat(sandbox,workspaces,agents): carry change events in the store write",
-      "url": "https://github.com/Francois-Esquire/foundry/pull/90",
+      "title": "fix(capture): read the field and the keyboard on a Mac over its memory line",
+      "url": "https://github.com/jo-duchan/tapflow/pull/1173",
       "state": "open",
-      "created_at": "2026-11-15T08:38:52Z",
-      "updated_at": "2026-11-15T08:38:59Z",
-      "repository_url": "https://api.github.com/repos/Francois-Esquire/foundry"
+      "created_at": "2026-11-15T12:54:30Z",
+      "updated_at": "2026-11-15T12:54:34Z",
+      "repository_url": "https://api.github.com/repos/jo-duchan/tapflow"
     },
     {
       "source": "github_pull_request",
       "topic": "agent memory",
-      "title": "feat(acp): let goose dashboard chats share one ACP process, switch off by default",
-      "url": "https://github.com/kirodotdev/KiroCrew/pull/37567",
+      "title": "Read connectors and tool.call in the Rust compiler under language 0.6, and hold every capability requirement by coverage there (0.6 RL5)",
+      "url": "https://github.com/onurkoocc/mandate/pull/102",
       "state": "open",
-      "created_at": "2026-11-15T08:38:38Z",
-      "updated_at": "2026-11-15T08:38:38Z",
-      "repository_url": "https://api.github.com/repos/kirodotdev/KiroCrew"
+      "created_at": "2026-11-15T12:54:19Z",
+      "updated_at": "2026-11-15T12:54:19Z",
+      "repository_url": "https://api.github.com/repos/onurkoocc/mandate"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "agent memory",
+      "title": "[agent: claude] Fix #1020: scrub inherited forge/context-pack env in tests",
+      "url": "https://github.com/truhojunbot-tech/agent_crew/pull/1021",
+      "state": "open",
+      "created_at": "2026-11-15T12:54:12Z",
+      "updated_at": "2026-11-15T12:54:26Z",
+      "repository_url": "https://api.github.com/repos/truhojunbot-tech/agent_crew"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "agent memory",
+      "title": "[WIP] Copilot Request",
+      "url": "https://github.com/ignatov/intellij-erlang/pull/1151",
+      "state": "open",
+      "created_at": "2026-11-15T12:54:12Z",
+      "updated_at": "2026-11-15T12:54:12Z",
+      "repository_url": "https://api.github.com/repos/ignatov/intellij-erlang"
     },
     {
       "source": "github_pull_request",
       "topic": "multi agent",
-      "title": "examples: keyless Keenable search MCP example for SAgents v2 (#334)",
-      "url": "https://github.com/ZHangZHengEric/Sage/pull/336",
+      "title": "p5-5a-actions: the fleet screen actions (plan 5a)",
+      "url": "https://github.com/alecpullen/marshal/pull/87",
       "state": "open",
-      "created_at": "2026-11-15T08:38:27Z",
-      "updated_at": "2026-11-15T08:38:27Z",
-      "repository_url": "https://api.github.com/repos/ZHangZHengEric/Sage"
+      "created_at": "2026-11-15T12:54:07Z",
+      "updated_at": "2026-11-15T12:54:16Z",
+      "repository_url": "https://api.github.com/repos/alecpullen/marshal"
     },
     {
       "source": "github_pull_request",
       "topic": "agent memory",
-      "title": "Slice 5c: Kitchen-first planning (ADR 0013)",
-      "url": "https://github.com/Ben-Arlanda/sweep/pull/20",
+      "title": "fix(wallet): stop Balance timed out with retries and scan budget",
+      "url": "https://github.com/pyaephyonaingpol-bot/eisy-myanmar-card/pull/411",
       "state": "open",
-      "created_at": "2026-11-15T08:38:21Z",
-      "updated_at": "2026-11-15T08:38:21Z",
-      "repository_url": "https://api.github.com/repos/Ben-Arlanda/sweep"
+      "created_at": "2026-11-15T12:54:05Z",
+      "updated_at": "2026-11-15T12:54:32Z",
+      "repository_url": "https://api.github.com/repos/pyaephyonaingpol-bot/eisy-myanmar-card"
     },
     {
       "source": "github_pull_request",
       "topic": "agent memory",
-      "title": "feat(search): leave agent messages out of default recall, cold after 14 days",
-      "url": "https://github.com/vicquick/nobrainr/pull/177",
+      "title": "refactor(application): read the host from HostPlatform in the remaining application modules",
+      "url": "https://github.com/morluto/rea/pull/11124",
       "state": "open",
-      "created_at": "2026-11-15T08:38:16Z",
-      "updated_at": "2026-11-15T08:38:16Z",
-      "repository_url": "https://api.github.com/repos/vicquick/nobrainr"
-    },
-    {
-      "source": "github_pull_request",
-      "topic": "agent memory",
-      "title": "gnap: consent records and a consent store trait (G6 slice 1)",
-      "url": "https://github.com/ciresnave/auth-framework/pull/475",
-      "state": "open",
-      "created_at": "2026-11-15T08:38:16Z",
-      "updated_at": "2026-11-15T08:38:32Z",
-      "repository_url": "https://api.github.com/repos/ciresnave/auth-framework"
+      "created_at": "2026-11-15T12:54:05Z",
+      "updated_at": "2026-11-15T12:54:14Z",
+      "repository_url": "https://api.github.com/repos/morluto/rea"
     },
     {
       "source": "github_pull_request",
       "topic": "LLM agent",
-      "title": "impl(update-dependencies-get-related-libs): Modernize Core Dependencies and Models (LangChain 1.4.9)",
-      "url": "https://github.com/akjamie/rag-chatbot/pull/13",
+      "title": "chore(deps): bump livekit-plugins-deepgram from 1.8.10 to 1.8.11 in /worker",
+      "url": "https://github.com/TrendMend/luna/pull/28",
       "state": "open",
-      "created_at": "2026-11-15T08:37:54Z",
-      "updated_at": "2026-11-15T08:38:03Z",
-      "repository_url": "https://api.github.com/repos/akjamie/rag-chatbot"
-    },
-    {
-      "source": "github_pull_request",
-      "topic": "LLM agent",
-      "title": "docs: adopt cloud-only GitHub operating model",
-      "url": "https://github.com/davoodmehraban89/Factor-easy/pull/203",
-      "state": "open",
-      "created_at": "2026-11-15T08:37:43Z",
-      "updated_at": "2026-11-15T08:37:43Z",
-      "repository_url": "https://api.github.com/repos/davoodmehraban89/Factor-easy"
-    },
-    {
-      "source": "github_pull_request",
-      "topic": "LLM agent",
-      "title": "Phase 59.26: typed evidence-first specialist agent workflow",
-      "url": "https://github.com/manish91082-coder/nexus-autonomous-cloud-work-engine/pull/10",
-      "state": "closed",
-      "created_at": "2026-11-15T08:37:35Z",
-      "updated_at": "2026-11-15T08:38:03Z",
-      "repository_url": "https://api.github.com/repos/manish91082-coder/nexus-autonomous-cloud-work-engine"
-    },
-    {
-      "source": "github_pull_request",
-      "topic": "LLM agent",
-      "title": "chore(backend/deps): Bump the production-dependencies group in /autogpt_platform/backend with 42 updates",
-      "url": "https://github.com/ErenYear/Ai/pull/16",
-      "state": "open",
-      "created_at": "2026-11-15T08:37:13Z",
-      "updated_at": "2026-11-15T08:37:16Z",
-      "repository_url": "https://api.github.com/repos/ErenYear/Ai"
-    },
-    {
-      "source": "github_pull_request",
-      "topic": "LLM agent",
-      "title": "simplify: drop three @texra-ai/harness entry exports with no consumer",
-      "url": "https://github.com/LionSR/TeXRA/pull/14956",
-      "state": "open",
-      "created_at": "2026-11-15T08:37:08Z",
-      "updated_at": "2026-11-15T08:38:42Z",
-      "repository_url": "https://api.github.com/repos/LionSR/TeXRA"
-    },
-    {
-      "source": "github_pull_request",
-      "topic": "LLM agent",
-      "title": "refactor: rules written per host and per renderer move to the layer that owns them",
-      "url": "https://github.com/LionSR/TeXRA/pull/14955",
-      "state": "open",
-      "created_at": "2026-11-15T08:36:55Z",
-      "updated_at": "2026-11-15T08:37:09Z",
-      "repository_url": "https://api.github.com/repos/LionSR/TeXRA"
+      "created_at": "2026-11-15T12:53:47Z",
+      "updated_at": "2026-11-15T12:53:51Z",
+      "repository_url": "https://api.github.com/repos/TrendMend/luna"
     },
     {
       "source": "github_pull_request",
       "topic": "multi agent",
-      "title": "deps: bump the python-minor-patch group with 5 updates",
-      "url": "https://github.com/ZeleMate/miniharness/pull/13",
+      "title": "deps: bump the sync group in /sync with 6 updates",
+      "url": "https://github.com/anntnzrb/agents/pull/203",
       "state": "open",
-      "created_at": "2026-11-15T08:36:08Z",
-      "updated_at": "2026-11-15T08:36:39Z",
-      "repository_url": "https://api.github.com/repos/ZeleMate/miniharness"
+      "created_at": "2026-11-15T12:53:45Z",
+      "updated_at": "2026-11-15T12:53:49Z",
+      "repository_url": "https://api.github.com/repos/anntnzrb/agents"
     },
     {
       "source": "github_pull_request",
       "topic": "multi agent",
-      "title": "feat(nar): show clickable clarifying options in chat replies",
-      "url": "https://github.com/confusedstardust/engine_skeleton/pull/98",
+      "title": "deps: bump the bun group across 2 directories with 5 updates",
+      "url": "https://github.com/anntnzrb/agents/pull/202",
       "state": "open",
-      "created_at": "2026-11-15T08:36:04Z",
-      "updated_at": "2026-11-15T08:39:14Z",
-      "repository_url": "https://api.github.com/repos/confusedstardust/engine_skeleton"
+      "created_at": "2026-11-15T12:53:37Z",
+      "updated_at": "2026-11-15T12:53:42Z",
+      "repository_url": "https://api.github.com/repos/anntnzrb/agents"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "multi agent",
+      "title": "Plugin skills: coarse search for concepts, own adaptive frequencies at band edges",
+      "url": "https://github.com/c8501024/Hertzon/pull/471",
+      "state": "open",
+      "created_at": "2026-11-15T12:53:36Z",
+      "updated_at": "2026-11-15T12:54:36Z",
+      "repository_url": "https://api.github.com/repos/c8501024/Hertzon"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "LLM agent",
+      "title": "chore(deps): bump livekit-plugins-assemblyai from 1.8.10 to 1.8.11 in /worker",
+      "url": "https://github.com/TrendMend/luna/pull/26",
+      "state": "open",
+      "created_at": "2026-11-15T12:53:30Z",
+      "updated_at": "2026-11-15T12:53:34Z",
+      "repository_url": "https://api.github.com/repos/TrendMend/luna"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "multi agent",
+      "title": "feat(quota): key quota snapshots by account and block exhausted accounts (P1.6)",
+      "url": "https://github.com/juslintek/harness/pull/2",
+      "state": "open",
+      "created_at": "2026-11-15T12:53:25Z",
+      "updated_at": "2026-11-15T12:54:19Z",
+      "repository_url": "https://api.github.com/repos/juslintek/harness"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "LLM agent",
+      "title": "Reorganise the Java packages into sub-packages (no behaviour change)",
+      "url": "https://github.com/dsailajakrishna0-ship-it/customer-compass-v3-java/pull/48",
+      "state": "open",
+      "created_at": "2026-11-15T12:52:30Z",
+      "updated_at": "2026-11-15T12:52:30Z",
+      "repository_url": "https://api.github.com/repos/dsailajakrishna0-ship-it/customer-compass-v3-java"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "LLM agent",
+      "title": "agent: build specs as go test does, retry LLM calls, prompt for stateful sequences; twelfth run",
+      "url": "https://github.com/fooexec/go2lean/pull/255",
+      "state": "open",
+      "created_at": "2026-11-15T12:51:16Z",
+      "updated_at": "2026-11-15T12:51:16Z",
+      "repository_url": "https://api.github.com/repos/fooexec/go2lean"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "LLM agent",
+      "title": "VELIA Web Guardian: security notifications in real desktop gateway",
+      "url": "https://github.com/SergeyTo95/deepalpha-bot/pull/705",
+      "state": "open",
+      "created_at": "2026-11-15T12:51:05Z",
+      "updated_at": "2026-11-15T12:53:18Z",
+      "repository_url": "https://api.github.com/repos/SergeyTo95/deepalpha-bot"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "LLM agent",
+      "title": "test(ui): wait for answers in watchParty, topBar, requests and preplay tests",
+      "url": "https://github.com/Artic0din/silo-tizen/pull/535",
+      "state": "open",
+      "created_at": "2026-11-15T12:51:03Z",
+      "updated_at": "2026-11-15T12:54:27Z",
+      "repository_url": "https://api.github.com/repos/Artic0din/silo-tizen"
     },
     {
       "source": "github_pull_request",
@@ -214,22 +244,22 @@
     {
       "source": "github_pull_request",
       "topic": "neuroscience AI",
+      "title": "Add research, benchmarks, product and agent docs to the hub",
+      "url": "https://github.com/KalarisLabs/public-docs/pull/4",
+      "state": "open",
+      "created_at": "2026-11-14T21:29:17Z",
+      "updated_at": "2026-11-15T09:26:33Z",
+      "repository_url": "https://api.github.com/repos/KalarisLabs/public-docs"
+    },
+    {
+      "source": "github_pull_request",
+      "topic": "neuroscience AI",
       "title": "Improve scientific accuracy and Markdown formatting",
       "url": "https://github.com/kdrryan/DuniaTahu/pull/6",
       "state": "closed",
       "created_at": "2026-11-14T20:31:46Z",
       "updated_at": "2026-11-14T20:33:21Z",
       "repository_url": "https://api.github.com/repos/kdrryan/DuniaTahu"
-    },
-    {
-      "source": "github_pull_request",
-      "topic": "neuroscience AI",
-      "title": "Add audited research synthesis with source construction and validation",
-      "url": "https://github.com/Hong-yiii/neuro_science/pull/32",
-      "state": "open",
-      "created_at": "2026-11-14T19:59:09Z",
-      "updated_at": "2026-11-14T21:16:00Z",
-      "repository_url": "https://api.github.com/repos/Hong-yiii/neuro_science"
     },
     {
       "source": "github_repository",
@@ -634,68 +664,18 @@
         "cs.AI"
       ],
       "summary": "Embodied agents make decisions by combining information from heterogeneous memory modules, including declarative memory for explicit knowledge, procedural memory for learned routines, and working memory for current observations. During interaction, the memory contents required for decision making change with the agent's state, goal, and task progress, while many contents remain shared across consecutive decisions...."
-    },
-    {
-      "source": "arxiv",
-      "topic": "brain_memory",
-      "title": "Vector-Space Projection and Unified Complex-Valued Acceleration for Scaling Matrix-Based Brain-Inspired Representations",
-      "url": "http://arxiv.org/abs/2611.16363v1",
-      "published_at": "2026-11-12T06:25:54Z",
-      "updated_at": "2026-11-12T06:25:54Z",
-      "authors": [
-        "William Youngwoo Chung",
-        "Hyunwoo Oh",
-        "Calvin Yeung",
-        "Hansen Jin Lillemark",
-        "Hamza Errahmouni Barkam",
-        "Mohsen Imani"
-      ],
-      "categories": [
-        "cs.AR"
-      ],
-      "summary": "Symbolic reasoning at scale requires representations that are both expressive and hardware-efficient. Hyperdimensional Computing (HDC) provides a promising brain-inspired framework, encoding concepts as high-dimensional vectors composed through efficient algebraic operations. However, the widely used Fourier Holographic Reduced Representation (FHRR) relies on commutative binding, which cannot encode order or direc..."
-    },
-    {
-      "source": "github_repository",
-      "topic": "agent memory LLM",
-      "title": "Antoine-Thomas/UH-Universal-Harness",
-      "url": "https://github.com/Antoine-Thomas/UH-Universal-Harness",
-      "description": "uh-harness (UH) — local-first, provider-agnostic agent harness for your desktop: chat, memory graph, telemetry, backups, skills. MIT. Not affiliated with the PyPI package universal-harness.",
-      "created_at": "2026-11-11T18:00:19Z",
-      "updated_at": "2026-11-14T22:57:11Z",
-      "stars": 15,
-      "language": "Python"
-    },
-    {
-      "source": "arxiv",
-      "topic": "brain_memory",
-      "title": "From Seeing to Remembering: Brain-Informed Agentic Text-to-Video Generation for Enhancing Memorability",
-      "url": "http://arxiv.org/abs/2611.15107v1",
-      "published_at": "2026-11-11T06:34:57Z",
-      "updated_at": "2026-11-11T06:34:57Z",
-      "authors": [
-        "Shengqi Dang",
-        "Yi He",
-        "Jiaying Lei",
-        "Feilin Han",
-        "Nan Cao"
-      ],
-      "categories": [
-        "cs.CV"
-      ],
-      "summary": "Generating videos that faithfully convey intended semantics while remaining memorable to viewers is valuable for applications such as advertising, education, and storytelling. However, memorability-oriented text-to-video generation remains underexplored, as human memory involves complex neural processes that are difficult to model and translate into generation guidance. In this paper, we propose MemCrafter, brain-..."
     }
   ],
   "errors": [],
   "counts": {
     "arxiv": 28,
     "github_repositories": 22,
-    "github_pull_requests": 21,
+    "github_pull_requests": 24,
     "items": 48,
     "errors": 0
   },
   "public_repo_publish": {
-    "scan_json": "scans/20261115T083902Z.json",
-    "scan_markdown": "scans/20261115T083902Z.md"
+    "scan_json": "scans/20261115T125358Z.json",
+    "scan_markdown": "scans/20261115T125358Z.md"
   }
 }

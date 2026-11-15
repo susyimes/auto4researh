@@ -1,34 +1,37 @@
 # Auto4researh Frontier Scan
 
-- Generated: `2026-11-15T08:39:02.837651+00:00`
+- Generated: `2026-11-15T12:53:58.302502+00:00`
 - Mode: `detect_only`
 - Cadence hours: `4`
 - Since days: `7`
-- Counts: arxiv=28, github_repositories=22, github_pull_requests=21, items=48, errors=0
+- Counts: arxiv=28, github_repositories=22, github_pull_requests=24, items=48, errors=0
 
 ## Top Items
 
-- `github_pull_request` `agent memory` 2026-11-15T08:39:02Z [fix(deps): update all patch dependencies](https://github.com/Urigo/accounter-fullstack/pull/4969) (state=open)
-- `github_pull_request` `agent memory` 2026-11-15T08:38:52Z [feat(sandbox,workspaces,agents): carry change events in the store write](https://github.com/Francois-Esquire/foundry/pull/90) (state=open)
-- `github_pull_request` `agent memory` 2026-11-15T08:38:38Z [feat(acp): let goose dashboard chats share one ACP process, switch off by default](https://github.com/kirodotdev/KiroCrew/pull/37567) (state=open)
-- `github_pull_request` `multi agent` 2026-11-15T08:38:27Z [examples: keyless Keenable search MCP example for SAgents v2 (#334)](https://github.com/ZHangZHengEric/Sage/pull/336) (state=open)
-- `github_pull_request` `agent memory` 2026-11-15T08:38:21Z [Slice 5c: Kitchen-first planning (ADR 0013)](https://github.com/Ben-Arlanda/sweep/pull/20) (state=open)
-- `github_pull_request` `agent memory` 2026-11-15T08:38:16Z [feat(search): leave agent messages out of default recall, cold after 14 days](https://github.com/vicquick/nobrainr/pull/177) (state=open)
-- `github_pull_request` `agent memory` 2026-11-15T08:38:16Z [gnap: consent records and a consent store trait (G6 slice 1)](https://github.com/ciresnave/auth-framework/pull/475) (state=open)
-- `github_pull_request` `LLM agent` 2026-11-15T08:37:54Z [impl(update-dependencies-get-related-libs): Modernize Core Dependencies and Models (LangChain 1.4.9)](https://github.com/akjamie/rag-chatbot/pull/13) (state=open)
-- `github_pull_request` `LLM agent` 2026-11-15T08:37:43Z [docs: adopt cloud-only GitHub operating model](https://github.com/davoodmehraban89/Factor-easy/pull/203) (state=open)
-- `github_pull_request` `LLM agent` 2026-11-15T08:37:35Z [Phase 59.26: typed evidence-first specialist agent workflow](https://github.com/manish91082-coder/nexus-autonomous-cloud-work-engine/pull/10) (state=closed)
-- `github_pull_request` `LLM agent` 2026-11-15T08:37:13Z [chore(backend/deps): Bump the production-dependencies group in /autogpt_platform/backend with 42 updates](https://github.com/ErenYear/Ai/pull/16) (state=open)
-- `github_pull_request` `LLM agent` 2026-11-15T08:37:08Z [simplify: drop three @texra-ai/harness entry exports with no consumer](https://github.com/LionSR/TeXRA/pull/14956) (state=open)
-- `github_pull_request` `LLM agent` 2026-11-15T08:36:55Z [refactor: rules written per host and per renderer move to the layer that owns them](https://github.com/LionSR/TeXRA/pull/14955) (state=open)
-- `github_pull_request` `multi agent` 2026-11-15T08:36:08Z [deps: bump the python-minor-patch group with 5 updates](https://github.com/ZeleMate/miniharness/pull/13) (state=open)
-- `github_pull_request` `multi agent` 2026-11-15T08:36:04Z [feat(nar): show clickable clarifying options in chat replies](https://github.com/confusedstardust/engine_skeleton/pull/98) (state=open)
+- `github_pull_request` `multi agent` 2026-11-15T12:54:35Z [Add governed sessions with signed policy profiles and host-side credential relay](https://github.com/mbianchidev/sendbox/pull/93) (state=open)
+- `github_pull_request` `agent memory` 2026-11-15T12:54:30Z [fix(capture): read the field and the keyboard on a Mac over its memory line](https://github.com/jo-duchan/tapflow/pull/1173) (state=open)
+- `github_pull_request` `agent memory` 2026-11-15T12:54:19Z [Read connectors and tool.call in the Rust compiler under language 0.6, and hold every capability requirement by coverage there (0.6 RL5)](https://github.com/onurkoocc/mandate/pull/102) (state=open)
+- `github_pull_request` `agent memory` 2026-11-15T12:54:12Z [[agent: claude] Fix #1020: scrub inherited forge/context-pack env in tests](https://github.com/truhojunbot-tech/agent_crew/pull/1021) (state=open)
+- `github_pull_request` `agent memory` 2026-11-15T12:54:12Z [[WIP] Copilot Request](https://github.com/ignatov/intellij-erlang/pull/1151) (state=open)
+- `github_pull_request` `multi agent` 2026-11-15T12:54:07Z [p5-5a-actions: the fleet screen actions (plan 5a)](https://github.com/alecpullen/marshal/pull/87) (state=open)
+- `github_pull_request` `agent memory` 2026-11-15T12:54:05Z [fix(wallet): stop Balance timed out with retries and scan budget](https://github.com/pyaephyonaingpol-bot/eisy-myanmar-card/pull/411) (state=open)
+- `github_pull_request` `agent memory` 2026-11-15T12:54:05Z [refactor(application): read the host from HostPlatform in the remaining application modules](https://github.com/morluto/rea/pull/11124) (state=open)
+- `github_pull_request` `LLM agent` 2026-11-15T12:53:47Z [chore(deps): bump livekit-plugins-deepgram from 1.8.10 to 1.8.11 in /worker](https://github.com/TrendMend/luna/pull/28) (state=open)
+- `github_pull_request` `multi agent` 2026-11-15T12:53:45Z [deps: bump the sync group in /sync with 6 updates](https://github.com/anntnzrb/agents/pull/203) (state=open)
+- `github_pull_request` `multi agent` 2026-11-15T12:53:37Z [deps: bump the bun group across 2 directories with 5 updates](https://github.com/anntnzrb/agents/pull/202) (state=open)
+- `github_pull_request` `multi agent` 2026-11-15T12:53:36Z [Plugin skills: coarse search for concepts, own adaptive frequencies at band edges](https://github.com/c8501024/Hertzon/pull/471) (state=open)
+- `github_pull_request` `LLM agent` 2026-11-15T12:53:30Z [chore(deps): bump livekit-plugins-assemblyai from 1.8.10 to 1.8.11 in /worker](https://github.com/TrendMend/luna/pull/26) (state=open)
+- `github_pull_request` `multi agent` 2026-11-15T12:53:25Z [feat(quota): key quota snapshots by account and block exhausted accounts (P1.6)](https://github.com/juslintek/harness/pull/2) (state=open)
+- `github_pull_request` `LLM agent` 2026-11-15T12:52:30Z [Reorganise the Java packages into sub-packages (no behaviour change)](https://github.com/dsailajakrishna0-ship-it/customer-compass-v3-java/pull/48) (state=open)
+- `github_pull_request` `LLM agent` 2026-11-15T12:51:16Z [agent: build specs as go test does, retry LLM calls, prompt for stateful sequences; twelfth run](https://github.com/fooexec/go2lean/pull/255) (state=open)
+- `github_pull_request` `LLM agent` 2026-11-15T12:51:05Z [VELIA Web Guardian: security notifications in real desktop gateway](https://github.com/SergeyTo95/deepalpha-bot/pull/705) (state=open)
+- `github_pull_request` `LLM agent` 2026-11-15T12:51:03Z [test(ui): wait for answers in watchParty, topBar, requests and preplay tests](https://github.com/Artic0din/silo-tizen/pull/535) (state=open)
 - `github_pull_request` `neuroscience AI` 2026-11-15T03:52:31Z [Add the verification checker and accuracy report](https://github.com/PolukSharma/scheme/pull/26) (state=open)
 - `github_pull_request` `neuroscience AI` 2026-11-15T03:43:53Z [Add 2026-2027 Tier 1 requirement trees and courses](https://github.com/PolukSharma/scheme/pull/6) (state=open)
 - `github_pull_request` `neuroscience AI` 2026-11-14T22:45:53Z [Match the peptides4uresearch.com range exactly (11 peptides, 13 products)](https://github.com/nasfiskashem/Deimos-Labs/pull/3) (state=closed)
 - `github_pull_request` `neuroscience AI` 2026-11-14T21:48:45Z [ComedyAtlas v0.2: local Observation Studio and evidence-aware humor signatures](https://github.com/MichaelWave369/ComedyAtlas/pull/2) (state=closed)
+- `github_pull_request` `neuroscience AI` 2026-11-14T21:29:17Z [Add research, benchmarks, product and agent docs to the hub](https://github.com/KalarisLabs/public-docs/pull/4) (state=open)
 - `github_pull_request` `neuroscience AI` 2026-11-14T20:31:46Z [Improve scientific accuracy and Markdown formatting](https://github.com/kdrryan/DuniaTahu/pull/6) (state=closed)
-- `github_pull_request` `neuroscience AI` 2026-11-14T19:59:09Z [Add audited research synthesis with source construction and validation](https://github.com/Hong-yiii/neuro_science/pull/32) (state=open)
 - `github_repository` `LLM agent` 2026-11-14T19:25:17Z [tornadonovicewhirl40/ai--manus2.0](https://github.com/tornadonovicewhirl40/ai--manus2.0) (stars=659)
 - `github_repository` `LLM agent` 2026-11-14T19:15:25Z [toppatronweave/ai--manus2.0](https://github.com/toppatronweave/ai--manus2.0) (stars=665)
 - `github_repository` `LLM agent` 2026-11-14T19:15:24Z [Topkiflare74/ai--manus2.0](https://github.com/Topkiflare74/ai--manus2.0) (stars=678)
@@ -53,9 +56,6 @@
 - `github_repository` `neuroscience AI` 2026-11-12T11:31:26Z [gaffercode/gaffercode](https://github.com/gaffercode/gaffercode) (stars=1)
 - `arxiv` `agent_memory` 2026-11-12T10:23:15Z [AstroMemBench: A Benchmark for Memory Systems in Embodied Spacecraft Agents](http://arxiv.org/abs/2611.16590v1)
 - `arxiv` `agent_memory` 2026-11-12T08:58:20Z [HeMeR: Heterogeneous Memory Reconciliation for Embodied Agents via Structured KV Reuse](http://arxiv.org/abs/2611.16487v1)
-- `arxiv` `brain_memory` 2026-11-12T06:25:54Z [Vector-Space Projection and Unified Complex-Valued Acceleration for Scaling Matrix-Based Brain-Inspired Representations](http://arxiv.org/abs/2611.16363v1)
-- `github_repository` `agent memory LLM` 2026-11-11T18:00:19Z [Antoine-Thomas/UH-Universal-Harness](https://github.com/Antoine-Thomas/UH-Universal-Harness) (stars=15, lang=Python)
-- `arxiv` `brain_memory` 2026-11-11T06:34:57Z [From Seeing to Remembering: Brain-Informed Agentic Text-to-Video Generation for Enhancing Memorability](http://arxiv.org/abs/2611.15107v1)
 
 ## Boundary
 
